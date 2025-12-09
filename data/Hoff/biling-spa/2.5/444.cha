@@ -1,0 +1,2255 @@
+@UTF8
+@PID:	11312/a-00060089-1
+@Begin
+@Languages:	spa, eng, hun
+@Participants:	CHI Target_Child, MOT Mother
+@ID:	spa|Hoff|CHI|2;06.|male|||Target_Child|||
+@ID:	spa|Hoff|MOT|||||Mother|||
+@Media:	444, video
+@Date:	18-AUG-2012
+@Situation:	Animal toys
+@Transcriber:	EA (GSU) WC
+@Time Duration:	00:00-15:07
+@Types:	cross, toyplay, biling
+*CHI:	[- eng] shark !
+%mor:	noun|shark !
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	examiner introduces video before and during utterance .
+*MOT:	Blake xxx el delfin . 7460_8241
+%mor:	propn|blake det|el-Masc-Def-Art-Sing propn|delfin .
+%gra:	1|3|ROOT 2|3|DET 3|1|FLAT 4|1|PUNCT
+%wor:	Blake 7460_7600 el 7640_7680 delfin 7741_8241 .
+*CHI:	+< [- eng] shark .
+%mor:	noun|shark .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no . 8804_9304
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 8804_9304 .
+*MOT:	es un delfin . 8945_9706
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|delfin-Masc .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	es 8945_9045 un 9085_9166 delfin 9206_9706 .
+*MOT:	no es un tiburon . 10009_10910
+%mor:	adv|no aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|tiburón-Masc .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	no 10009_10069 es 10129_10229 un 10270_10350 tiburon 10410_10910 .
+*MOT:	un delfin . 11032_11633
+%mor:	det|uno-Masc-Ind-Art-Sing noun|delfin-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 11032_11092 delfin 11133_11633 .
+*CHI:	no . 12819_13319
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 12819_13319 .
+*MOT:	que donde quieres poner el arbol ? 14300_16162
+%mor:	sconj|que adv|donde verb|querer-Fin-Ind-Pres-S1 verb|poner-Inf-S det|el-Masc-Def-Art-Sing noun|arbol-Masc-Acc ?
+%gra:	1|3|MARK 2|3|ADVMOD 3|6|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+%wor:	que 14300_14400 donde 14480_14740 quieres 14820_15081 poner 15141_15421 el 15481_15581 arbol 15662_16162 ?
+*CHI:	toma el arbol Blake . 17584_18865
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|arbol-Masc-Acc propn|blake .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|3|APPOS 5|1|PUNCT
+%wor:	toma 17584_17784 el 17804_17925 arbol 17985_18305 Blake 18365_18865 .
+*MOT:	donde quieres poner el arbolito ? 20849_22410
+%mor:	adv|donde verb|querer-Fin-Ind-Pres-S1 verb|poner-Inf-S det|el-Masc-Def-Art-Sing noun|arbolito-Masc-Acc ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+%wor:	donde 20849_21069 quieres 21149_21409 poner 21449_21730 el 21770_21850 arbolito 21910_22410 ?
+*MOT:	que lindo . 22551_23231
+%mor:	sconj|que adj|lindo-S1 .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+%wor:	que 22551_22631 lindo 22731_23231 .
+*MOT:	mira las hojas del arbolito . 23772_25534
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Plur noun|hoja-Fem-Plur-Acc adp|del noun|arbolito-Masc .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|3|NMOD 6|1|PUNCT
+%wor:	mira 23772_23993 las 24073_24293 hojas 24333_24774 del 24834_24994 arbolito 25034_25534 .
+*MOT:	toma el arbol . 26636_27477
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|arbol-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 26636_26817 el 26817_26917 arbol 26977_27477 .
+*MOT:	vas a poner el arbol aqui . 28459_29459
+%mor:	verb|ir-Fin-Ind-Pres-S adp|a verb|poner-Inf-S det|el-Masc-Def-Art-Sing noun|arbol-Masc-Acc x|aquí .
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|5|AMOD 7|1|PUNCT
+%wor:	vas 28459_28519 a 28519_28539 poner 28539_28659 el 28659_28699 arbol 28699_28959 aqui 28959_29459 .
+*MOT:	mira Blake . 31650_32511
+%mor:	verb|mirar-Fin-Ind-Pres-S3 propn|blake .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	mira 31650_31931 Blake 32011_32511 .
+*MOT:	un camello . 32352_33032
+%mor:	det|uno-Masc-Ind-Art-Sing noun|camello-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 32352_32452 camello 32532_33032 .
+*CHI:	camello ? 33675_34175
+%mor:	noun|camello-Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	camello 33675_34175 ?
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	un camello +/. 35078_35759
+%mor:	det|uno-Masc-Ind-Art-Sing noun|camello-Masc +/.
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 35078_35199 camello 35259_35759 +/.
+*CHI:	[- eng] mine .
+%mor:	x|mine .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] this is shark .
+%mor:	pron|this-Dem-S1 aux|be-Fin-Ind-Pres-S3 noun|shark .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*MOT:	Blakey .
+%mor:	propn|Blakey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] mine .
+%mor:	x|mine .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	+< woah .
+%mor:	intj|woah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Blake . 47070_47570
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Blake 47070_47570 .
+*MOT:	un delfin . 48812_49472
+%mor:	det|uno-Masc-Ind-Art-Sing noun|delfin-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 48812_48912 delfin 48972_49472 .
+*MOT:	que lindo . 50053_50933
+%mor:	sconj|que adj|lindo-S1 .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+%wor:	que 50053_50173 lindo 50433_50933 .
+*CHI:	[- eng] xxx in water .
+%mor:	adp|in noun|water .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	y una araña . 52836_53757
+%mor:	cconj|y det|uno-Fem-Ind-Art-Sing noun|araña-Fem .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	y 52836_52856 una 52936_53176 araña 53257_53757 .
+*MOT:	Blake una araña . 55159_56139
+%mor:	propn|blake det|uno-Fem-Ind-Art-Sing noun|araña-Fem .
+%gra:	1|3|NSUBJ 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	Blake 55159_55359 una 55379_55579 araña 55639_56139 .
+*CHI:	[- eng] this goes in water .
+%mor:	pron|this-Dem-S1 verb|go-Fin-Ind-Pres-S3 adp|in noun|water .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|CASE 4|2|OBL 5|2|PUNCT
+*MOT:	Blake un elefante . 62880_63520
+%mor:	propn|blake det|uno-Masc-Ind-Art-Sing noun|elefante-Masc .
+%gra:	1|3|NSUBJ 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	Blake 62880_62980 un 62980_63020 elefante 63020_63520 .
+*MOT:	elefante . 66004_66504
+%mor:	noun|elefante-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	elefante 66004_66504 .
+*MOT:	rinoceronte . 69610_70110
+%mor:	noun|rinoceronte-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rinoceronte 69610_70110 .
+*MOT:	rinoceronte . 72193_72693
+%mor:	noun|rinoceronte-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	rinoceronte 72193_72693 .
+*MOT:	toma .
+%mor:	verb|tomar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma el rinoceronte . 75118_75938
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|rinoceronte-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 75118_75298 el 75298_75398 rinoceronte 75438_75938 .
+*MOT:	el rinoceronte quiere jugar con el camello . 77760_80223
+%mor:	det|el-Masc-Def-Art-Sing noun|rinoceronte-Masc verb|querer-Fin-Ind-Pres-S3 verb|jugar-Inf-S adp|con det|el-Masc-Def-Art-Sing noun|camello-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	el 77760_77840 rinoceronte 77880_78661 quiere 78741_78962 jugar 79022_79322 con 79382_79523 el 79563_79643 camello 79723_80223 .
+*MOT:	y toma Blake . 81786_82767
+%mor:	cconj|y verb|tomar-Fin-Ind-Pres-S3 propn|blake .
+%gra:	1|2|CC 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	y 81786_81806 toma 81886_82167 Blake 82267_82767 .
+*MOT:	este es un armadillo . 83128_84069
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|armadillo-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	este 83128_83308 es 83328_83388 un 83428_83509 armadillo 83569_84069 .
+*CHI:	[- eng] mine .
+%mor:	x|mine .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma el armadillo . 84871_87153
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|armadillo-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 84871_85111 el 85311_85472 armadillo 86653_87153 .
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	uh !
+%mor:	intj|uh !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	el armadillo va [=! play noise] . 89938_91119
+%mor:	det|el-Masc-Def-Art-Sing noun|armadillo-Masc verb|ir-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	el 89938_90039 armadillo 90099_90559 va 90619_91119 .
+*MOT:	tocar tu nariz . 92210_93250
+%mor:	verb|tocar-Inf-S det|tu-Def-Prs-Sing-S noun|nariz-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	tocar 92210_92550 tu 92590_92690 nariz 92750_93250 .
+*MOT:	tome el armadillo . 93110_93951
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|armadillo-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	tome 93110_93330 el 93350_93411 armadillo 93451_93951 .
+*MOT:	y mira la cola del armadillo . 93991_95672
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|cola-Fem-Acc adp|del noun|armadillo-Masc .
+%gra:	1|2|CC 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+%wor:	y 93991_94011 mira 94071_94291 la 94351_94451 cola 94571_94892 del 94952_95112 armadillo 95172_95672 .
+*CHI:	xxx .
+*MOT:	y el es gris . 96893_97733
+%mor:	cconj|y det|el-Masc-Def-Art-Sing aux|ser-Fin-Ind-Pres-S3 adj|gris-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	y 96893_96913 el 96913_97013 es 97073_97153 gris 97233_97733 .
+%com:	gasps .
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	un toro .
+%mor:	det|uno-Masc-Ind-Art-Sing noun|toro-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	un toro . 101857_102597
+%mor:	det|uno-Masc-Ind-Art-Sing noun|toro-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 101857_101977 toro 102097_102597 .
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	el toro es muy fuerte . 104659_105919
+%mor:	det|el-Masc-Def-Art-Sing noun|toro-Masc aux|ser-Fin-Ind-Pres-S3 adv|mucho adj|fuerte-S1 .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|5|ROOT 6|5|PUNCT
+%wor:	el 104659_104739 toro 104819_105039 es 105079_105139 muy 105179_105319 fuerte 105419_105919 .
+*MOT:	toro .
+%mor:	noun|toro-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< toro . 106930_107430
+%mor:	noun|toro-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toro 106930_107430 .
+*CHI:	toro . 108031_108531
+%mor:	noun|toro-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toro 108031_108531 .
+*MOT:	el toro quiere jugar en la bicicleta . 109253_111094
+%mor:	det|el-Masc-Def-Art-Sing noun|toro-Masc verb|querer-Fin-Ind-Pres-S3 verb|jugar-Inf-S adp|en det|el-Fem-Def-Art-Sing noun|bicicleta-Fem .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	el 109253_109353 toro 109413_109653 quiere 109733_109953 jugar 110014_110334 en 110374_110434 la 110454_110534 bicicleta 110594_111094 .
+*MOT:	toma . 111475_111975
+%mor:	verb|tomar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toma 111475_111975 .
+*MOT:	el toro quiere jugar en la bicicleta . 112937_114599
+%mor:	det|el-Masc-Def-Art-Sing noun|toro-Masc verb|querer-Fin-Ind-Pres-S3 verb|jugar-Inf-S adp|en det|el-Fem-Def-Art-Sing noun|bicicleta-Fem .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|3|XCOMP 5|7|CASE 6|7|DET 7|4|OBL 8|3|PUNCT
+%wor:	el 112937_113017 toro 113077_113278 quiere 113358_113538 jugar 113578_113838 en 113858_113959 la 113959_114019 bicicleta 114099_114599 .
+*CHI:	xxx .
+%com:	unintelligible number of words spoken .
+*MOT:	y Blake creo que este es un ganso . 122580_124862
+%mor:	cconj|y propn|blake verb|creer-Fin-Ind-Pres-S1 sconj|que pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|ganso-Masc .
+%gra:	1|3|CC 2|3|NSUBJ 3|8|ROOT 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|DET 8|3|CCOMP 9|3|PUNCT
+%wor:	y 122580_122600 Blake 122680_123060 creo 123241_123481 que 123561_123641 este 123721_123982 es 124022_124102 un 124162_124282 ganso 124362_124862 .
+*MOT:	toma el ganso . 125884_126745
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|ganso-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 125884_126085 el 126125_126205 ganso 126245_126745 .
+*MOT:	el ganso quiere montar la bici(cleta) . 127987_129849
+%mor:	det|el-Masc-Def-Art-Sing noun|ganso-Masc verb|querer-Fin-Ind-Pres-S3 verb|montar-Inf-S det|el-Fem-Def-Art-Sing noun|bicicleta-Fem-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+%wor:	el 127987_128087 ganso 128127_128468 quiere 128548_128788 montar 128828_129189 la 129229_129309 bici(cleta) 129349_129849 .
+*MOT:	es el turno del ganso . 131592_132873
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|turno-Masc adp|del noun|ganso-Masc .
+%gra:	1|3|COP 2|3|DET 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	es 131592_131692 el 131712_131812 turno 131853_132133 del 132173_132333 ganso 132373_132873 .
+*MOT:	toma . 132914_133414
+%mor:	verb|tomar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toma 132914_133414 .
+*MOT:	uhoh .
+%mor:	x|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	te va a morder el ganso . 135838_137119
+%mor:	pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S3 adp|a verb|morder-Inf-S det|el-Masc-Def-Art-Sing noun|ganso-Masc-Acc .
+%gra:	1|2|EXPL-PV 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%wor:	te 135838_135918 va 135978_136038 a 136058_136078 morder 136098_136439 el 136499_136579 ganso 136619_137119 .
+*MOT:	te va a morder el ganso . 138100_139361
+%mor:	pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S3 adp|a verb|morder-Inf-S det|el-Masc-Def-Art-Sing noun|ganso-Masc-Acc .
+%gra:	1|2|EXPL-PV 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%wor:	te 138100_138180 va 138220_138280 a 138340_138360 morder 138360_138701 el 138721_138821 ganso 138861_139361 .
+*CHI:	+< xxx .
+*MOT:	toma el ganso . 139843_140663
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|ganso-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 139843_140043 el 140043_140123 ganso 140163_140663 .
+*MOT:	oh Blake . 144750_145590
+%mor:	intj|oh propn|Blake .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+%wor:	oh 144750_145090 Blake 145090_145590 .
+*MOT:	un lobo . 145611_146332
+%mor:	det|uno-Masc-Ind-Art-Sing noun|lobo-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 145611_145751 lobo 145832_146332 .
+*MOT:	y el lobo quiere ir en el tren . 147334_149136
+%mor:	cconj|y det|el-Masc-Def-Art-Sing noun|lobo-Masc verb|querer-Fin-Ind-Pres-S3 verb|ir-Inf-S adp|en det|el-Masc-Def-Art-Sing noun|tren-Masc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|8|ROOT 5|4|XCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|4|PUNCT
+%wor:	y 147334_147354 el 147394_147514 lobo 147534_147734 quiere 147855_148115 ir 148175_148255 en 148295_148395 el 148456_148556 tren 148636_149136 .
+*MOT:	ese es un lobo . 150238_151259
+%mor:	pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|lobo-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	ese 150238_150419 es 150439_150559 un 150599_150719 lobo 150759_151259 .
+*CHI:	xxx .
+*CHI:	[- eng] mine .
+%mor:	x|mine .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y una ballena . 157100_158001
+%mor:	cconj|y det|uno-Fem-Ind-Art-Sing noun|ballena-Fem .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	y 157100_157120 una 157220_157420 ballena 157501_158001 .
+*CHI:	xxx .
+*MOT:	una ballena . 162350_163111
+%mor:	det|uno-Fem-Ind-Art-Sing noun|ballena-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 162350_162531 ballena 162611_163111 .
+*MOT:	<eso es> [//] una ballena es mas grande que un delfin . 164755_167179
+%mor:	det|uno-Fem-Ind-Art-Sing noun|ballena-Fem aux|ser-Fin-Ind-Pres-S3 adv|más adj|grande-S1 sconj|que det|uno-Masc-Ind-Art-Sing noun|delfin-Masc .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|ADVMOD 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+%wor:	eso 164755_164936 es 165256_165296 una 165316_165477 ballena 165537_165898 es 165938_165998 mas 166058_166218 grande 166278_166579 que 166579_166639 un 166639_166679 delfin 166679_167179 .
+*MOT:	ves &=points ?
+%mor:	verb|ver-Fin-Ind-Pres-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+%com:	more than two unintelligible words spoken .
+*MOT:	uhoh ouch .
+%mor:	intj|uhoh intj|ouch .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	un cactus . 177240_177900
+%mor:	det|uno-Masc-Ind-Art-Sing noun|cactus-Masc-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 177240_177340 cactus 177400_177900 .
+*MOT:	ouch .
+%mor:	intj|ouch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	eh ouch .
+%mor:	x|eh propn|ouch .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	ouch .
+%mor:	intj|ouch .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< xxx .
+*MOT:	eso duele .
+%mor:	pron|ese-Dem-S1 verb|doler-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	eso duele ? 180384_181205
+%mor:	pron|ese-Dem-S1 verb|doler-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	eso 180384_180625 duele 180705_181205 ?
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	hay que tener cuidado con el cactus . 181987_185691
+%mor:	verb|haber-Fin-Ind-Pres-S3 sconj|que verb|tener-Inf-S noun|cuidado-Masc-Acc adp|con det|el-Masc-Def-Art-Sing noun|cactus-Masc .
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+%wor:	hay 181987_183589 que 183629_183729 tener 183789_184070 cuidado 184130_184711 con 184851_184991 el 185031_185131 cactus 185191_185691 .
+*MOT:	mira . 187595_188095
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 187595_188095 .
+*MOT:	hay un arbol . 187835_188716
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|arbol-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	hay 187835_187955 un 188016_188116 arbol 188216_188716 .
+*MOT:	y hay un cactus . 188797_189737
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|cactus-Masc-Acc .
+%gra:	1|2|CC 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	y 188797_188817 hay 188877_189037 un 189097_189177 cactus 189237_189737 .
+*MOT:	hay que tener mucho cuidado . 189678_191079
+%mor:	verb|haber-Fin-Ind-Pres-S3 sconj|que verb|tener-Inf-S det|mucho-Masc-Def-Ind-Sing noun|cuidado-Masc-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%wor:	hay 189678_189798 que 189838_189918 tener 189998_190259 mucho 190299_190559 cuidado 190579_191079 .
+*MOT:	Blake y este es un escorpion . 196680_197981
+%mor:	propn|blake cconj|y pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|escorpión-Masc .
+%gra:	1|6|NSUBJ 2|3|CC 3|1|CONJ 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	Blake 196680_196820 y 196820_196840 este 196880_197080 es 197120_197160 un 197220_197341 escorpion 197481_197981 .
+*MOT:	y los escorpiones pican [=! pinch noise] . 199925_202268
+%mor:	cconj|y det|el-Masc-Def-Art-Plur noun|escorpión-Masc-Plur verb|picar-Fin-Ind-Pres-P3 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	y 199925_199945 los 199985_200185 escorpiones 200946_201687 pican 201768_202268 .
+%com:	begins to say a word before escorpiones .
+*CHI:	ah .
+%mor:	x|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	los escorpiones pican . 205774_207255
+%mor:	det|el-Masc-Def-Art-Plur noun|escorpión-Masc-Plur verb|picar-Fin-Ind-Pres-P3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	los 205774_205894 escorpiones 205954_206675 pican 206755_207255 .
+*CHI:	+< ah !
+%mor:	x|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y mira la cola del escorpion . 208338_209659
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|cola-Fem-Acc adp|del noun|escorpión-Masc .
+%gra:	1|2|CC 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+%wor:	y 208338_208358 mira 208438_208658 la 208739_208839 cola 208959_209099 del 209099_209159 escorpion 209159_209659 .
+*MOT:	estas bien Blakey ? 212080_213020
+%mor:	det|este-Fem-Def-Dem-Plur adv|bien propn|blakey ?
+%gra:	1|3|DET 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	estas 212080_212240 bien 212260_212500 Blakey 212520_213020 ?
+*MOT:	Blake toma el escorpion . 212901_214863
+%mor:	propn|blake verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|escorpión-Masc-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	Blake 212901_213842 toma 213982_214203 el 214203_214303 escorpion 214363_214863 .
+*CHI:	+< xxx .
+%com:	unintelligible number of words spoken .
+*MOT:	Blake toma el escorpion . 216907_217988
+%mor:	propn|blake verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|escorpión-Masc-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	Blake 216907_217127 toma 217147_217368 el 217388_217448 escorpion 217488_217988 .
+*CHI:	0 [=! takes toy] .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	una serpiente . 224278_225079
+%mor:	det|uno-Fem-Ind-Art-Sing noun|serpiente-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 224278_224439 serpiente 224579_225079 .
+%com:	gasps before utterance .
+*CHI:	otro xxx .
+%mor:	pron|otro-Ind-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	0 [=! hisses] .
+*MOT:	y la serpiente +... 230960_231760
+%mor:	cconj|y det|el-Fem-Def-Art-Sing noun|serpiente-Fem +...
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	y 230960_230980 la 231060_231140 serpiente 231260_231760 +...
+*MOT:	nada en el rio . 233184_234485
+%mor:	pron|nada-Neg-S1 adp|en det|el-Masc-Def-Art-Sing noun|río-Masc .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	nada 233184_233565 en 233625_233705 el 233765_233845 rio 233985_234485 .
+*CHI:	ah . 235428_235928
+%mor:	x|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ah 235428_235928 .
+*MOT:	y adonde esta la lengua de la serpiente ? 236290_238172
+%mor:	cconj|y sconj|adonde det|este-Fem-Def-Dem-Sing det|el-Fem-Def-Art-Sing noun|lengua-Fem adp|de det|el-Fem-Def-Art-Sing noun|serpiente-Fem ?
+%gra:	1|5|CC 2|5|MARK 3|5|DET 4|5|DET 5|8|ROOT 6|8|CASE 7|8|DET 8|5|NMOD 9|5|PUNCT
+%wor:	y 236290_236310 adonde 236330_236570 esta 236630_236791 la 236871_236951 lengua 237031_237291 de 237352_237432 la 237492_237572 serpiente 237672_238172 ?
+*MOT:	mira tu ves la lengua de la serpiente ? 239956_241819
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S verb|ver-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Sing noun|lengua-Fem-Acc adp|de det|el-Fem-Def-Art-Sing noun|serpiente-Fem ?
+%gra:	1|8|ROOT 2|5|DET 3|1|CCOMP 4|5|DET 5|3|OBJ 6|8|CASE 7|8|DET 8|5|NMOD 9|1|PUNCT
+%wor:	mira 239956_240177 tu 240257_240317 ves 240377_240517 la 240557_240638 lengua 240698_240958 de 241018_241078 la 241139_241219 serpiente 241319_241819 ?
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y que es esto Blake ? 247480_248761
+%mor:	cconj|y pron|que-Rel-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 propn|blake ?
+%gra:	1|5|CC 2|5|MARK 3|5|COP 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+%wor:	y 247480_247500 que 247580_247680 es 247760_247840 esto 247900_248201 Blake 248261_248761 ?
+*MOT:	mira que lindo . 249903_250964
+%mor:	verb|mirar-Fin-Ind-Pres-S3 sconj|que adj|lindo-S1 .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	mira 249903_250184 que 250284_250364 lindo 250464_250964 .
+*MOT:	que es ?
+%mor:	pron|que-Rel-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	que es Blake ? 251485_252486
+%mor:	pron|que-Rel-S1 aux|ser-Fin-Ind-Pres-S3 propn|blake ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	que 251485_251606 es 251746_251946 Blake 251986_252486 ?
+*MOT:	va comer tu cuello . 254650_259135
+%mor:	verb|ir-Fin-Ind-Pres-S3 verb|comer-Inf-S det|tu-Def-Prs-Sing-S noun|cuello-Masc-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	va 254650_254730 comer 254870_258315 tu 258455_258535 cuello 258635_259135 .
+*MOT:	uhoh .
+%mor:	x|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	va comer tu cuello . 260678_261879
+%mor:	verb|ir-Fin-Ind-Pres-S3 verb|comer-Inf-S det|tu-Def-Prs-Sing-S noun|cuello-Masc-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	va 260678_260758 comer 260879_261199 tu 261279_261359 cuello 261379_261879 .
+*MOT:	la jirafa va comer tu cuello . 262940_264802
+%mor:	det|el-Fem-Def-Art-Sing noun|jirafa-Fem verb|ir-Fin-Ind-Pres-S3 verb|comer-Inf-S det|tu-Def-Prs-Sing-S noun|cuello-Masc-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+%wor:	la 262940_263020 jirafa 263100_263501 va 263561_263641 comer 263761_264061 tu 264122_264202 cuello 264302_264802 .
+%com:	child giggles .
+*MOT:	toma la jirafa . 264963_265903
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|jirafa-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 264963_265203 la 265263_265343 jirafa 265403_265903 .
+*CHI:	0 [=! takes giraffe] .
+*MOT:	di jirafa . 267186_267866
+%mor:	propn|dar noun|jirafa-Fem .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+%wor:	di 267186_267286 jirafa 267366_267866 .
+*MOT:	y la jirafa tiene manchas . 271072_272653
+%mor:	cconj|y det|el-Fem-Def-Art-Sing noun|jirafa-Fem verb|tener-Fin-Ind-Pres-S3 noun|mancha-Fem-Plur-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	y 271072_271092 la 271152_271212 jirafa 271292_271733 tiene 271813_272053 manchas 272153_272653 .
+*MOT:	y tiene un cuello <muy muy muy> [/] muy largo . 273515_276619
+%mor:	cconj|y verb|tener-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|cuello-Masc-Acc adv|mucho adj|largo-S1 .
+%gra:	1|2|CC 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|ADVMOD 6|4|AMOD 7|2|PUNCT
+%wor:	y 273515_273535 tiene 273595_273816 un 273856_273916 cuello 273996_274296 muy 274457_274857 muy 275038_275318 muy 275458_275658 muy 275799_276019 largo 276119_276619 .
+*MOT:	donde esta el cuello de la jirafa ? 277000_278321
+%mor:	adv|donde verb|estar-Fin-S det|el-Masc-Def-Art-Sing noun|cuello-Masc adp|de det|el-Fem-Def-Art-Sing noun|jirafa-Fem ?
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|DET 4|2|NSUBJ 5|7|CASE 6|7|DET 7|4|NMOD 8|2|PUNCT
+%wor:	donde 277000_277100 esta 277120_277240 el 277280_277320 cuello 277320_277480 de 277540_277620 la 277680_277740 jirafa 277821_278321 ?
+%com:	child sneezes during last utterance .
+*MOT:	salud . 281085_281585
+%mor:	noun|salud-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salud 281085_281585 .
+*MOT:	salud . 283468_283968
+%mor:	noun|salud-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salud 283468_283968 .
+%com:	child sneezes .
+*CHI:	achoo .
+%mor:	noun|achoo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	achoo .
+%mor:	noun|achoo-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	salud . 284169_284669
+%mor:	noun|salud-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	salud 284169_284669 .
+*MOT:	y mira Bake . 284710_287994
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 propn|bake .
+%gra:	1|2|CC 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	y 284710_284730 mira 286993_287353 Bake 287494_287994 .
+*MOT:	un leopardo . 288575_289275
+%mor:	det|uno-Masc-Ind-Art-Sing noun|leopardo-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 288575_288735 leopardo 288775_289275 .
+*MOT:	mira el leopardo . 291058_291919
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|leopardo-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	mira 291058_291299 el 291359_291399 leopardo 291419_291919 .
+*MOT:	ay . 294200_294700
+%mor:	x|ay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ay 294200_294700 .
+*MOT:	un pingüino . 294660_295361
+%mor:	det|uno-Masc-Ind-Art-Sing noun|pingüino-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 294660_294780 pingüino 294861_295361 .
+*MOT:	el pingüino quie(re) +... 295501_296703
+%mor:	det|el-Masc-Def-Art-Sing noun|pingüino-Masc verb|querer-Fin-Ind-Pres-S3 +...
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	el 295501_295582 pingüino 295622_296102 quie(re) 296203_296703 +...
+*MOT:	ahora es el turno del pingüino para ir en la bici(cleta) . 296543_299687
+%mor:	adv|ahora aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|turno-Masc adp|del noun|pingüino-Masc adp|para verb|ir-Inf-S adp|en det|el-Fem-Def-Art-Sing noun|bicicleta-Fem .
+%gra:	1|4|ADVMOD 2|4|COP 3|4|DET 4|11|ROOT 5|6|CASE 6|4|NMOD 7|8|MARK 8|4|ADVCL 9|11|CASE 10|11|DET 11|8|OBL 12|4|PUNCT
+%wor:	ahora 296543_296743 es 296783_296843 el 296863_296944 turno 296984_297244 del 297304_297444 pingüino 297504_298025 para 298406_298646 ir 298746_298846 en 298886_298967 la 298987_299047 bici(cleta) 299187_299687 .
+*MOT:	el pingüino quiere montar la bici(cleta) . 300329_302271
+%mor:	det|el-Masc-Def-Art-Sing noun|pingüino-Masc verb|querer-Fin-Ind-Pres-S3 verb|montar-Inf-S det|el-Fem-Def-Art-Sing noun|bicicleta-Fem-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|6|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+%wor:	el 300329_300409 pingüino 300449_300869 quiere 300969_301190 montar 301250_301590 la 301630_301711 bici(cleta) 301771_302271 .
+*MOT:	okay . 304014_304514
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 304014_304514 .
+*MOT:	di pingüino . 304354_305035
+%mor:	adp|dar noun|pingüino-Masc .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	di 304354_304434 pingüino 304535_305035 .
+*CHI:	pingüino . 307339_307839
+%mor:	noun|pingüino-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	pingüino 307339_307839 .
+*MOT:	pingüino .
+%mor:	noun|pingüino-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	gasps .
+*MOT:	ay ! 312800_313300
+%mor:	x|ay !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ay 312800_313300 !
+*MOT:	que lindo . 313160_313921
+%mor:	sconj|que adj|lindo-S1 .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+%wor:	que 313160_313261 lindo 313421_313921 .
+*MOT:	una estrella de mar Blake . 313882_315544
+%mor:	det|uno-Fem-Ind-Art-Sing noun|estrella-Fem adp|de noun|mar propn|blake .
+%gra:	1|2|DET 2|5|ROOT 3|4|CASE 4|2|NMOD 5|4|APPOS 6|2|PUNCT
+%wor:	una 313882_314002 estrella 314042_314523 de 314583_314643 mar 314723_314964 Blake 315044_315544 .
+*MOT:	vamos a poner la estrella del mar en el lago ? 317388_320173
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S det|el-Fem-Def-Art-Sing noun|estrella-Acc adp|del noun|mar adp|en det|el-Masc-Def-Art-Sing noun|lago-Masc ?
+%gra:	1|10|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|10|CASE 9|10|DET 10|3|OBL 11|1|PUNCT
+%wor:	vamos 317388_317669 a 317709_317729 poner 317849_318170 la 318430_318491 estrella 318531_318951 del 319012_319112 mar 319152_319312 en 319372_319452 el 319513_319613 lago 319673_320173 ?
+*MOT:	o en el mar ? 320575_321435
+%mor:	cconj|o adp|en det|el-Masc-Def-Art-Sing noun|mar ?
+%gra:	1|4|CC 2|4|CASE 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	o 320575_320595 en 320655_320735 el 320775_320875 mar 320935_321435 ?
+*MOT:	toma . 322719_323219
+%mor:	verb|tomar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toma 322719_323219 .
+*CHI:	+< [- eng] no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] starfish .
+%mor:	noun|starfish .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	en español estrella del mar . 327040_329262
+%mor:	adp|en noun|español-Masc noun|estrella adp|del noun|mar .
+%gra:	1|2|CASE 2|3|NMOD 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	en 327040_327140 español 327200_327761 estrella 327881_328482 del 328542_328682 mar 328762_329262 .
+*CHI:	[- eng] starfish .
+%mor:	noun|starfish .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	estrella del mar . 332428_333649
+%mor:	noun|estrella-Fem adp|del noun|mar .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	estrella 332428_332929 del 332989_333109 mar 333149_333649 .
+*CHI:	[- eng] starfish !
+%mor:	noun|starfish !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	estrella del mar . 335012_338056
+%mor:	noun|estrella-Fem adp|del noun|mar .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	estrella 335012_337355 del 337415_337536 mar 337556_338056 .
+*CHI:	[- eng] starfish !
+%mor:	noun|starfish !
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother gasps during utterance .
+*MOT:	+< un tiburon . 338096_339478
+%mor:	det|uno-Masc-Ind-Art-Sing noun|tiburón-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 338096_338978 tiburon 338978_339478 .
+*CHI:	ah .
+%mor:	x|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ah ! 347826_348326
+%mor:	x|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ah 347826_348326 !
+*MOT:	un tiburon . 349428_352632
+%mor:	det|uno-Masc-Ind-Art-Sing noun|tiburón-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 349428_350550 tiburon 352132_352632 .
+*CHI:	[- eng] shark .
+%mor:	noun|shark .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx tiburon .
+%mor:	noun|tiburón-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< [- eng] shark .
+%mor:	noun|shark .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] shark !
+%mor:	noun|shark !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	tiburon .
+%mor:	noun|tiburón-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< [- eng] shark .
+%mor:	noun|shark .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< si !
+%mor:	sconj|si !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay . 354415_354915
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	okay 354415_354915 .
+*MOT:	tiburon .
+%mor:	noun|tiburón-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] shark .
+%mor:	noun|shark .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< y toma el oso . 354736_357939
+%mor:	cconj|y verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|oso-Masc-Acc .
+%gra:	1|2|CC 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	y 354736_354756 toma 354836_356578 el 357219_357339 oso 357439_357939 .
+*MOT:	que tiene el oso en la boca ? 358060_359622
+%mor:	pron|que-Rel-S1 verb|tener-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|oso-Masc-Acc adp|en det|el-Fem-Def-Art-Sing noun|boca-Fem ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	que 358060_358140 tiene 358240_358480 el 358501_358581 oso 358641_358861 en 358901_358961 la 359001_359061 boca 359122_359622 ?
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	que tiene el oso en la boca ? 360724_363468
+%mor:	pron|que-Rel-S1 verb|tener-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|oso-Masc-Acc adp|en det|el-Fem-Def-Art-Sing noun|boca-Fem ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	que 360724_361846 tiene 361926_362146 el 362186_362266 oso 362387_362647 en 362707_362787 la 362827_362887 boca 362968_363468 ?
+*MOT:	que es ? 365452_366192
+%mor:	pron|que-Rel-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	que 365452_365572 es 365692_366192 ?
+*MOT:	que tiene el oso en la boca ? 369438_370899
+%mor:	pron|que-Rel-S1 verb|tener-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|oso-Masc-Acc adp|en det|el-Fem-Def-Art-Sing noun|boca-Fem ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	que 369438_369518 tiene 369618_369838 el 369859_369959 oso 369999_370199 en 370239_370299 la 370319_370379 boca 370399_370899 ?
+*CHI:	xxx .
+*MOT:	que esta comiendo ? 373240_373900
+%mor:	pron|que-Rel-S1 aux|estar-Fin-S verb|comer-Ger-S ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	que 373240_373300 esta 373320_373400 comiendo 373400_373900 ?
+*CHI:	xxx .
+%com:	more than two unintelligible words spoken .
+*MOT:	esta comiendo . 378128_378989
+%mor:	aux|estar-Fin-S verb|comer-Ger-S .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+%wor:	esta 378128_378368 comiendo 378489_378989 .
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	tiene hambre . 379510_380371
+%mor:	verb|tener-Fin-Ind-Pres-S3 noun|hambre-Fem-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	tiene 379510_379771 hambre 379871_380371 .
+*CHI:	xxx hambre .
+%mor:	noun|hambre-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mispronounces hambre .
+*MOT:	el mapache tiene hambre tambien . 381273_385099
+%mor:	det|el-Masc-Def-Art-Sing noun|mapache-Masc verb|tener-Fin-Ind-Pres-S3 noun|hambre-Fem-Acc adv|también .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	el 381273_383597 mapache 383638_384178 tiene 384279_384479 hambre 384479_384599 tambien 384599_385099 .
+%com:	microphone goes silent for the next four minutes .
+*MOT:	y hipopotamo .
+%mor:	cconj|y noun|hipopotamo-Masc .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+*MOT:	mira la boca grande del hipopotamo . 607943_609565
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|boca-Fem-Acc adj|grande-S1 adp|del noun|hipopotamo-Masc .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|6|CASE 6|3|NMOD 7|1|PUNCT
+%wor:	mira 607943_608584 la 608584_608624 boca 608624_608724 grande 608724_608964 del 608985_609045 hipopotamo 609065_609565 .
+*MOT:	Blakey .
+%mor:	propn|Blakey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mira la boca grande del hipopotamo . 609786_611548
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|boca-Fem-Acc adj|grande-S1 adp|del noun|hipopotamo-Masc .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|6|CASE 6|3|NMOD 7|1|PUNCT
+%wor:	mira 609786_609966 la 610026_610106 boca 610166_610407 grande 610487_610827 del 610887_611048 hipopotamo 611048_611548 .
+*MOT:	quiere comer tu nariz . 611929_613170
+%mor:	verb|querer-Fin-Ind-Pres-S3 verb|comer-Inf-S det|tu-Def-Prs-Sing-S noun|nariz-Fem-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	quiere 611929_612149 comer 612209_612470 tu 612530_612610 nariz 612670_613170 .
+*MOT:	quiere comer tu oreja . 614112_615373
+%mor:	verb|querer-Fin-Ind-Pres-S3 verb|comer-Inf-S det|tu-Def-Prs-Sing-S noun|oreja-Fem-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	quiere 614112_614353 comer 614413_614693 tu 614753_614813 oreja 614873_615373 .
+*CHI:	xxx .
+%com:	child complains .
+*MOT:	quiere comer tu brazo . 617798_619419
+%mor:	verb|querer-Fin-Ind-Pres-S3 verb|comer-Inf-S det|tu-Def-Prs-Sing-S noun|brazo-Masc-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	quiere 617798_618078 comer 618158_618539 tu 618639_618719 brazo 618919_619419 .
+*CHI:	xxx .
+*MOT:	y tu mano . 620440_621200
+%mor:	cconj|y det|tu-Def-Prs-Sing-S noun|mano-Fem .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	y 620440_620460 tu 620540_620620 mano 620700_621200 .
+*CHI:	xxx .
+*MOT:	mira . 621862_622362
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 621862_622362 .
+*MOT:	el hipopotamo tiene una boca muy grande . 622183_624967
+%mor:	det|el-Masc-Def-Art-Sing noun|hipopotamo-Masc verb|tener-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|boca-Fem-Acc adv|mucho adj|grande-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|ADVMOD 7|5|AMOD 8|3|PUNCT
+%wor:	el 622183_622263 hipopotamo 622383_623064 tiene 623185_623385 una 623425_623585 boca 623665_623926 muy 624046_624306 grande 624467_624967 .
+*MOT:	mira que grande +... 625689_626670
+%mor:	verb|mirar-Fin-Ind-Pres-S3 sconj|que adj|grande-S1 +...
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	mira 625689_625909 que 626009_626089 grande 626170_626670 +...
+%com:	begins to say a word before trailing off .
+*MOT:	que boca grande tiene el hipopotamo . 627632_629434
+%mor:	sconj|que noun|boca-Fem adj|grande-S1 verb|tener-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|hipopotamo-Masc-Acc .
+%gra:	1|4|MARK 2|4|NSUBJ 3|2|AMOD 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	que 627632_627732 boca 627812_628073 grande 628153_628514 tiene 628574_628794 el 628834_628894 hipopotamo 628934_629434 .
+*MOT:	y la bici(cleta) va en la cerca ? 630958_632459
+%mor:	cconj|y det|el-Fem-Def-Art-Sing noun|bicicleta-Fem verb|ir-Fin-Ind-Pres-S3 adp|en det|el-Fem-Def-Art-Sing adv|cerca ?
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|7|CASE 6|7|DET 7|4|ADVMOD 8|4|PUNCT
+%wor:	y 630958_630978 la 631038_631118 bici(cleta) 631198_631559 va 631559_631619 en 631699_631739 la 631759_631839 cerca 631959_632459 ?
+*MOT:	la bici(cleta) vaja la cerca . 635100_636522
+%mor:	det|el-Fem-Def-Art-Sing noun|bicicleta-Fem verb|vajar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing adv|cerca .
+%gra:	1|2|DET 2|3|NSUBJ 3|5|ROOT 4|5|DET 5|3|ADVMOD 6|3|PUNCT
+%wor:	la 635100_635180 bici(cleta) 635220_635561 vaja 635561_635781 la 635841_635921 cerca 636022_636522 .
+*MOT:	uhoh .
+%mor:	x|uhoh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	cuidado con +... 637845_638986
+%mor:	noun|cuidado-Masc adp|con +...
+%gra:	1|2|ROOT 2|1|CASE 3|1|PUNCT
+%wor:	cuidado 637845_638346 con 638486_638986 +...
+*MOT:	[- hun] la llama . 639307_639908
+%mor:	det|el-Fem-Def-Art-Sing noun|llama-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	la 639307_639388 llama 639408_639908 .
+*MOT:	y mira el elefante . 641812_642773
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|elefante-Masc-Acc .
+%gra:	1|2|CC 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	y 641812_641832 mira 641912_642112 el 642152_642213 elefante 642273_642773 .
+*MOT:	es el turno del elefante . 644857_646179
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|turno-Masc adp|del noun|elefante-Masc .
+%gra:	1|3|COP 2|3|DET 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	es 644857_644937 el 644977_645058 turno 645118_645378 del 645438_645598 elefante 645679_646179 .
+*CHI:	xxx .
+*MOT:	y mira la trompa del elefante . 650180_652043
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|trompa-Fem-Acc adp|del noun|elefante-Masc .
+%gra:	1|2|CC 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+%wor:	y 650180_650200 mira 650280_650521 la 650601_650681 trompa 650801_651222 del 651322_651483 elefante 651543_652043 .
+*MOT:	mira Blake . 652926_653727
+%mor:	verb|mirar-Fin-Ind-Pres-S3 propn|blake .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	mira 652926_653147 Blake 653227_653727 .
+*MOT:	la trompa . 653628_654348
+%mor:	det|el-Fem-Def-Art-Sing noun|trompa-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	la 653628_653708 trompa 653848_654348 .
+*MOT:	esa es la trompa del elefante . 654510_656112
+%mor:	pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|trompa-Fem adp|del noun|elefante-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|6|ROOT 5|6|CASE 6|4|NMOD 7|4|PUNCT
+%wor:	esa 654510_654670 es 654710_654770 la 654810_654891 trompa 654971_655352 del 655412_655552 elefante 655612_656112 .
+*MOT:	usa la trompa para tomar agua . 657075_659139
+%mor:	verb|usar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|trompa-Fem-Acc adp|para verb|tomar-Inf-S noun|agua-Fem-Acc .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|5|MARK 5|1|ADVCL 6|5|OBJ 7|1|PUNCT
+%wor:	usa 657075_657256 la 657336_657416 trompa 657496_657797 para 657877_658038 tomar 658118_658459 agua 658639_659139 .
+*CHI:	xxx .
+%com:	more than two unintelligible words spoken .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Blakey mira la foca . 664690_665910
+%mor:	propn|blakey verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|foca-Fem-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	Blakey 664690_664810 mira 664870_665110 la 665210_665270 foca 665410_665910 .
+*MOT:	la foca . 667512_668192
+%mor:	det|el-Fem-Def-Art-Sing noun|foca-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	la 667512_667592 foca 667692_668192 .
+*MOT:	toma la foca . 668653_669613
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|foca-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 668653_668893 la 668953_669033 foca 669113_669613 .
+*MOT:	pon la foca en el choo_choo tren . 669974_671955
+%mor:	verb|poner-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Sing noun|foca-Fem-Acc adp|en det|el-Masc-Def-Art-Sing noun|choochoo-Masc noun|tren-Masc .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|6|APPOS 8|1|PUNCT
+%wor:	pon 669974_670114 la 670154_670214 foca 670314_670615 en 670815_670895 el 670935_671015 choo_choo 671075_671375 tren 671455_671955 .
+*MOT:	toma . 672436_672936
+%mor:	verb|tomar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toma 672436_672936 .
+*MOT:	di foca . 674758_675358
+%mor:	propn|di x|foca .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%wor:	di 674758_674858 foca 674858_675358 .
+*CHI:	foca . 675018_675518
+%mor:	noun|foca .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	foca 675018_675518 .
+%com:	takes toy .
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- hun] el choo_choo train .
+%mor:	det|el-Masc-Def-Art-Sing noun|choochoo-Masc propn|train .
+%gra:	1|2|DET 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+*MOT:	po(n) [/] pon la foca en el choo_choo tren . 679760_681723
+%mor:	verb|poner-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Sing noun|foca-Fem-Acc adp|en det|el-Masc-Def-Art-Sing noun|choochoo-Masc noun|tren-Masc .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|6|APPOS 8|1|PUNCT
+%wor:	po(n) 679760_679920 pon 679920_680060 la 680080_680180 foca 680261_680521 en 680521_680621 el 680682_680762 choo_choo 680822_681183 tren 681223_681723 .
+*MOT:	oh . 684129_684629
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 684129_684629 .
+*CHI:	choo_choo .
+%mor:	noun|choochoo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< vamos a limpiar . 685553_687676
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|limpiar-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	vamos 685553_687116 a 687156_687176 limpiar 687176_687676 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	di adios cebra .
+%mor:	propn|dar propn|adio noun|cebra-Fem .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+*CHI:	adios cebra . 687898_688839
+%mor:	noun|adio-Masc-Plur noun|cebra-Fem-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	adios 687898_688319 cebra 688339_688839 .
+%com:	mispronounces adios .
+*MOT:	adios ganso .
+%mor:	noun|adio-Masc-Plur noun|ganso-Masc-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	adios ganso .
+%mor:	noun|adio-Masc-Plur noun|ganso-Masc-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	mispronounces ganso .
+*MOT:	adios armadillo . 696790_700412
+%mor:	noun|adio-Masc-Plur adj|armadillo-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 696790_699732 armadillo 699912_700412 .
+%com:	pauses before saying armadillo .
+*MOT:	[- hun] adios llama .
+%mor:	noun|adio-Masc-Plur verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*CHI:	[- hun] adios llama .
+%mor:	noun|adio-Masc-Plur verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+*MOT:	adios gallina . 703234_704235
+%mor:	noun|adio-Masc-Plur adj|gallina-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 703234_703655 gallina 703735_704235 .
+*CHI:	xxx .
+*MOT:	adios pulpo . 706457_707477
+%mor:	noun|adio-Masc-Plur noun|pulpo-Masc-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	adios 706457_706897 pulpo 706977_707477 .
+*CHI:	adios pulpo .
+%mor:	noun|adio-Masc-Plur noun|pulpo-Masc-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*MOT:	adios cochino . 709599_710639
+%mor:	noun|adio-Masc-Plur adj|cochino-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 709599_710039 cochino 710139_710639 .
+*CHI:	adios cochino . 713532_717597
+%mor:	noun|adio-Masc-Plur adj|cochino-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 713532_714012 cochino 717097_717597 .
+*MOT:	adios oveja .
+%mor:	noun|adio-Masc-Plur noun|oveja-Fem .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*CHI:	adios oveja . 718258_719199
+%mor:	noun|adio-Masc-Plur noun|oveja-Fem .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+%wor:	adios 718258_718699 oveja 718699_719199 .
+%com:	mispronounces oveja .
+*MOT:	adios lobo .
+%mor:	noun|adio-Masc-Plur adj|lobo-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*CHI:	adios lobo . 718819_719499
+%mor:	noun|adio-Masc-Plur adj|lobo-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 718819_718999 lobo 718999_719499 .
+%com:	mispronounces adios .
+*CHI:	xxx xxx .
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	hay [/] hay que limpiar . 727240_728080
+%mor:	verb|haber-Fin-Ind-Pres-S3 sconj|que verb|limpiar-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	hay 727240_727320 hay 727320_727380 que 727440_727520 limpiar 727580_728080 .
+*CHI:	xxx .
+%com:	more than two unintelligible words spoken .
+*MOT:	+< adios camello .
+%mor:	noun|adio-Masc-Plur adj|camello-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*CHI:	adios camello . 729725_730786
+%mor:	noun|adio-Masc-Plur adj|camello-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 729725_730186 camello 730286_730786 .
+*MOT:	adios arbol .
+%mor:	noun|adio-Masc-Plur noun|arbol-Masc .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*CHI:	adios arbol .
+%mor:	noun|adio-Masc-Plur noun|arbol-Masc .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+*MOT:	adios ballena . 733072_734413
+%mor:	noun|adio-Masc-Plur adj|ballena-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 733072_733553 ballena 733913_734413 .
+*MOT:	adios leon .
+%mor:	noun|adio-Masc-Plur propn|leon .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	adios leon .
+%mor:	noun|adio-Masc-Plur propn|leon .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	adios leon .
+%mor:	noun|adio-Masc-Plur propn|leon .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	adios leon .
+%mor:	noun|adio-Masc-Plur propn|leon .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	adios pingüino . 751550_752150
+%mor:	noun|adio-Masc-Plur adj|pingüino-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 751550_751650 pingüino 751650_752150 .
+*CHI:	adios pingüino .
+%mor:	noun|adio-Masc-Plur adj|pingüino-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%com:	mispronounces pingüino .
+*MOT:	donde esta el pingüino ? 754412_755452
+%mor:	adv|donde verb|estar-Fin-S det|el-Masc-Def-Art-Sing noun|pingüino-Masc ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	donde 754412_754632 esta 754652_754832 el 754852_754912 pingüino 754952_755452 ?
+*CHI:	pingüino ?
+%mor:	noun|pingüino-Masc ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	adios elefante . 757474_758414
+%mor:	noun|adio-Masc-Plur adj|elefante-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 757474_757834 elefante 757914_758414 .
+%com:	begins to say a word before adios .
+*MOT:	dame el pingüino . 759155_759996
+%mor:	verb|dame-Fin-Ind-Pres-S det|el-Masc-Def-Art-Sing noun|pingüino-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	dame 759155_759395 el 759415_759456 pingüino 759496_759996 .
+*MOT:	oh . 760056_760556
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 760056_760556 .
+*MOT:	aqui esta el mantarraya .
+%mor:	adv|aquí aux|estar-Fin-S det|el-Masc-Def-Art-Sing noun|mantarraya-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+*MOT:	adios mantarraya .
+%mor:	noun|adio-Masc-Plur adj|mantarrayo-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*CHI:	adios mantarraya .
+%mor:	noun|adio-Masc-Plur adj|mantarrayo-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%com:	mispronounces mantarraya .
+*MOT:	+< muy bien . 771000_771741
+%mor:	adv|mucho adv|bien .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	muy 771000_771160 bien 771241_771741 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a cer(rar) [/] cerrar esto . 771782_773967
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|cerrar-Inf-S pron|este-Dem-S1 .
+%gra:	1|4|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%wor:	vamos 771782_772043 a 772083_772103 cer(rar) 772224_772725 cerrar 772725_773247 esto 773467_773967 .
+*MOT:	yey .
+%mor:	intj|yey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y ahora +... 775433_776014
+%mor:	cconj|y adv|ahora +...
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 775433_775454 ahora 775514_776014 +...
+*MOT:	vamos a +/. 776276_777799
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a +/.
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	vamos 776276_777119 a 777299_777799 +/.
+%com:	microphone goes silent for the next two minutes .
+@Situation:	Food toys 15:07-23:10
+*MOT:	si .
+%mor:	sconj|si .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	third person is in the video for the next section and her interactions will not be transcribed .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma el cuchillo para cortar el perro caliente . 913194_915617
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|cuchillo-Masc-Acc adp|para verb|cortar-Inf-S det|el-Masc-Def-Art-Sing noun|perro-Masc-Acc adj|caliente-S1 .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|5|MARK 5|1|ADVCL 6|7|DET 7|5|OBJ 8|7|AMOD 9|1|PUNCT
+%wor:	toma 913194_913395 el 913395_913475 cuchillo 913535_914016 para 914016_914376 cortar 914416_914717 el 914717_914757 perro 914817_915037 caliente 915117_915617 .
+*MOT:	toma el cuchillo . 915678_917319
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|cuchillo-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 915678_915758 el 916599_916739 cuchillo 916819_917319 .
+*CHI:	0 [=! grabs toy] .
+*MOT:	corta el perro caliente . 917160_918601
+%mor:	verb|cortar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|perro-Masc-Acc adj|caliente-S1 .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|1|PUNCT
+%wor:	corta 917160_917440 el 917601_917721 perro 917741_918061 caliente 918101_918601 .
+*MOT:	o tu vas a cortar el helado ? 918362_921565
+%mor:	cconj|o pron|tu-Prs-Acc-S2 verb|ir-Fin-Ind-Pres-S adp|a verb|cortar-Inf-S det|el-Masc-Def-Art-Sing noun|helado-Masc-Acc ?
+%gra:	1|3|CC 2|3|NSUBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%wor:	o 918362_918382 tu 918482_918582 vas 918802_919143 a 919203_919223 cortar 919663_921005 el 921005_921045 helado 921065_921565 ?
+%com:	third person interaction .
+*MOT:	oh ! 921886_922386
+%mor:	intj|oh !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 921886_922386 !
+*MOT:	mira la hamburguesa que hizo Alexandra . 922127_924029
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|hamburguesa-Fem-Acc pron|que-Rel-S1 verb|hacer-Fin-Ind-Past-S3 propn|Alexandra .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|5|OBJ 5|3|ACL-RELCL 6|5|NSUBJ 7|1|PUNCT
+%wor:	mira 922127_922367 la 922447_922487 hamburguesa 922507_923088 que 923188_923268 hizo 923328_923449 Alexandra 923529_924029 .
+*MOT:	ves la hamburguesa &=points ? 925050_925730
+%mor:	verb|ver-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Sing noun|hamburguesa-Fem-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	ves 925050_925170 la 925190_925230 hamburguesa 925230_925730 ?
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma otro plato . 930177_937226
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|otro-Masc-Def-Ind-Sing noun|plato-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 930177_933561 otro 933761_936625 plato 936726_937226 .
+%com:	third person interaction .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma un plato . 938608_939729
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|plato-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 938608_938848 un 939129_939189 plato 939229_939729 .
+*MOT:	mira Blake . 942030_942890
+%mor:	verb|mirar-Fin-Ind-Pres-S3 propn|blake .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	mira 942030_942290 Blake 942390_942890 .
+*MOT:	berenjena . 943793_944293
+%mor:	verb|beren-Fin-Imp-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	berenjena 943793_944293 .
+*CHI:	[- eng] yummy .
+%mor:	adj|yummy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mispronounces yummy .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma berenjena . 950224_951064
+%mor:	verb|tomar-Fin-Ind-Pres-S3 noun|berenjena-Fem-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	toma 950224_950484 berenjena 950564_951064 .
+*CHI:	[- eng] yummy ice_cream .
+%mor:	adj|yummy-S1 noun|icecream .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+*MOT:	helado rico . 951446_953849
+%mor:	noun|helado-Masc adj|rico-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	helado 951446_953289 rico 953349_953849 .
+%com:	third person interaction .
+*MOT:	di delicioso . 957400_957960
+%mor:	verb|dar-Fin-Ind-Pres-S3 adj|delicioso-S1 .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%wor:	di 957400_957460 delicioso 957460_957960 .
+%com:	third person interaction .
+*MOT:	delicioso . 958841_959341
+%mor:	adj|delicioso-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	delicioso 958841_959341 .
+*MOT:	pero en la boca no Blake . 959761_961242
+%mor:	cconj|pero adp|en det|el-Fem-Def-Art-Sing noun|boca-Fem adv|no propn|blake .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|NMOD 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	pero 959761_959962 en 960002_960062 la 960062_960142 boca 960202_960462 no 960542_960642 Blake 960742_961242 .
+*MOT:	estamos jugando . 961223_962143
+%mor:	aux|estar-Fin-Ind-Pres-P1 verb|jugar-Ger-S .
+%gra:	1|2|AUX 2|2|ROOT 3|2|PUNCT
+%wor:	estamos 961223_961603 jugando 961643_962143 .
+*MOT:	y mira aqui hay nueces . 965086_967247
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 adv|aquí verb|haber-Fin-Ind-Pres-S3 noun|nuez-Fem-Plur-Acc .
+%gra:	1|2|CC 2|4|ADVCL 3|2|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	y 965086_965106 mira 965166_965426 aqui 966267_966487 hay 966567_966687 nueces 966747_967247 .
+*MOT:	en la caja . 968328_969109
+%mor:	adp|en det|el-Fem-Def-Art-Sing noun|caja-Fem .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	en 968328_968408 la 968429_968509 caja 968609_969109 .
+*MOT:	nueces . 969249_969749
+%mor:	noun|nuez-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	nueces 969249_969749 .
+*MOT:	di mani .
+%mor:	propn|dar propn|mani .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%com:	third person interaction .
+*MOT:	tu quieres zanahoria tambien Blake ? 976010_978252
+%mor:	pron|tu-Prs-Acc-S2 verb|querer-Fin-Ind-Pres-S1 noun|zanahoria-Fem-Acc adv|también propn|blake-Acc ?
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|ADVMOD 5|2|OBJ 6|2|PUNCT
+%wor:	tu 976010_976070 quieres 976130_976430 zanahoria 976470_977151 tambien 977251_977672 Blake 977752_978252 ?
+*MOT:	gracias . 979254_979754
+%mor:	noun|gracia-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	gracias 979254_979754 .
+%com:	third person interaction .
+*MOT:	zanahoria . 981297_981797
+%mor:	noun|zanahoria .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zanahoria 981297_981797 .
+*MOT:	zanahoria . 984021_984521
+%mor:	noun|zanahoria .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	zanahoria 984021_984521 .
+*MOT:	[- eng] yummy .
+%mor:	adj|yummy-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	a los conejos le gustan la zanahoria . 986764_988766
+%mor:	adp|a det|el-Masc-Def-Art-Plur noun|conejo-Masc-Plur pron|él-Prs-Dat-S3 verb|gustar-Fin-Ind-Pres-P3 det|el-Fem-Def-Art-Sing noun|zanahoria-Fem .
+%gra:	1|3|CASE 2|3|DET 3|5|OBL-ARG 4|5|EXPL 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+%wor:	a 986764_986784 los 986844_986985 conejos 987045_987525 le 987565_987646 gustan 987726_988046 la 988086_988146 zanahoria 988266_988766 .
+*MOT:	y limon . 988967_989487
+%mor:	cconj|y noun|limón-Masc .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 988967_988987 limon 988987_989487 .
+*MOT:	yo quiero hacer limonada . 991610_992811
+%mor:	pron|yo-Prs-Nom-S1 verb|querer-Fin-Ind-Pres-S1 verb|hacer-Inf-S noun|limonada-Fem-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|OBJ 5|2|PUNCT
+%wor:	yo 991610_991690 quiero 991770_991950 hacer 991990_992251 limonada 992311_992811 .
+*MOT:	limonada . 994253_994753
+%mor:	noun|limonada-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	limonada 994253_994753 .
+*MOT:	vamos a poner limonada en la taza . 995135_997517
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S noun|limonada-Fem-Acc adp|en det|el-Fem-Def-Art-Sing noun|taza-Fem .
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|1|OBL 8|1|PUNCT
+%wor:	vamos 995135_995375 a 995415_995435 poner 995515_995816 limonada 996096_996697 en 996737_996797 la 996817_996897 taza 997017_997517 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma Blake .
+%mor:	verb|tomar-Fin-Ind-Pres-S3 propn|blake .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%com:	third person interaction .
+*MOT:	Blake mira . 1004287_1005168
+%mor:	propn|Blake propn|mira .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	Blake 1004287_1004648 mira 1004668_1005168 .
+%com:	third person interaction .
+*MOT:	Blake Alexandra te da lechuga . 1008400_1009900
+%mor:	propn|Blake propn|Alexandra x|the x|da x|lechuga .
+%gra:	1|5|ROOT 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|1|FLAT 6|1|PUNCT
+%wor:	Blake 1008400_1008500 Alexandra 1008500_1008980 te 1009080_1009160 da 1009220_1009320 lechuga 1009400_1009900 .
+%com:	third person interaction .
+*MOT:	toma la lechuga . 1010001_1021308
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|lechuga-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 1010001_1017626 la 1017826_1018026 lechuga 1020808_1021308 .
+*CHI:	0 [=! takes toy] .
+*CHI:	xxx [=! eating noises] .
+*MOT:	+< di gracias .
+%mor:	propn|dar noun|gracia-Fem-Plur .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+*CHI:	gracias . 1021328_1021828
+%mor:	noun|gracia-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	gracias 1021328_1021828 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mira . 1021569_1022069
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 1021569_1022069 .
+*MOT:	toma el tenedor . 1022149_1023029
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|tenedor-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 1022149_1022389 el 1022429_1022469 tenedor 1022529_1023029 .
+*CHI:	0 [=! takes toy] .
+*MOT:	tu usas el tenedor para comer lechuga ? 1025430_1033160
+%mor:	pron|tu-Prs-Acc-S2 verb|usar-Fin-Ind-Pres-S1 det|el-Masc-Def-Art-Sing noun|tenedor-Masc-Acc adp|para verb|comer-Inf-S noun|lechuga-Fem-Acc ?
+%gra:	1|2|NSUBJ 2|7|ROOT 3|4|DET 4|2|OBJ 5|6|MARK 6|2|ADVCL 7|6|OBJ 8|2|PUNCT
+%wor:	tu 1025430_1025470 usas 1025490_1025570 el 1025570_1025650 tenedor 1025690_1026151 para 1031238_1031779 comer 1032200_1032540 lechuga 1032660_1033160 ?
+%com:	third person interaction .
+*MOT:	y creo que a Blake le gusta comer +/. 1034924_1036766
+%mor:	cconj|y verb|creer-Fin-Ind-Pres-S1 sconj|que adp|a propn|blake pron|él-Prs-Dat-S3 verb|gustar-Fin-Ind-Pres-S3 verb|comer-Inf-S +/.
+%gra:	1|2|CC 2|8|ROOT 3|7|MARK 4|5|CASE 5|7|OBL-ARG 6|7|EXPL 7|2|CCOMP 8|7|CSUBJ 9|2|PUNCT
+%wor:	y 1034924_1034944 creo 1035024_1035204 que 1035264_1035324 a 1035384_1035404 Blake 1035464_1035765 le 1035765_1035845 gusta 1035905_1036145 comer 1036266_1036766 +/.
+%com:	interrupted by third person .
+*MOT:	papitas con su hamburguesa . 1037127_1038789
+%mor:	noun|papita-Fem-Plur adp|con det|su-Def-Prs-Sing noun|hamburguesa-Fem .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	papitas 1037127_1037888 con 1037988_1038128 su 1038189_1038269 hamburguesa 1038289_1038789 .
+*MOT:	toma las papitas . 1039540_1045264
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Plur noun|papita-Fem-Plur-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 1039540_1039740 las 1043463_1044003 papitas 1044764_1045264 .
+%com:	third person interaction .
+*MOT:	Blake pon las papitas aqui adentro . 1046265_1052649
+%mor:	propn|blake verb|poner-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Plur noun|papita-Fem-Plur-Acc adv|aquí adv|adentro .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|ADVMOD 6|2|ADVMOD 7|2|PUNCT
+%wor:	Blake 1046265_1050288 pon 1050468_1050608 las 1050648_1050788 papitas 1050848_1051469 aqui 1051929_1052109 adentro 1052149_1052649 .
+*MOT:	xxx vas a poner la lechuga alli adentro ? 1053930_1059497
+%mor:	verb|ir-Fin-Ind-Pres-S adp|a verb|poner-Inf-S det|el-Fem-Def-Art-Sing noun|lechuga-Fem-Acc x|allí adv|adentro ?
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|5|APPOS 7|5|ADVMOD 8|1|PUNCT
+%wor:	vas 1053930_1054070 a 1054090_1054110 poner 1054170_1054450 la 1054471_1054551 lechuga 1054631_1056453 alli 1057054_1058376 adentro 1058997_1059497 ?
+%com:	third child interaction .
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Blake pon papitas aqui adentro .
+%mor:	propn|blake verb|poner-Fin-Ind-Pres-S1 propn|papita-Acc adv|aquí adv|adentro .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|2|OBJ 4|5|ADVMOD 5|2|ADVMOD 6|2|PUNCT
+*CHI:	[- eng] this [=! puts fries] .
+%mor:	pron|this-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	third child interaction .
+*MOT:	Blake pon las papitas aqui adentro . 1079200_1081034
+%mor:	propn|blake verb|poner-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Plur noun|papita-Fem-Plur-Acc adv|aquí adv|adentro .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|ADVMOD 6|2|ADVMOD 7|2|PUNCT
+%wor:	Blake 1079200_1079301 pon 1079301_1079361 las 1079361_1079483 papitas 1079523_1080150 aqui 1080291_1080473 adentro 1080534_1081034 .
+*MOT:	toma . 1080999_1081499
+%mor:	verb|tomar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	toma 1080999_1081499 .
+%com:	third child interaction .
+*MOT:	y dale las papitas a Alexandra . 1093740_1096904
+%mor:	cconj|y verb|dalir-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Plur noun|papita-Fem-Plur-Acc adp|a propn|Alexandra .
+%gra:	1|2|CC 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|2|OBL-ARG 7|2|PUNCT
+%wor:	y 1093740_1093760 dale 1093820_1094180 las 1094781_1094942 papitas 1095002_1095663 a 1096344_1096364 Alexandra 1096404_1096904 .
+*MOT:	dale las papitas a Alexandra . 1097766_1099368
+%mor:	verb|dalir-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Plur noun|papita-Fem-Plur-Acc adp|a propn|Alexandra .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL-ARG 6|1|PUNCT
+%wor:	dale 1097766_1097966 las 1098046_1098167 papitas 1098207_1098748 a 1098828_1098848 Alexandra 1098868_1099368 .
+*MOT:	ella quiere papitas . 1099969_1100990
+%mor:	pron|él-Prs-AccNom-S3 verb|querer-Fin-Ind-Pres-S3 noun|papita-Fem-Plur-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	ella 1099969_1100110 quiere 1100210_1100410 papitas 1100490_1100990 .
+*MOT:	donde estan las papitas ? 1102974_1104135
+%mor:	adv|donde verb|estar-Fin-Ind-Pres-P3 det|el-Fem-Def-Art-Plur noun|papita-Fem-Plur ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	donde 1102974_1103194 estan 1103214_1103455 las 1103455_1103575 papitas 1103635_1104135 ?
+%com:	third person interaction .
+*MOT:	dale las papitas a Alexandra . 1107110_1108611
+%mor:	verb|dalir-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Plur noun|papita-Fem-Plur-Acc adp|a propn|Alexandra .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL-ARG 6|1|PUNCT
+%wor:	dale 1107110_1107330 las 1107390_1107530 papitas 1107570_1108051 a 1108051_1108071 Alexandra 1108111_1108611 .
+*CHI:	0 [=! gives toy] .
+*MOT:	y dale una zanahoria a Alexandra . 1110853_1112915
+%mor:	cconj|y verb|dalir-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|zanahoria-Fem-Acc adp|a propn|Alexandra .
+%gra:	1|2|CC 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|2|OBL-ARG 7|2|PUNCT
+%wor:	y 1110853_1110873 dale 1111074_1111354 una 1111434_1111594 zanahoria 1111754_1112355 a 1112375_1112395 Alexandra 1112415_1112915 .
+%com:	third person interaction .
+*MOT:	eso es salsa de tomate . 1115658_1117139
+%mor:	pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 noun|salsa-Fem adp|de noun|tomate-Masc .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	eso 1115658_1115838 es 1115878_1115978 salsa 1116039_1116419 de 1116479_1116559 tomate 1116639_1117139 .
+*MOT:	a Blake le +...
+%mor:	det|a-Ind-Art propn|Blake propn|le +...
+%gra:	1|2|DET 2|3|ROOT 3|2|FLAT 4|2|PUNCT
+%com:	begins to say a word before self interruption .
+*MOT:	ponle salsa de tomate al perro caliente . 1121330_1124231
+%mor:	verb|poner-Fin-Ind-Pres-S noun|salsa-Fem-Acc adp|de noun|tomate-Masc adp|al noun|perro-Masc adj|caliente-S1 .
+%gra:	1|7|ROOT 2|1|OBJ 3|4|CASE 4|2|NMOD 5|6|CASE 6|1|OBL 7|6|AMOD 8|1|PUNCT
+%wor:	ponle 1121330_1121650 salsa 1121910_1122270 de 1122330_1122390 tomate 1122470_1122951 al 1123251_1123351 perro 1123411_1123671 caliente 1123731_1124231 .
+%com:	third person interaction .
+*MOT:	ponle salsa de tomate Blake . 1125773_1127854
+%mor:	noun|ponle noun|salsa propn|de x|tomate propn|Blake .
+%gra:	1|2|COMPOUND 2|5|ROOT 3|2|FLAT 4|2|FLAT 5|2|FLAT 6|2|PUNCT
+%wor:	ponle 1125773_1125993 salsa 1126093_1126433 de 1126473_1126533 tomate 1126613_1127274 Blake 1127354_1127854 .
+%com:	third person interaction .
+*MOT:	asi .
+%mor:	adv|así .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	gracias . 1129975_1130475
+%mor:	noun|gracia-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	gracias 1129975_1130475 .
+*MOT:	salsa de tomate . 1131616_1132677
+%mor:	noun|salsa-Fem adp|de noun|tomate-Masc .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	salsa 1131616_1131957 de 1132017_1132097 tomate 1132177_1132677 .
+*MOT:	aqui ponle salsa de tomate &=points . 1134659_1136319
+%mor:	intj|aquí verb|poner-Fin-Ind-Pres-S3 noun|salsa-Fem-Acc adp|de noun|tomate-Masc .
+%gra:	1|2|DEP 2|5|ROOT 3|2|OBJ 4|5|CASE 5|3|NMOD 6|2|PUNCT
+%wor:	aqui 1134659_1134859 ponle 1134959_1135179 salsa 1135279_1135599 de 1135659_1135739 tomate 1135819_1136319 .
+*CHI:	0 [=! pours] .
+*MOT:	gracias . 1136370_1136870
+%mor:	noun|gracia-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	gracias 1136370_1136870 .
+*MOT:	tu quieres darle el perro caliente a Alexandra ? 1137314_1138979
+%mor:	pron|tu-Prs-Acc-S2 verb|querer-Fin-Ind-Pres-S1 verb|darlir-Inf-S det|el-Masc-Def-Art-Sing noun|perro-Masc-Acc adj|caliente-S1 adp|a propn|Alexandra ?
+%gra:	1|2|NSUBJ 2|8|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|5|AMOD 7|8|CASE 8|3|OBL-ARG 9|2|PUNCT
+%wor:	tu 1137314_1137394 quieres 1137454_1137715 darle 1137715_1137956 el 1137997_1138037 perro 1138097_1138258 caliente 1138258_1138438 a 1138438_1138459 Alexandra 1138479_1138979 ?
+%com:	third person interaction .
+*CHI:	[- eng] hot_dog .
+%mor:	noun|hotdog-Nom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Blake di perro caliente . 1155240_1156280
+%mor:	propn|blake propn|dar propn|perro propn|caliente .
+%gra:	1|4|ROOT 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|1|PUNCT
+%wor:	Blake 1155240_1155340 di 1155340_1155380 perro 1155400_1155700 caliente 1155780_1156280 .
+%com:	third person interaction .
+*MOT:	el pan .
+%mor:	det|el-Masc-Def-Art-Sing noun|pan-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	toma la cuchara . 1157383_1158705
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|cuchar-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 1157383_1157884 la 1158005_1158085 cuchara 1158205_1158705 .
+*MOT:	y toma el tenedor . 1170260_1171363
+%mor:	cconj|y verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|tenedor-Masc-Acc .
+%gra:	1|2|CC 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	y 1170260_1170280 toma 1170381_1170662 el 1170682_1170803 tenedor 1170863_1171363 .
+*MOT:	tu puedes darle la cuchara a Alexandra por_favor ? 1171547_1173977
+%mor:	pron|tu-Prs-Acc-S2 aux|poder-Fin-Ind-Pres-S2 verb|darlir-Inf-S det|el-Fem-Def-Art-Sing noun|cuchar-Fem-Acc adp|a propn|Alexandra propn|porfavor ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|8|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|3|OBL-ARG 8|7|FLAT 9|3|PUNCT
+%wor:	tu 1171547_1171668 puedes 1171668_1171969 darle 1172150_1172432 la 1172432_1172512 cuchara 1172633_1173176 a 1173216_1173236 Alexandra 1173276_1173477 por_favor 1173477_1173977 ?
+%com:	third person interaction .
+*MOT:	dale la salsa de tomate a Alexandra &=points . 1183410_1185451
+%mor:	verb|dalir-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|salsa-Fem-Acc adp|de noun|tomate-Masc adp|a propn|Alexandra .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|3|NMOD 6|7|CASE 7|1|OBL-ARG 8|1|PUNCT
+%wor:	dale 1183410_1183650 la 1183710_1183790 salsa 1183890_1184230 de 1184290_1184370 tomate 1184450_1184891 a 1184911_1184931 Alexandra 1184951_1185451 .
+*MOT:	tu puedes darle la salsa de tomate &=points ? 1187012_1188813
+%mor:	pron|tu-Prs-Acc-S2 aux|poder-Fin-Ind-Pres-S2 verb|darlir-Inf-S det|el-Fem-Def-Art-Sing noun|salsa-Fem-Acc adp|de noun|tomate-Masc ?
+%gra:	1|3|NSUBJ 2|3|AUX 3|7|ROOT 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|3|PUNCT
+%wor:	tu 1187012_1187092 puedes 1187152_1187312 darle 1187352_1187552 la 1187632_1187692 salsa 1187792_1188093 de 1188153_1188233 tomate 1188313_1188813 ?
+%com:	third person interaction .
+*MOT:	di toma . 1190034_1191014
+%mor:	propn|dar noun|toma-Fem .
+%gra:	1|2|DEP 2|2|ROOT 3|2|PUNCT
+%wor:	di 1190034_1190074 toma 1190514_1191014 .
+*MOT:	di toma Alexandra . 1194557_1195878
+%mor:	propn|dar verb|tomar-Fin-Ind-Pres-S3 propn|Alexandra .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	di 1194557_1194637 toma 1194757_1195057 Alexandra 1195378_1195878 .
+%com:	third person interaction .
+*MOT:	Blake toma la manzana . 1205570_1206730
+%mor:	propn|blake verb|tomar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|manzana-Fem-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	Blake 1205570_1205710 toma 1205790_1206030 la 1206090_1206170 manzana 1206230_1206730 .
+*MOT:	yo tengo una manzana verde . 1206791_1209773
+%mor:	pron|yo-Prs-Nom-S1 verb|tener-Fin-Ind-Pres-S1 det|uno-Fem-Ind-Art-Sing noun|manzana-Fem-Acc adj|verde-S1 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|4|DET 4|2|OBJ 5|4|AMOD 6|2|PUNCT
+%wor:	yo 1206791_1207451 tengo 1208112_1208452 una 1208452_1208612 manzana 1208672_1209173 verde 1209273_1209773 .
+%com:	child tries to grab apple . Third person interaction .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a xxx [//] poner una ensalada de fruta . 1211875_1214577
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S det|uno-Fem-Ind-Art-Sing noun|ensalada-Fem-Acc adp|de noun|fruta-Fem .
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|1|PUNCT
+%wor:	vamos 1211875_1212135 a 1212175_1212195 xxx 1212215_1212676 poner 1212736_1213076 una 1213116_1213276 ensalada 1213316_1213857 de 1213897_1213997 fruta 1214077_1214577 .
+*MOT:	una manzana . 1215218_1215938
+%mor:	det|uno-Fem-Ind-Art-Sing noun|manzana-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 1215218_1215378 manzana 1215438_1215938 .
+*MOT:	y una naranja . 1216379_1217259
+%mor:	cconj|y det|uno-Fem-Ind-Art-Sing noun|naranja-Fem .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	y 1216379_1216399 una 1216479_1216659 naranja 1216759_1217259 .
+*MOT:	y tambien podemos hacer una ensalada . 1219480_1221402
+%mor:	cconj|y adv|también aux|poder-Fin-Ind-Pres-P1 verb|hacer-Inf-S det|uno-Fem-Ind-Art-Sing noun|ensalada-Fem-Acc .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	y 1219480_1219500 tambien 1219580_1219900 podemos 1219940_1220321 hacer 1220381_1220661 una 1220721_1220862 ensalada 1220902_1221402 .
+*MOT:	con zanahoria . 1222204_1222984
+%mor:	adp|con noun|zanahoria-Fem .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	con 1222204_1222384 zanahoria 1222484_1222984 .
+*MOT:	y berenjena . 1224126_1224726
+%mor:	cconj|y noun|berenjena-Fem .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 1224126_1224146 berenjena 1224226_1224726 .
+*MOT:	y +... 1227711_1228211
+%mor:	cconj|y +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	y 1227711_1228211 +...
+*MOT:	no se . 1228092_1228812
+%mor:	adv|no pron|él-Prs-Acc-reflx-S3 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	no 1228092_1228192 se 1228312_1228812 .
+*MOT:	tu crees que estas son +... 1228513_1229774
+%mor:	pron|tu-Prs-Acc-S2 verb|creer-Fin-Ind-Pres-S1 sconj|que pron|este-Dem-P1 aux|ser-Fin-Ind-Pres-P3 +...
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|MARK 4|5|NSUBJ 5|2|CCOMP 6|2|PUNCT
+%wor:	tu 1228513_1228613 crees 1228653_1228853 que 1228893_1228973 estas 1229013_1229234 son 1229274_1229774 +...
+*MOT:	uvas ? 1230555_1231055
+%mor:	noun|uva-Fem-Plur ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uvas 1230555_1231055 ?
+*CHI:	0 &=nods .
+*MOT:	estas son uvas Blake ? 1231517_1233839
+%mor:	pron|este-Dem-P1 aux|ser-Fin-Ind-Pres-P3 noun|uva-Fem-Plur propn|blake ?
+%gra:	1|3|NSUBJ 2|3|COP 3|4|ROOT 4|3|APPOS 5|3|PUNCT
+%wor:	estas 1231517_1233019 son 1233039_1233199 uvas 1233199_1233299 Blake 1233339_1233839 ?
+*MOT:	uvas .
+%mor:	noun|uva-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	uvas verdes . 1235750_1238031
+%mor:	noun|uva-Fem-Plur adj|verde-P1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	uvas 1235750_1236150 verdes 1237531_1238031 .
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	el pan . 1242755_1244095
+%mor:	det|el-Masc-Def-Art-Sing noun|pan-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	el 1242755_1243495 pan 1243595_1244095 .
+*MOT:	que rico el pan . 1245557_1246697
+%mor:	sconj|que adj|rico-S1 det|el-Masc-Def-Art-Sing noun|pan-Masc .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	que 1245557_1245657 rico 1245717_1246017 el 1246037_1246137 pan 1246197_1246697 .
+*MOT:	ah ! 1248699_1249199
+%mor:	x|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ah 1248699_1249199 !
+%com:	child tries to eat toy .
+*MOT:	tu comes el pan ? 1249019_1250139
+%mor:	pron|tu-Prs-Acc-S2 verb|come-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|pan-Masc-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	tu 1249019_1249099 comes 1249199_1249479 el 1249519_1249599 pan 1249639_1250139 ?
+%com:	child giggles .
+*MOT:	ah !
+%mor:	x|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child laughs .
+*MOT:	toma el pan . 1253970_1254790
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|pan-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 1253970_1254170 el 1254170_1254250 pan 1254290_1254790 .
+*MOT:	pan .
+%mor:	noun|pan .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- hun] my pan . 1259535_1260295
+%mor:	pron|my-Prs-Gen-S1 noun|pan .
+%gra:	1|2|NMOD-POSS 2|2|ROOT 3|2|PUNCT
+%wor:	my 1259535_1259575 pan 1259795_1260295 .
+*MOT:	mi pan .
+%mor:	propn|mi noun|pan .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+*CHI:	mi pan . 1260316_1261056
+%mor:	propn|mi noun|pan .
+%gra:	1|2|COMPOUND 2|2|ROOT 3|2|PUNCT
+%wor:	mi 1260316_1260396 pan 1260556_1261056 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma tu pan . 1261457_1262518
+%mor:	x|toma x|tu noun|pan .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|LIST 4|1|PUNCT
+%wor:	toma 1261457_1261697 tu 1261797_1261898 pan 1262018_1262518 .
+*MOT:	tu quieres pizza ? 1263139_1263959
+%mor:	pron|tu-Prs-Acc-S2 verb|querer-Fin-Ind-Pres-S1 noun|pizza-Fem-Acc ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	tu 1263139_1263219 quieres 1263299_1263459 pizza 1263459_1263959 ?
+%com:	third person interaction .
+*MOT:	mi pizza .
+%mor:	pron|mi-Prs-Nom-P1 noun|pizza-Nom .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*CHI:	mi pizza .
+%mor:	pron|mi-Prs-Nom-P1 noun|pizza-Nom .
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+*CHI:	[- eng] yummy pizza . 1263619_1264259
+%mor:	adj|yummy-S1 noun|pizza .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	yummy 1263619_1263739 pizza 1263759_1264259 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ahora vamos a limpiar . 1273110_1274370
+%mor:	adv|ahora verb|ir-Fin-Ind-Pres-P1 adp|a verb|limpiar-Inf-S .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%wor:	ahora 1273110_1273390 vamos 1273450_1273750 a 1273770_1273790 limpiar 1273870_1274370 .
+*MOT:	di adios uva .
+%mor:	propn|dar propn|adio propn|uva .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+%com:	third person interaction .
+*MOT:	adios naranja . 1278054_1279035
+%mor:	noun|adio-Masc-Plur adj|naranja-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 1278054_1278455 naranja 1278535_1279035 .
+%com:	third person interaction .
+*MOT:	adios manzana . 1279976_1280897
+%mor:	noun|adio-Masc-Plur noun|manzana-Fem-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	adios 1279976_1280277 manzana 1280397_1280897 .
+%com:	third person interaction .
+*CHI:	[- eng] mine .
+%mor:	x|mine .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	third person interaction .
+*MOT:	di mio .
+%mor:	propn|dar propn|mio .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*MOT:	se cayo .
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|caer-Fin-Ind-Pres-S3 .
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+*MOT:	vamos a limpiar . 1292230_1293130
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|limpiar-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	vamos 1292230_1292510 a 1292550_1292570 limpiar 1292630_1293130 .
+*MOT:	po(n) [/] pon la hamburguesa en la bolsa . 1293191_1297315
+%mor:	verb|poner-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Sing noun|hamburguesa-Fem-Acc adp|en det|el-Fem-Def-Art-Sing noun|bolsa-Fem .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%wor:	po(n) 1293191_1295673 pon 1295673_1295854 la 1295874_1295914 hamburguesa 1295914_1296514 en 1296554_1296634 la 1296674_1296755 bolsa 1296815_1297315 .
+*MOT:	vamos a poner todo en la bolsa . 1297175_1301739
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S pron|todo-Tot-S1 adp|en det|el-Fem-Def-Art-Sing noun|bolsa-Fem .
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|1|PUNCT
+%wor:	vamos 1297175_1297415 a 1297595_1297615 poner 1300438_1300719 todo 1300759_1300999 en 1300999_1301079 la 1301099_1301179 bolsa 1301239_1301739 .
+*MOT:	okay Blake .
+%mor:	intj|okay propn|Blake .
+%gra:	1|2|DISCOURSE 2|2|ROOT 3|2|PUNCT
+*MOT:	adios limon .
+%mor:	noun|adio-Masc-Plur propn|limón .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+*CHI:	[- eng] xxx ice_cream .
+%mor:	propn|icecream .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	adios helado .
+%mor:	noun|adio-Masc-Plur adj|helado-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*MOT:	adios bici(cleta) .
+%mor:	noun|adio-Masc-Plur noun|bicicleta-Fem-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+*CHI:	[- eng] bye xxx .
+%mor:	intj|bye .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	adios lechuga . 1327934_1328915
+%mor:	noun|adio-Masc-Plur noun|lechuga-Fem-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	adios 1327934_1328355 lechuga 1328415_1328915 .
+*CHI:	adios .
+%mor:	noun|adio-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	adios .
+%mor:	noun|adio-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	adios lechuga . 1329576_1333078
+%mor:	noun|adio-Masc-Plur noun|lechuga-Fem-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	adios 1329576_1332578 lechuga 1332578_1333078 .
+*CHI:	adios lechuga .
+%mor:	noun|adio-Masc-Plur noun|lechuga-Fem-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%com:	mispronounces lechuga .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	adios hamburguesa . 1332819_1333739
+%mor:	noun|adio-Masc-Plur adj|hamburguesa-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+%wor:	adios 1332819_1333239 hamburguesa 1333239_1333739 .
+*CHI:	adios xxx .
+%mor:	noun|adio-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	next few lines it is hard to tell if the child utterances are from child or third person .
+*CHI:	adios .
+%mor:	noun|adio-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	adios .
+%mor:	noun|adio-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	adios gallina .
+%mor:	noun|adio-Masc-Plur adj|gallina-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*CHI:	adios gallina .
+%mor:	noun|adio-Masc-Plur adj|gallina-S1 .
+%gra:	1|2|ROOT 2|1|AMOD 3|1|PUNCT
+*MOT:	adios hongo . 1344850_1345450
+%mor:	noun|adio-Masc-Plur noun|hongo-Masc-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	adios 1344850_1344950 hongo 1344950_1345450 .
+%com:	third person interaction .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] mine !
+%mor:	x|mine !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	adios .
+%mor:	noun|adio-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] mine !
+%mor:	x|mine !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	que ?
+%mor:	sconj|que ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	que quieres ? 1345670_1346771
+%mor:	pron|que-Rel-S1 verb|querer-Fin-Ind-Pres-S1 ?
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+%wor:	que 1345670_1345971 quieres 1346271_1346771 ?
+*CHI:	+< [- eng] my [/] my xxx .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	que quieres ? 1351996_1353937
+%mor:	pron|que-Rel-S1 verb|querer-Fin-Ind-Pres-S1 ?
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+%wor:	que 1351996_1353337 quieres 1353437_1353937 ?
+%com:	child is crying .
+*MOT:	que paso ?
+%mor:	sconj|que verb|pasar-Fin-Ind-Pres-S3 ?
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+*MOT:	que quieres ? 1360000_1360640
+%mor:	pron|que-Rel-S1 verb|querer-Fin-Ind-Pres-S1 ?
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+%wor:	que 1360000_1360080 quieres 1360140_1360640 ?
+*MOT:	Blake que quieres ? 1362103_1363685
+%mor:	propn|blake pron|que-Rel-S1 verb|querer-Fin-Ind-Pres-S1 ?
+%gra:	1|3|ROOT 2|3|MARK 3|1|ACL-RELCL 4|1|PUNCT
+%wor:	Blake 1362103_1362864 que 1363005_1363105 quieres 1363185_1363685 ?
+*CHI:	[- eng] my xxx .
+%mor:	pron|my-Prs-Gen-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	still crying .
+*MOT:	oh . 1366431_1366931
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 1366431_1366931 .
+*MOT:	<tu estas> [//] tu quieres la bici(cleta) ? 1366591_1368293
+%mor:	pron|tu-Prs-Acc-S2 verb|querer-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Sing noun|bicicleta-Fem-Acc ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	tu 1366591_1366671 estas 1366711_1367032 tu 1367132_1367212 quieres 1367292_1367573 la 1367613_1367693 bici(cleta) 1367793_1368293 ?
+*CHI:	yo quiero bici(cleta) .
+%mor:	pron|yo-Prs-Nom-S1 verb|querer-Fin-Ind-Pres-S1 noun|bicicleta-Fem-Acc .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	toma la bici(cleta) . 1368875_1370216
+%mor:	verb|tomar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|bicicleta-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	toma 1368875_1369255 la 1369255_1369396 bici(cleta) 1369716_1370216 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	dame la cerca &=points . 1375720_1376340
+%mor:	verb|dame-Fin-Ind-Pres-S det|el-Fem-Def-Art-Sing adv|cerca .
+%gra:	1|3|ROOT 2|3|DET 3|1|ADVMOD 4|1|PUNCT
+%wor:	dame 1375720_1375800 la 1375800_1375840 cerca 1375840_1376340 .
+*MOT:	vamos a poner la cerca aqui en la bolsa . 1381330_1383653
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S det|el-Fem-Def-Art-Sing adv|cerca adv|aquí adp|en det|el-Fem-Def-Art-Sing noun|bolsa-Fem .
+%gra:	1|9|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|6|ADVMOD 6|3|ADVMOD 7|9|CASE 8|9|DET 9|3|OBL 10|1|PUNCT
+%wor:	vamos 1381330_1381610 a 1381630_1381650 poner 1381730_1382051 la 1382091_1382151 cerca 1382271_1382612 aqui 1382672_1382832 en 1382832_1382912 la 1383013_1383093 bolsa 1383153_1383653 .
+*CHI:	+< xxx .
+*MOT:	gracias Blake . 1384275_1385596
+%mor:	noun|gracia-Fem-Plur propn|blake .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+%wor:	gracias 1384275_1385016 Blake 1385096_1385596 .
+*MOT:	gracias . 1386339_1386839
+%mor:	noun|gracia-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	gracias 1386339_1386839 .
+*CHI:	xxx .
+@Situation:	Book reading 23:10-29:23
+*MOT:	Blake ven . 1391900_1394243
+%mor:	propn|Blake propn|ven .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%wor:	Blake 1391900_1393703 ven 1393743_1394243 .
+*MOT:	ahora +... 1395647_1396147
+%mor:	adv|ahora +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ahora 1395647_1396147 +...
+*MOT:	libros . 1399755_1400255
+%mor:	noun|libro-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	libros 1399755_1400255 .
+%com:	gasps before utterance .
+*MOT:	yey !
+%mor:	intj|yey !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	libros . 1401599_1402099
+%mor:	noun|libro-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	libros 1401599_1402099 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	gracias Alexandra por jugar . 1407350_1409291
+%mor:	noun|gracia-Fem-Plur propn|Alexandra adp|por verb|jugar-Inf-S .
+%gra:	1|4|ROOT 2|1|APPOS 3|4|MARK 4|1|ACL 5|1|PUNCT
+%wor:	gracias 1407350_1407870 Alexandra 1407890_1408511 por 1408591_1408751 jugar 1408791_1409291 .
+*MOT:	adios .
+%mor:	noun|adio-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Blake vamos a leer . 1409291_1412253
+%mor:	propn|blake verb|ir-Fin-Ind-Pres-P1 adp|a verb|leer-Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%wor:	Blake 1409291_1410733 vamos 1410973_1411613 a 1411633_1411653 leer 1411753_1412253 .
+*CHI:	xxx .
+%com:	child is off frame .
+*MOT:	Blakey mi libro . 1414076_1415657
+%mor:	propn|Blakey propn|mi x|libro .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	Blakey 1414076_1414576 mi 1414876_1414976 libro 1415157_1415657 .
+*MOT:	oh . 1418079_1418579
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	oh 1418079_1418579 .
+*MOT:	mira . 1418399_1418899
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 1418399_1418899 .
+*MOT:	El_gran_granero_rojo .
+%mor:	propn|elgrangranerorojo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a leer . 1423120_1429792
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|leer-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	vamos 1423120_1429092 a 1429132_1429152 leer 1429292_1429792 .
+*MOT:	Blake vamos a leer . 1430054_1431255
+%mor:	propn|blake verb|ir-Fin-Ind-Pres-P1 adp|a verb|leer-Inf-S .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%wor:	Blake 1430054_1430214 vamos 1430315_1430615 a 1430655_1430675 leer 1430755_1431255 .
+%com:	third person interacts before utterance as child runs back into frame .
+*MOT:	sientate con mami . 1431697_1432999
+%mor:	verb|sentate-Fin-Ind-Pres-S1 adp|con noun|mami-Fem .
+%gra:	1|3|ROOT 2|3|CASE 3|1|OBL 4|1|PUNCT
+%wor:	sientate 1431697_1432198 con 1432299_1432459 mami 1432499_1432999 .
+*MOT:	wuau .
+%mor:	propn|wuau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	gracias .
+%mor:	noun|gracia-Fem-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	third person interacts before and after these utterances while child fusses .
+*MOT:	mami necesita tu ayuda . 1452210_1457714
+%mor:	propn|mami verb|necesitar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|ayuda-Fem-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	mami 1452210_1453971 necesita 1454492_1456073 tu 1456333_1456814 ayuda 1457214_1457714 .
+*MOT:	junto al gran granero rojo en el vasto y verde prado . 1458995_1463739
+%mor:	adj|junto-S1 adp|al adj|gran-S1 noun|granero-Masc adj|rojo-S1 adp|en det|el-Masc-Def-Art-Sing adj|vasto-S1 cconj|y adj|verde-S1 noun|prado-Masc .
+%gra:	1|4|CASE 2|1|FIXED 3|4|AMOD 4|11|ROOT 5|4|AMOD 6|11|CASE 7|11|DET 8|11|AMOD 9|10|CC 10|8|CONJ 11|4|NMOD 12|4|PUNCT
+%wor:	junto 1458995_1459336 al 1459396_1459496 gran 1459576_1459876 granero 1459976_1460477 rojo 1460617_1460937 en 1461578_1461678 el 1461718_1461818 vasto 1461898_1462398 y 1462639_1462659 verde 1462779_1463139 prado 1463239_1463739 .
+*MOT:	habia un cerdito rosado que gruñia de buen grado . 1465000_1468802
+%mor:	verb|haber-Fin-Ind-Imp-S1 det|uno-Masc-Ind-Art-Sing noun|cerdito-Masc-Acc adj|rosado-S1 pron|que-Rel-S1 verb|gruñir-Fin-Ind-Pres-S3 adp|de adj|buen-S1 noun|grado-Masc .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|6|MARK 6|3|ACL-RELCL 7|9|CASE 8|9|AMOD 9|6|OBL 10|1|PUNCT
+%wor:	habia 1465000_1465100 un 1465100_1465160 cerdito 1465220_1465800 rosado 1465900_1466561 que 1466701_1466801 gruñia 1466881_1467481 de 1467882_1467982 buen 1468042_1468222 grado 1468302_1468802 .
+*MOT:	habia un caballo grande +... 1469863_1471344
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art-Sing noun|caballo-Masc-Acc adj|grande-S1 +...
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|1|PUNCT
+%wor:	habia 1469863_1470123 un 1470163_1470223 caballo 1470304_1470744 grande 1470844_1471344 +...
+*MOT:	y salterin . 1472705_1473325
+%mor:	cconj|y noun|salterin-Masc .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 1472705_1472725 salterin 1472825_1473325 .
+*MOT:	y junto a el un portillo pequeñin . 1474026_1477329
+%mor:	cconj|y adj|junto-S1 adp|a det|el-Masc-Def-Art-Sing det|uno-Masc-Ind-Art-Sing noun|portillo-Masc adj|pequeñin-S1 .
+%gra:	1|6|CC 2|6|CASE 3|2|FIXED 4|6|DET 5|6|DET 6|7|ROOT 7|6|AMOD 8|6|PUNCT
+%wor:	y 1474026_1474046 junto 1474126_1474487 a 1474547_1474567 el 1474707_1474867 un 1475668_1475868 portillo 1476008_1476708 pequeñin 1476829_1477329 .
+*CHI:	+< no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	<no no no> [/] no . 1477469_1478289
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 1477469_1477609 no 1477609_1477649 no 1477669_1477789 no 1477789_1478289 .
+*MOT:	+< mira el poni &=points . 1477829_1478469
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|poni-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	mira 1477829_1477929 el 1477929_1477969 poni 1477969_1478469 .
+*CHI:	xxx .
+*MOT:	y donde esta la mariposita ? 1480030_1481251
+%mor:	cconj|y adv|donde aux|estar-Fin-S det|el-Fem-Def-Art-Sing noun|mariposita-Fem ?
+%gra:	1|3|CC 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	y 1480030_1480050 donde 1480090_1480330 esta 1480350_1480530 la 1480590_1480671 mariposita 1480751_1481251 ?
+*MOT:	tu ves la mariposita &=points ? 1483034_1483995
+%mor:	det|tu-Def-Prs-Sing-S verb|ver-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Sing noun|mariposita-Fem-Acc ?
+%gra:	1|2|DET 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	tu 1483034_1483114 ves 1483154_1483314 la 1483374_1483434 mariposita 1483495_1483995 ?
+*CHI:	+< no !
+%mor:	adv|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a cambiar la pagina . 1486078_1487459
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|cambiar-Inf-S det|el-Fem-Def-Art-Sing noun|pagina-Fem-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%wor:	vamos 1486078_1486338 a 1486358_1486379 cambiar 1486459_1486779 la 1486819_1486899 pagina 1486959_1487459 .
+*MOT:	sobre el granero giraba un gran caballo dorado . 1488241_1491805
+%mor:	adp|sobre det|el-Masc-Def-Art-Sing noun|granero-Masc verb|girar-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art-Sing adj|gran-S1 noun|caballo-Masc adj|dorado-S1 .
+%gra:	1|3|CASE 2|3|DET 3|4|OBL 4|8|ROOT 5|7|DET 6|7|AMOD 7|4|NSUBJ 8|7|AMOD 9|4|PUNCT
+%wor:	sobre 1488241_1488521 el 1488582_1488642 granero 1488682_1489263 giraba 1489383_1489903 un 1490004_1490084 gran 1490164_1490484 caballo 1490684_1491225 dorado 1491305_1491805 .
+*MOT:	al viento que soplaba . 1492687_1494309
+%mor:	adp|al noun|viento-Masc pron|que-Rel-S1 verb|soplar-Fin-Ind-Imp-S3 .
+%gra:	1|2|CASE 2|4|ROOT 3|4|MARK 4|2|ACL-RELCL 5|2|PUNCT
+%wor:	al 1492687_1492807 viento 1492908_1493468 que 1493589_1493689 soplaba 1493809_1494309 .
+*MOT:	y mira la mariposita todavia esta ahi . 1495910_1499014
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|mariposita-Fem-Acc adv|todavía det|este-Fem-Def-Dem-Sing noun|ahí-Acc .
+%gra:	1|2|CC 2|7|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|7|DET 7|2|OBJ 8|2|PUNCT
+%wor:	y 1495910_1495930 mira 1496010_1496350 la 1496451_1496551 mariposita 1496911_1497672 todavia 1497753_1498193 esta 1498233_1498474 ahi 1498514_1499014 .
+*MOT:	y los niños contentos jugaban con el heno recien cortado . 1503722_1508849
+%mor:	cconj|y det|el-Masc-Def-Art-Plur noun|niño-Masc-Plur adj|contento-P1 verb|jugar-Fin-Ind-Imp-P3 adp|con det|el-Masc-Def-Art-Sing noun|heno-Masc adv|recién adj|cortado-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|AMOD 5|10|ROOT 6|8|CASE 7|8|DET 8|5|OBL 9|10|ADVMOD 10|8|AMOD 11|5|PUNCT
+%wor:	y 1503722_1503742 los 1503802_1503942 niños 1504002_1504383 contentos 1504443_1505184 jugaban 1505665_1506366 con 1506546_1506746 el 1506826_1506947 heno 1507447_1507728 recien 1507828_1508269 cortado 1508349_1508849 .
+*MOT:	en un rincon apilado . 1509850_1511612
+%mor:	adp|en det|uno-Masc-Ind-Art-Sing noun|rincon-Masc adj|apilado-S1 .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	en 1509850_1509950 un 1510030_1510130 rincon 1510230_1510771 apilado 1511112_1511612 .
+*CHI:	+< xxx .
+%com:	child fusses .
+*MOT:	pero no hay niños en este momento . 1513255_1515397
+%mor:	cconj|pero adv|no verb|haber-Fin-Ind-Pres-S3 noun|niño-Masc-Plur-Acc adp|en det|este-Masc-Def-Dem-Sing noun|momento-Masc .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|7|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	pero 1513255_1513455 no 1513575_1513635 hay 1513675_1513796 niños 1513856_1514356 en 1514436_1514517 este 1514577_1514797 momento 1514897_1515397 .
+*MOT:	solo hay animales en este cuento . 1516059_1519103
+%mor:	adv|sólo verb|haber-Fin-Ind-Pres-S3 noun|animal-Masc-Plur-Acc adp|en det|este-Masc-Def-Dem-Sing noun|contar-Masc .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|2|OBJ 4|6|CASE 5|6|DET 6|2|OBL 7|2|PUNCT
+%wor:	solo 1516059_1516379 hay 1516439_1516680 animales 1517281_1518002 en 1518102_1518202 este 1518262_1518502 cuento 1518603_1519103 .
+*MOT:	las ovejas . 1520906_1521746
+%mor:	det|el-Fem-Def-Art-Plur noun|oveja-Fem-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	las 1520906_1521166 ovejas 1521246_1521746 .
+*MOT:	y un burro manso . 1522268_1523389
+%mor:	cconj|y det|uno-Masc-Ind-Art-Sing noun|burro-Masc adj|manso-S1 .
+%gra:	1|3|CC 2|3|DET 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	y 1522268_1522288 un 1522348_1522448 burro 1522508_1522789 manso 1522889_1523389 .
+*MOT:	las cabritas . 1524190_1525030
+%mor:	det|el-Fem-Def-Art-Plur noun|cabrita-Fem-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	las 1524190_1524430 cabritas 1524530_1525030 .
+*MOT:	y los gansos . 1525533_1526373
+%mor:	cconj|y det|el-Masc-Def-Art-Plur noun|ganso-Masc-Plur .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	y 1525533_1525553 los 1525613_1525813 gansos 1525873_1526373 .
+*MOT:	hacian ruidos . 1526896_1527977
+%mor:	verb|hacer-Fin-Ind-Imp-P3 noun|ruido-Masc-Plur-Acc .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	hacian 1526896_1527337 ruidos 1527477_1527977 .
+*MOT:	y mas ruidos . 1528098_1529160
+%mor:	cconj|y adv|más noun|ruido-Masc-Plur .
+%gra:	1|3|CC 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	y 1528098_1528118 mas 1528259_1528559 ruidos 1528660_1529160 .
+*MOT:	rebuznos .
+%mor:	noun|rebuzno-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	graznidos .
+%mor:	noun|graznido-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mispronounces graznidos .
+*MOT:	y berridos . 1532648_1533269
+%mor:	cconj|y adj|berrido-P1 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 1532648_1532668 berridos 1532769_1533269 .
+*MOT:	un espantapajaros viejo contemplaba perplejo a un ratoncito feliz . 1534270_1540998
+%mor:	det|uno-Masc-Ind-Art-Sing noun|espantapajaro-Masc adj|viejo-S1 verb|contemplar-Fin-Ind-Imp-S3 adj|perplejo-S1 adp|a det|uno-Masc-Ind-Art-Sing noun|ratoncito-Masc-Acc adj|feliz-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|AMOD 4|9|ROOT 5|4|OBJ 6|8|CASE 7|8|DET 8|4|OBJ 9|8|AMOD 10|4|PUNCT
+%wor:	un 1534270_1534630 espantapajaros 1534710_1535832 viejo 1535912_1536272 contemplaba 1536813_1537754 perplejo 1537874_1538575 a 1539116_1539136 un 1539296_1539416 ratoncito 1539577_1540398 feliz 1540498_1540998 .
+*MOT:	donde esta el ratoncito ? 1542941_1544422
+%mor:	adv|donde verb|estar-Fin-S det|el-Masc-Def-Art-Sing noun|ratoncito-Masc ?
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	donde 1542941_1543202 esta 1543222_1543402 el 1543622_1543902 ratoncito 1543922_1544422 ?
+%com:	mispronounces ratoncito . Begins to say a word before el .
+*MOT:	no veo el ratoncito . 1544784_1545744
+%mor:	adv|no verb|ver-Fin-Ind-Pres-S1 det|el-Masc-Def-Art-Sing noun|ratoncito-Masc-Acc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	no 1544784_1544864 veo 1544944_1545104 el 1545104_1545184 ratoncito 1545244_1545744 .
+*MOT:	Blake mira un ratoncito . 1545945_1549469
+%mor:	propn|blake verb|mirar-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|ratoncito-Masc-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	Blake 1545945_1548749 mira 1548749_1548829 un 1548909_1548969 ratoncito 1548969_1549469 .
+*MOT:	que nacio en un campo de maiz . 1552550_1555074
+%mor:	pron|que-Rel-S1 verb|nacer-Fin-Ind-Pres-S1 adp|en det|uno-Masc-Ind-Art-Sing noun|campo-Masc adp|de noun|maiz-Masc .
+%gra:	1|2|MARK 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CASE 7|5|NMOD 8|2|PUNCT
+%wor:	que 1552550_1552650 nacio 1552690_1553171 en 1553472_1553572 un 1553632_1553752 campo 1553872_1554313 de 1554393_1554494 maiz 1554574_1555074 .
+*MOT:	Blake mira el ratoncito . 1555736_1557118
+%mor:	propn|blake verb|mirar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|ratoncito-Masc-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	Blake 1555736_1556057 mira 1556237_1556437 el 1556477_1556538 ratoncito 1556618_1557118 .
+*MOT:	mira . 1558341_1558841
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 1558341_1558841 .
+*MOT:	mira . 1559403_1559903
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 1559403_1559903 .
+*MOT:	mira los ratoncitos . 1560666_1561687
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Plur noun|ratoncito-Masc-Plur-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	mira 1560666_1560906 los 1560966_1561106 ratoncitos 1561187_1561687 .
+*MOT:	y sus bebes . 1561988_1562789
+%mor:	cconj|y det|su-Def-Prs-Plur noun|bebe-Masc-Plur .
+%gra:	1|3|CC 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	y 1561988_1562008 sus 1562008_1562269 bebes 1562289_1562789 .
+*MOT:	uno_dos_tres@x .
+%mor:	noun|unodostre-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	quiquiriqui .
+%mor:	noun|quiquiriqui-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< quiquiriqui .
+%mor:	noun|quiquiriqui-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mispronounces quiquiriqui .
+*MOT:	canto el gallo de madrugada . 1571740_1573440
+%mor:	noun|canto-Masc det|el-Masc-Def-Art-Sing noun|gallo-Masc-Acc adp|de noun|madrugada-Fem .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|3|NMOD 6|1|PUNCT
+%wor:	canto 1571740_1572060 el 1572140_1572220 gallo 1572280_1572680 de 1572780_1572860 madrugada 1572940_1573440 .
+*CHI:	+< xxx .
+%com:	more than two unintelligible words spoken .
+*MOT:	y desperto a la paloma azulada . 1576243_1578544
+%mor:	cconj|y verb|despertar-Fin-Ind-Pres-S1 adp|a det|el-Fem-Def-Art-Sing noun|paloma-Fem-Acc adj|azulado-S1 .
+%gra:	1|2|CC 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|5|AMOD 7|2|PUNCT
+%wor:	y 1576243_1576263 desperto 1576323_1576903 a 1576984_1577004 la 1577064_1577164 paloma 1577304_1577844 azulada 1578044_1578544 .
+*CHI:	+< xxx .
+*MOT:	y a un +/. 1580506_1581226
+%mor:	cconj|y adp|a det|uno-Masc-Ind-Art-Sing +/.
+%gra:	1|3|CC 2|3|CASE 3|3|ROOT 4|3|PUNCT
+%wor:	y 1580506_1580526 a 1580566_1580586 un 1580726_1581226 +/.
+%com:	video cuts off then back on .
+*MOT:	sacos de trigo . 1580927_1582307
+%mor:	noun|saco-Masc-Plur adp|de noun|trigo-Masc .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	sacos 1580927_1581527 de 1581587_1581687 trigo 1581807_1582307 .
+*CHI:	xxx .
+*MOT:	cuantos huevos ves ? 1583328_1585129
+%mor:	det|cuanto-Masc-Def-Ind-Plur noun|huevo-Masc-Plur verb|ver-Fin-Ind-Pres-S1 ?
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	cuantos 1583328_1583929 huevos 1584069_1584529 ves 1584629_1585129 ?
+%com:	child walks off frame .
+*MOT:	cuentalos .
+%mor:	noun|cuentalo-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a contar los huevos Blake . 1586660_1591146
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|contar-Inf-S det|el-Masc-Def-Art-Plur noun|huevo-Masc-Plur-Acc propn|blake .
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|5|APPOS 7|1|PUNCT
+%wor:	vamos 1586660_1586980 a 1587041_1587061 contar 1587181_1587862 los 1587942_1588142 huevos 1588202_1588623 Blake 1590646_1591146 .
+*MOT:	Blake vamos a contar los huevos . 1590806_1592508
+%mor:	propn|blake verb|ir-Fin-Ind-Pres-P1 adp|a verb|contar-Inf-S det|el-Masc-Def-Art-Plur noun|huevo-Masc-Plur-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|2|PUNCT
+%wor:	Blake 1590806_1590946 vamos 1590946_1591207 a 1591247_1591287 contar 1591367_1591728 los 1591788_1591928 huevos 1592008_1592508 .
+*MOT:	uno@x . 1592749_1593249
+%mor:	pron|uno-Ind-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uno 1592749_1593249 .
+*CHI:	xxx .
+%com:	child is off frame .
+*MOT:	dos_tres_cuatro_cinco@x .
+%mor:	noun|dostrescuatrocinco-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< cinco_seis_xxx_ocho_nueve@x .
+%mor:	noun|cincoseisxxxochonueve-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< siete_nue(ve)_diez@x !
+%mor:	noun|sietenuevediez-Masc-Plur !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	diez@x !
+%mor:	num|diez !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	aqui estan los huevos . 1612040_1612880
+%mor:	adv|aquí verb|estar-Fin-Ind-Pres-P1 det|el-Masc-Def-Art-Plur noun|huevo-Masc-Plur .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	aqui 1612040_1612120 estan 1612120_1612240 los 1612240_1612340 huevos 1612380_1612880 .
+*MOT:	habia una vaca marron y un ternero jugueton . 1613362_1616627
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Fem-Ind-Art-Sing noun|vaca-Fem-Acc adj|marrón-S1 cconj|y det|uno-Masc-Ind-Art-Sing noun|ternero-Masc adj|jugueton-S1 .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|7|CC 6|7|DET 7|3|CONJ 8|7|AMOD 9|1|PUNCT
+%wor:	habia 1613362_1613602 una 1613702_1613863 vaca 1613963_1614323 marron 1614384_1614925 y 1615165_1615185 un 1615285_1615365 ternero 1615425_1616006 jugueton 1616127_1616627 .
+*CHI:	xxx .
+*MOT:	+< y todo el dia se oia moo . 1617729_1620313
+%mor:	cconj|y det|todo-Masc-Def-Tot-Sing det|el-Masc-Def-Art-Sing noun|día-Masc pron|él-Prs-Acc-reflx-S3 verb|oír-Fin-Ind-Pres-S3 propn|moo .
+%gra:	1|6|CC 2|3|DET 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|7|ROOT 7|6|NSUBJ 8|6|PUNCT
+%wor:	y 1617729_1617749 todo 1617890_1618190 el 1618250_1618330 dia 1618391_1618591 se 1618791_1618871 oia 1618992_1619292 moo 1619813_1620313 .
+*CHI:	moo .
+%mor:	noun|moo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	moo .
+%mor:	noun|moo .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y quiquiriqui . 1619993_1620513
+%mor:	cconj|y noun|quiquiriqui-Masc .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 1619993_1620013 quiquiriqui 1620013_1620513 .
+%com:	mispronounces quiquiriqui .
+*CHI:	quiqui(ri)qui .
+%mor:	noun|quiquiriqui-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y habia una gata con sus gatitos . 1627640_1629822
+%mor:	cconj|y verb|haber-Fin-Ind-Imp-S1 det|uno-Fem-Ind-Art-Sing noun|gata-Fem-Acc adp|con det|su-Def-Prs-Plur noun|gatito-Masc-Plur .
+%gra:	1|2|CC 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	y 1627640_1627660 habia 1627700_1627940 una 1628040_1628220 gata 1628321_1628741 con 1628841_1628981 sus 1629042_1629242 gatitos 1629322_1629822 .
+*MOT:	mira los gatitos Blake . 1630143_1631885
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Plur noun|gatito-Masc-Plur-Acc propn|blake .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|3|APPOS 5|1|PUNCT
+%wor:	mira 1630143_1630383 los 1630463_1630624 gatitos 1630664_1631305 Blake 1631385_1631885 .
+*MOT:	que dicen los gatitos ? 1631665_1632886
+%mor:	pron|que-Rel-S1 verb|decir-Fin-Ind-Pres-P3 det|el-Masc-Def-Art-Plur noun|gatito-Masc-Plur ?
+%gra:	1|2|OBJ 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	que 1631665_1631745 dicen 1631805_1632146 los 1632186_1632326 gatitos 1632386_1632886 ?
+*MOT:	que dicen los gatitos ? 1634048_1635189
+%mor:	pron|que-Rel-S1 verb|decir-Fin-Ind-Pres-P3 det|el-Masc-Def-Art-Plur noun|gatito-Masc-Plur ?
+%gra:	1|2|OBJ 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	que 1634048_1634148 dicen 1634189_1634489 los 1634529_1634649 gatitos 1634689_1635189 ?
+*CHI:	xxx miau .
+%mor:	intj|miau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	miau .
+%mor:	intj|miau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	muy bien . 1638574_1639375
+%mor:	adv|mucho adv|bien .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	muy 1638574_1638775 bien 1638875_1639375 .
+*MOT:	y un gato con mucho [/] mucho apetito . 1639876_1642359
+%mor:	cconj|y det|uno-Masc-Ind-Art-Sing noun|gato-Masc adp|con det|mucho-Masc-Def-Ind-Sing noun|apetito-Masc .
+%gra:	1|3|CC 2|3|DET 3|6|ROOT 4|6|CASE 5|6|DET 6|3|NMOD 7|3|PUNCT
+%wor:	y 1639876_1639896 un 1639976_1640056 gato 1640137_1640497 con 1640637_1640797 mucho 1640938_1641478 mucho 1641558_1641839 apetito 1641859_1642359 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< tenia mucha hambre . 1643610_1647212
+%mor:	verb|tener-Fin-Ind-Imp-S3 det|mucho-Fem-Def-Ind-Sing noun|hambre-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	tenia 1643610_1645351 mucha 1645391_1646612 hambre 1646712_1647212 .
+*CHI:	+< xxx no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	miau .
+%mor:	intj|miau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	miau .
+%mor:	intj|miau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	miau .
+%mor:	intj|miau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y habia una perra muy atenta que decia [=! dog noises] . 1648533_1651255
+%mor:	cconj|y verb|haber-Fin-Ind-Imp-S1 det|uno-Fem-Ind-Art-Sing noun|perra-Fem-Acc adv|mucho adj|atento-S1 pron|que-Rel-S1 verb|decir-Fin-Ind-Imp-S3 .
+%gra:	1|2|CC 2|8|ROOT 3|4|DET 4|2|OBJ 5|6|ADVMOD 6|4|AMOD 7|8|MARK 8|4|ACL-RELCL 9|2|PUNCT
+%wor:	y 1648533_1648553 habia 1648613_1648833 una 1648914_1649054 perra 1649194_1649614 muy 1649774_1649974 atenta 1650054_1650535 que 1650635_1650715 decia 1650755_1651255 .
+*CHI:	0 [=! dog noises] .
+*MOT:	+< 0 [=! dog noises] .
+*MOT:	a sus cachoritos . 1654237_1655117
+%mor:	adp|a det|su-Def-Prs-Plur noun|cachorito-Masc-Plur .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	a 1654237_1654257 sus 1654337_1654537 cachoritos 1654617_1655117 .
+*MOT:	paseaba contenta . 1656058_1657419
+%mor:	verb|pasear-Fin-Ind-Imp-S3 adj|contentar-S1 .
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%wor:	paseaba 1656058_1656739 contenta 1656919_1657419 .
+*MOT:	en el granero como les digo todos eran muy buenos amigos . 1658900_1663526
+%mor:	adp|en det|el-Masc-Def-Art-Sing noun|granero-Masc sconj|como pron|él-Prs-Dat-P3 verb|decir-Fin-Ind-Pres-S1 pron|todo-Tot-P1 aux|ser-Fin-Ind-Imp-P3 adv|mucho adj|buen-P1 noun|amigo-Masc-Plur .
+%gra:	1|3|CASE 2|3|DET 3|11|NMOD 4|6|MARK 5|6|OBL-ARG 6|3|ACL 7|6|NSUBJ 8|11|COP 9|10|ADVMOD 10|11|AMOD 11|11|ROOT 12|11|PUNCT
+%wor:	en 1658900_1658980 el 1659020_1659100 granero 1659160_1659681 como 1659861_1660062 les 1660122_1660262 digo 1660322_1660582 todos 1661123_1661524 eran 1661664_1661904 muy 1661984_1662285 buenos 1662465_1662925 amigos 1663026_1663526 .
+*MOT:	mira Blake . 1663987_1664807
+%mor:	verb|mirar-Fin-Ind-Pres-S3 propn|blake .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	mira 1663987_1664227 Blake 1664307_1664807 .
+*MOT:	todos los animales juegan juntos &=points . 1664828_1667010
+%mor:	det|todo-Masc-Def-Tot-Plur det|el-Masc-Def-Art-Plur noun|animal-Masc-Plur verb|jugar-Fin-Ind-Pres-P3 adj|junto-P1 .
+%gra:	1|2|DET 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	todos 1664828_1665148 los 1665209_1665369 animales 1665469_1666030 juegan 1666130_1666450 juntos 1666510_1667010 .
+*MOT:	y en el prado animales pastaban . 1667832_1670575
+%mor:	cconj|y adp|en det|el-Masc-Def-Art-Sing noun|prado-Masc noun|animal-Masc-Plur verb|pastar-Fin-Ind-Imp-P3 .
+%gra:	1|6|CC 2|4|CASE 3|4|DET 4|6|OBL 5|6|NSUBJ 6|6|ROOT 7|6|PUNCT
+%wor:	y 1667832_1667852 en 1667892_1667972 el 1668032_1668112 prado 1668193_1668613 animales 1669274_1669975 pastaban 1670075_1670575 .
+*MOT:	corrian .
+%mor:	noun|corrian .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	gruñian .
+%mor:	noun|gruñian-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y jugaban . 1672619_1673259
+%mor:	cconj|y verb|jugar-Fin-Ind-Imp-P3 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 1672619_1672639 jugaban 1672759_1673259 .
+*MOT:	y mira . 1674180_1674780
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 1674180_1674200 mira 1674280_1674780 .
+*MOT:	y esta es la mariposita otra vez &=points . 1674681_1676823
+%mor:	cconj|y pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|mariposita-Fem det|otro-Fem-Def-Ind-Sing noun|vez-Fem .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|7|ROOT 6|7|DET 7|5|OBL 8|5|PUNCT
+%wor:	y 1674681_1674701 esta 1674761_1675021 es 1675021_1675061 la 1675101_1675181 mariposita 1675242_1676003 otra 1676063_1676263 vez 1676323_1676823 .
+*MOT:	tu ves mariposita &=points . 1676744_1677705
+%mor:	det|tu-Def-Prs-Sing-S verb|ver-Fin-Ind-Pres-S1 noun|mariposita-Fem-Acc .
+%gra:	1|2|DET 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	tu 1676744_1676844 ves 1676884_1677025 mariposita 1677205_1677705 .
+*MOT:	esta jugando con el gatito . 1680130_1681692
+%mor:	aux|estar-Fin-S verb|jugar-Ger-S adp|con det|el-Masc-Def-Art-Sing noun|gatito-Masc .
+%gra:	1|2|AUX 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	esta 1680130_1680350 jugando 1680410_1680791 con 1680871_1681011 el 1681051_1681131 gatito 1681192_1681692 .
+*MOT:	y mira . 1683295_1683895
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 .
+%gra:	1|2|CC 2|2|ROOT 3|2|PUNCT
+%wor:	y 1683295_1683315 mira 1683395_1683895 .
+*MOT:	el gatito esta durmiendo en la paja . 1683676_1686339
+%mor:	det|el-Masc-Def-Art-Sing noun|gatito-Masc aux|estar-Fin-S verb|dormir-Ger-S adp|en det|el-Fem-Def-Art-Sing noun|paja-Fem .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	el 1683676_1683736 gatito 1683776_1684237 esta 1684697_1684918 durmiendo 1684998_1685539 en 1685579_1685639 la 1685659_1685739 paja 1685839_1686339 .
+*MOT:	y cuando el sol se ponia mas alla del verde prado . 1689680_1693505
+%mor:	cconj|y sconj|cuando det|el-Masc-Def-Art-Sing noun|sol-Masc pron|él-Prs-Acc-reflx-S3 verb|poner-Fin-Ind-Imp-S3 adv|más noun|allá-Fem-Acc adp|del adj|verde-S1 adj|prado-S1 .
+%gra:	1|6|CC 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|11|ROOT 7|8|ADVMOD 8|6|OBJ 9|10|CASE 10|8|NMOD 11|10|AMOD 12|6|PUNCT
+%wor:	y 1689680_1689700 cuando 1689780_1690040 el 1690100_1690161 sol 1690301_1690521 se 1690601_1690701 ponia 1690802_1691222 mas 1691723_1691983 alla 1692063_1692284 del 1692384_1692544 verde 1692604_1692905 prado 1693005_1693505 .
+*MOT:	la vaca grande mugia . 1694127_1695889
+%mor:	det|el-Fem-Def-Art-Sing noun|vaca-Fem adj|grande-S1 adj|mugio-S1 .
+%gra:	1|2|DET 2|4|ROOT 3|2|AMOD 4|2|AMOD 5|2|PUNCT
+%wor:	la 1694127_1694227 vaca 1694367_1694728 grande 1694828_1695288 mugia 1695389_1695889 .
+*MOT:	y gruñia el cerdito rosado . 1696210_1698693
+%mor:	cconj|y verb|gruñir-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|cerdito-Masc adj|rosado-S1 .
+%gra:	1|2|CC 2|5|ROOT 3|4|DET 4|2|NSUBJ 5|4|AMOD 6|2|PUNCT
+%wor:	y 1696210_1696230 gruñia 1696330_1696911 el 1697312_1697452 cerdito 1697592_1698093 rosado 1698193_1698693 .
+*MOT:	ves el cerdito ? 1699235_1700095
+%mor:	verb|ver-Fin-Ind-Pres-S1 det|el-Masc-Def-Art-Sing noun|cerdito-Masc-Acc ?
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	ves 1699235_1699395 el 1699415_1699515 cerdito 1699595_1700095 ?
+*MOT:	y los cerditos dicen <oink oink oink> [/] oink . 1701338_1702859
+%mor:	cconj|y det|el-Masc-Def-Art-Plur noun|cerdito-Masc-Plur verb|decir-Fin-Ind-Pres-P3 noun|oink-Masc-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	y 1701338_1701358 los 1701418_1701558 cerditos 1701618_1702019 dicen 1702019_1702119 oink 1702119_1702199 oink 1702199_1702279 oink 1702279_1702359 oink 1702359_1702859 .
+%com:	child laughs while his mother tickles him with each oink said .
+*MOT:	los caballos brincaban en el heno suave . 1708860_1711864
+%mor:	det|el-Masc-Def-Art-Plur noun|caballo-Masc-Plur verb|brincar-Fin-Ind-Imp-P3 adp|en det|el-Masc-Def-Art-Sing noun|heno-Masc adj|suave-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|6|AMOD 8|3|PUNCT
+%wor:	los 1708860_1709000 caballos 1709060_1709541 brincaban 1709601_1710503 en 1710743_1710843 el 1710884_1711004 heno 1711024_1711244 suave 1711364_1711864 .
+*MOT:	y el burrito rebuznaba con vos grave . 1712026_1715511
+%mor:	cconj|y det|el-Masc-Def-Art-Sing noun|burrito-Masc verb|rebuznar-Fin-Ind-Imp-S3 adp|con pron|tú-Prs-S2 adj|grave-S1 .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|7|ROOT 5|6|CASE 6|4|OBL 7|6|AMOD 8|4|PUNCT
+%wor:	y 1712026_1712046 el 1712106_1712206 burrito 1712246_1712747 rebuznaba 1713108_1713909 con 1714490_1714670 vos 1714711_1714911 grave 1715011_1715511 .
+*MOT:	las gallinas y los gallos se durmieron . 1717476_1719719
+%mor:	det|el-Fem-Def-Art-Plur noun|gallina-Fem-Plur cconj|y det|el-Masc-Def-Art-Plur noun|gallo-Masc-Plur pron|él-Prs-Acc-reflx-S3 verb|dormir-Fin-Ind-Past-P3 .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|EXPL-PV 7|7|ROOT 8|7|PUNCT
+%wor:	las 1717476_1717676 gallinas 1717736_1718297 y 1718377_1718397 los 1718457_1718618 gallos 1718678_1719038 se 1719078_1719179 durmieron 1719219_1719719 .
+*CHI:	ah .
+%mor:	x|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y los pequeños murcielagos del granero salieron volaron muy ligero . 1720700_1726073
+%mor:	cconj|y det|el-Masc-Def-Art-Plur adj|pequeño-P1 noun|murcielago-Masc-Plur adp|del noun|granero-Masc verb|salir-Fin-Ind-Past-P3 verb|volar-Fin-Ind-Past-P3 adv|mucho adj|ligero-S1 .
+%gra:	1|7|CC 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|6|CASE 6|4|NMOD 7|10|ROOT 8|7|XCOMP 9|10|ADVMOD 10|8|XCOMP 11|7|PUNCT
+%wor:	y 1720700_1720720 los 1720800_1721001 pequeños 1721121_1721803 murcielagos 1721903_1722785 del 1722805_1722926 granero 1722986_1723447 salieron 1723948_1724590 volaron 1724610_1725151 muy 1725232_1725452 ligero 1725573_1726073 .
+*CHI:	+< xxx .
+%com:	more than two unintelligible words spoken .
+*MOT:	Blake aqui hay murcielagos &=points . 1726094_1728318
+%mor:	propn|blake propn|aquí verb|haber-Fin-Ind-Pres-S3 noun|murcielago-Masc-Plur-Acc .
+%gra:	1|3|NSUBJ 2|1|FLAT 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	Blake 1726094_1726876 aqui 1727257_1727638 hay 1727638_1727758 murcielagos 1727818_1728318 .
+*MOT:	y asi de esta manera los animales pasaron la noche entera . 1733060_1737466
+%mor:	cconj|y adv|así adp|de det|este-Fem-Def-Dem-Sing noun|manera-Fem det|el-Masc-Def-Art-Plur noun|animal-Masc-Plur verb|pasar-Fin-Ind-Past-P3 det|el-Fem-Def-Art-Sing noun|noche-Fem-Acc adj|entero-S1 .
+%gra:	1|8|CC 2|8|ADVMOD 3|5|CASE 4|5|DET 5|8|OBL 6|7|DET 7|8|NSUBJ 8|11|ROOT 9|10|DET 10|8|OBJ 11|10|AMOD 12|8|PUNCT
+%wor:	y 1733060_1733080 asi 1733160_1733440 de 1733801_1733881 esta 1733961_1734202 manera 1734262_1734682 los 1734802_1734983 animales 1735083_1735664 pasaron 1735744_1736325 la 1736365_1736445 noche 1736545_1736906 entera 1736966_1737466 .
+*MOT:	en el gran granero rojo . 1738388_1740450
+%mor:	adp|en det|el-Masc-Def-Art-Sing adj|gran-S1 noun|granero-Masc adj|rojo-S1 .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|5|ROOT 5|4|AMOD 6|4|PUNCT
+%wor:	en 1738388_1738468 el 1738528_1738628 gran 1738709_1739089 granero 1739289_1739810 rojo 1739950_1740450 .
+*MOT:	solo se escuchaban los ratones escarbando por los ricones . 1741693_1746079
+%mor:	adv|sólo pron|él-Prs-Acc-reflx-S3 verb|escuchar-Fin-Ind-Imp-P3 det|el-Masc-Def-Art-Plur noun|ratón-Masc-Plur verb|escarbar-Ger-S adp|por det|el-Masc-Def-Art-Plur noun|ricón-Masc-Plur .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|9|ROOT 4|5|DET 5|3|NSUBJ 6|3|ADVCL 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+%wor:	solo 1741693_1742054 se 1742154_1742234 escuchaban 1742274_1742955 los 1742995_1743135 ratones 1743216_1743957 escarbando 1744718_1745439 por 1745439_1745499 los 1745499_1745579 ricones 1745579_1746079 .
+%com:	pauses before saying escarbando . Mispronounces escarbando .
+*MOT:	mientras la luna sola proseguía . 1747040_1749243
+%mor:	sconj|mientras det|el-Fem-Def-Art-Sing noun|luna-Fem adj|solo-S1 verb|proseguir-Fin-Ind-Imp-S3 .
+%gra:	1|5|MARK 2|3|DET 3|5|NSUBJ 4|3|AMOD 5|5|ROOT 6|5|PUNCT
+%wor:	mientras 1747040_1747461 la 1747541_1747621 luna 1747721_1748102 sola 1748282_1748623 proseguía 1748743_1749243 .
+*MOT:	mira Blake . 1750226_1751047
+%mor:	verb|mirar-Fin-Ind-Pres-S3 propn|blake .
+%gra:	1|2|ROOT 2|1|NSUBJ 3|1|PUNCT
+%wor:	mira 1750226_1750447 Blake 1750547_1751047 .
+*MOT:	tu ves un barquito ? 1750827_1751788
+%mor:	det|tu-Def-Prs-Sing-S verb|ver-Fin-Ind-Pres-S1 det|uno-Masc-Ind-Art-Sing noun|barquito-Masc-Acc ?
+%gra:	1|2|DET 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	tu 1750827_1750907 ves 1750968_1751128 un 1751188_1751248 barquito 1751288_1751788 ?
+*MOT:	Blake mi barquito . 1753452_1754553
+%mor:	propn|Blake propn|mi x|barquito .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	Blake 1753452_1753793 mi 1753793_1753893 barquito 1754053_1754553 .
+*MOT:	un barquito en el agua . 1756057_1757579
+%mor:	det|uno-Masc-Ind-Art-Sing noun|barquito-Masc adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|2|DET 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	un 1756057_1756157 barquito 1756218_1756779 en 1756819_1756879 el 1756919_1757019 agua 1757079_1757579 .
+*MOT:	ven con mami Blake .
+%mor:	verb|ver-Fin-Ind-Pres-P3 adp|con propn|mami propn|blake .
+%gra:	1|4|ROOT 2|3|CASE 3|1|OBL 4|3|APPOS 5|1|PUNCT
+*MOT:	Blake .
+%mor:	propn|Blake .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	gasps .
+*MOT:	ooh .
+%mor:	intj|ooh .
+%gra:	1|1|ROOT 2|1|PUNCT
+@End

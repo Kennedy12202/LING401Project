@@ -1,0 +1,1606 @@
+@UTF8
+@PID:	11312/a-00078157-1
+@Begin
+@Languages:	spa
+@Participants:	PAR0 Participant
+@ID:	spa|Hoff|PAR0|||||Participant|||
+@Media:	118, video
+@Comment:	Batchalign 0.7.3-beta.1, ASR Engine whisper
+@Types:	cross, toyplay, biling
+*PAR0:	Stuart , cómo estás . 17300_18320
+%mor:	propn|stuart cm|cm pron|cómo-Ind-S1 verb|estar-Fin-Ind-Pres-S1 .
+%gra:	1|4|ROOT 2|3|PUNCT 3|4|OBL 4|1|ACL 5|1|PUNCT
+%wor:	Stuart 17300_17460 , cómo 17580_17780 estás 17820_18320 .
+*PAR0:	Mira , qué tengo aquí . 20062_21363
+%mor:	verb|mirar-Fin-Ind-Pres-S cm|cm pron|qué-Int-S1 verb|tener-Fin-Ind-Pres-S1 adv|aquí .
+%gra:	1|5|ROOT 2|4|PUNCT 3|4|NSUBJ 4|1|CCOMP 5|4|ADVMOD 6|1|PUNCT
+%wor:	Mira 20062_20303 , qué 20403_20543 tengo 20543_20823 aquí 20863_21363 .
+*PAR0:	Cómo se llama esto . 21624_22704
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 pron|este-Dem-S1 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	Cómo 21624_21784 se 21824_21904 llama 21924_22124 esto 22204_22704 .
+*PAR0:	Se llama [/] llama . 24707_26468
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+%wor:	Se 24707_24787 llama 24847_25228 llama 25968_26468 .
+*PAR0:	Llama , ok , la vamos a llevar a la llama , le vamos a hacer su casita aquí , para los amiguitos . 27740_34826
+%mor:	verb|llama-Fin-Ind-Pres-S3 cm|cm intj|ok cm|cm pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-P1 adp|a verb|llevar-Inf-S adp|a det|el-Fem-Def-Art-Sing noun|llama-Fem cm|cm pron|él-Prs-Dat-S3 verb|ir-Fin-Ind-Pres-P1 adp|a verb|hacer-Inf-S det|su-Def-Prs-Sing noun|casita-Fem-Acc adv|aquí cm|cm adp|para det|el-Masc-Def-Art-Plur noun|amiguito-Masc-Plur .
+%gra:	1|23|ROOT 2|3|PUNCT 3|1|OBL 4|3|PUNCT 5|6|OBJ 6|1|XCOMP 7|8|MARK 8|6|XCOMP 9|6|CASE 10|9|FIXED 11|9|FIXED 12|14|PUNCT 13|16|OBL-ARG 14|1|ADVCL 15|16|MARK 16|14|XCOMP 17|18|DET 18|16|OBJ 19|16|ADVMOD 20|23|PUNCT 21|23|CASE 22|23|DET 23|14|OBL 24|1|PUNCT
+%wor:	Llama 27740_28180 , ok 28500_28620 , la 28741_28801 vamos 28841_29101 a 29141_29161 llevar 29181_29501 a 29561_29581 la 29601_29681 llama 29742_30182 , le 31043_31143 vamos 31223_31483 a 31483_31503 hacer 31503_31723 su 31784_31864 casita 31924_32544 aquí 32985_33926 , para 33926_34086 los 34126_34266 amiguitos 34326_34826 .
+*PAR0:	Ok , entonces ponle la llamita y ya está . 35968_38449
+%mor:	propn|ok cm|cm adv|entonces verb|poner-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|llamita-Fem-Acc cconj|y adv|ya aux|estar-Fin-Ind-Pres-S3 .
+%gra:	1|4|DEP 2|1|PUNCT 3|4|ADVMOD 4|9|ROOT 5|6|DET 6|4|OBJ 7|9|CC 8|9|ADVMOD 9|4|CONJ 10|4|PUNCT
+%wor:	Ok 35968_36068 , entonces 36128_37109 ponle 37149_37409 la 37409_37489 llamita 37509_37869 y 37869_37889 ya 37909_37949 está 37949_38449 .
+*PAR0:	Vamos a poner aquí la llamita . 46000_47620
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S adv|aquí det|el-Fem-Def-Art-Sing noun|llamita-Fem-Acc .
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|3|ADVMOD 5|6|DET 6|3|OBJ 7|1|PUNCT
+%wor:	Vamos 46000_46380 a 46420_46440 poner 46460_46760 aquí 46800_47040 la 47040_47100 llamita 47120_47620 .
+*PAR0:	Esta es la casita de los animales , no . 52684_54706
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|casita-Fem adp|de det|el-Masc-Def-Art-Plur noun|animal-Masc-Plur cm|cm adv|no .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|9|ROOT 5|7|CASE 6|7|DET 7|4|NMOD 8|9|PUNCT 9|4|ADVMOD 10|4|PUNCT
+%wor:	Esta 52684_52945 es 52945_52985 la 53025_53085 casita 53145_53465 de 53465_53505 los 53505_53625 animales 53705_54166 , no 54206_54706 .
+*PAR0:	Y este es el agua . 54526_58508
+%mor:	cconj|y pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	Y 54526_54546 este 54646_54906 es 54986_55086 el 57808_57928 agua 58008_58508 .
+*PAR0:	Quién vive en el agua . 58729_59949
+%mor:	pron|quién-Int-S1 verb|vivir-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	Quién 58729_58909 vive 58949_59149 en 59169_59229 el 59289_59389 agua 59449_59949 .
+*PAR0:	La llamita o el dolphin . 60490_62372
+%mor:	det|el-Fem-Def-Art-Sing noun|llamita-Fem cconj|o det|el-Masc-Def-Art-Sing noun|dolphin-Masc .
+%gra:	1|2|DET 2|5|ROOT 3|5|CC 4|5|DET 5|2|CONJ 6|2|PUNCT
+%wor:	La 60490_60570 llamita 60590_61171 o 61431_61451 el 61571_61672 dolphin 61872_62372 .
+*PAR0:	Ponlo en el agua entonces . 65437_66738
+%mor:	verb|poner-Fin-Ind-Pres-S1 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem adv|entonces .
+%gra:	1|5|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|ADVMOD 6|1|PUNCT
+%wor:	Ponlo 65437_65717 en 65717_65777 el 65818_65918 agua 65978_66178 entonces 66238_66738 .
+*PAR0:	Pongamos el casito en el agua . 66779_69783
+%mor:	verb|poner-Fin-Ind-Pres-P1 det|el-Masc-Def-Art-Sing noun|casito-Masc-Acc adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%wor:	Pongamos 66779_68341 el 68381_68441 casito 68481_68882 en 68902_68982 el 69042_69182 agua 69283_69783 .
+*PAR0:	Ahora , lo que encontré .
+%mor:	adv|ahora cm|cm pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|encontrar-Fin-Ind-Past-S1 .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|5|DET 4|5|NSUBJ 5|5|ROOT 6|5|PUNCT
+*PAR0:	Mira lo que encontre . 71526_74369
+%mor:	verb|mirar-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|encontrar-Fin-Ind-Pres-S1 .
+%gra:	1|4|ROOT 2|4|DET 3|4|MARK 4|1|CCOMP 5|1|PUNCT
+%wor:	Mira 71526_71866 lo 73409_73709 que 73729_73789 encontre 73869_74369 .
+*PAR0:	Cómo se llama este . 75000_76040
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 pron|este-Dem-S1 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	Cómo 75000_75160 se 75200_75280 llama 75280_75500 este 75540_76040 .
+*PAR0:	A dónde lo vamos a llevar . 77522_80543
+%mor:	adp|a adv|dónde pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-P1 adp|a verb|llevar-Inf-S .
+%gra:	1|2|CASE 2|4|ADVMOD 3|4|OBJ 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+%wor:	A 77522_77542 dónde 77682_79663 lo 79683_79723 vamos 79743_79943 a 79983_80003 llevar 80043_80543 .
+*PAR0:	A dónde vive el elefante . 80324_81424
+%mor:	adp|a adv|dónde verb|vivir-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|elefante-Masc .
+%gra:	1|2|CASE 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	A 80324_80344 dónde 80364_80604 vive 80644_80804 el 80824_80864 elefante 80924_81424 .
+*PAR0:	No , el elefente no vive en el agua . 83266_84766
+%mor:	adv|no cm|cm det|el-Masc-Def-Art-Sing noun|elefente-Masc adv|no verb|vivir-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|6|ADVMOD 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|ADVMOD 6|9|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|6|PUNCT
+%wor:	No 83266_83386 , el 83566_83606 elefente 83606_83906 no 83906_83946 vive 83946_84026 en 84046_84086 el 84146_84226 agua 84266_84766 .
+*PAR0:	Vive en la hierba . 84867_86468
+%mor:	verb|vivir-Fin-Ind-Pres-S3 adp|en det|el-Fem-Def-Art-Sing noun|hierba-Fem .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	Vive 84867_85047 en 85727_85807 la 85807_85888 hierba 85968_86468 .
+*PAR0:	Esta es la hierba , es la hierbas . 86548_88909
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|hierba-Fem cm|cm aux|ser-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|hierba-Fem-Plur .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|8|ROOT 5|8|PUNCT 6|8|COP 7|8|DET 8|4|PARATAXIS 9|4|PUNCT
+%wor:	Esta 86548_86668 es 86688_86728 la 86748_86828 hierba 86888_87249 , es 88109_88329 la 88329_88369 hierbas 88409_88909 .
+*PAR0:	Mira , encontré otro dolphin . 90210_92813
+%mor:	propn|Mira cm|cm verb|encontrar-Fin-Ind-Past-S1 det|otro-Masc-Def-Ind-Sing noun|dolphin-Masc-Acc .
+%gra:	1|3|DEP 2|1|PUNCT 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+%wor:	Mira 90210_90290 , encontré 90490_91351 otro 91351_92313 dolphin 92313_92813 .
+*PAR0:	Ah , mira lo que encontré acá . 94035_97519
+%mor:	intj|ah cm|cm verb|mirar-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|encontrar-Fin-Ind-Past-S1 adv|acá .
+%gra:	1|3|DEP 2|1|PUNCT 3|7|ROOT 4|3|OBJ 5|6|OBJ 6|4|ACL-RELCL 7|6|ADVMOD 8|3|PUNCT
+%wor:	Ah 94035_95657 , mira 96058_96258 lo 96278_96358 que 96418_96498 encontré 96518_97019 acá 97019_97519 .
+*PAR0:	Tu juguete favorito . 98822_99883
+%mor:	det|tu-Def-Prs-Sing-S noun|juguete-Masc adj|favorito-S1 .
+%gra:	1|2|DET 2|3|ROOT 3|2|AMOD 4|2|PUNCT
+%wor:	Tu 98822_98902 juguete 98982_99302 favorito 99383_99883 .
+*PAR0:	Cómo se llama este . 100524_101625
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 pron|este-Dem-S1 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	Cómo 100524_100704 se 100765_100845 llama 100845_101065 este 101125_101625 .
+*PAR0:	No , pero cómo se llama su nombre . 102747_104629
+%mor:	adv|no cm|cm cconj|pero pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 det|su-Def-Prs-Sing noun|nombre-Masc .
+%gra:	1|8|ROOT 2|6|PUNCT 3|6|CC 4|6|ADVMOD 5|6|EXPL-PV 6|1|CONJ 7|8|DET 8|6|NSUBJ 9|1|PUNCT
+%wor:	No 102747_102868 , pero 103128_103288 cómo 103348_103528 se 103569_103629 llama 103669_103929 su 103989_104069 nombre 104129_104629 .
+*PAR0:	Mono , gallina , qué es . 106400_108781
+%mor:	propn|mono cm|cm noun|gallina-Fem cm|cm pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 .
+%gra:	1|6|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|APPOS 6|1|PUNCT 7|1|PUNCT
+%wor:	Mono 106400_106700 , gallina 106760_107260 , qué 107340_108281 es 108281_108781 .
+*PAR0:	No , es jirafa . 108641_110002
+%mor:	adv|no cm|cm aux|ser-Fin-Ind-Pres-S3 noun|jirafa-Fem .
+%gra:	1|4|ADVMOD 2|1|PUNCT 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	No 108641_108761 , es 109362_109422 jirafa 109502_110002 .
+*PAR0:	Ahí , mono ahí . 111083_113405
+%mor:	adv|ahí cm|cm noun|mono-Masc adv|ahí .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	Ahí 111083_112585 , mono 112585_112865 ahí 112905_113405 .
+*PAR0:	Mira , acá hay un +... 113025_117348
+%mor:	propn|Mira cm|cm adv|acá verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing +...
+%gra:	1|4|DEP 2|1|PUNCT 3|4|ADVMOD 4|5|ROOT 5|4|OBJ 6|4|PUNCT
+%wor:	Mira 113025_114366 , acá 114706_116688 hay 116688_116808 un 116848_117348 +...
+*PAR0:	Y este es un venadito [/] venadito . 116948_118749
+%mor:	cconj|y pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|venadito-Masc .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	Y 116948_116968 este 116988_117188 es 117369_117829 un 117869_117909 venadito 117909_118229 venadito 118249_118749 .
+*PAR0:	y este es el perrito que es como ahí al lado de la llamita y donde está el pamo por ahí también , ahí al costado mira lo que encontré ahora aquí . 121770_136489
+%mor:	cconj|y pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|perrito-Masc pron|que-Rel-S1 aux|ser-Fin-Ind-Pres-S3 sconj|como adv|ahí adp|al noun|lado-Masc adp|de det|el-Fem-Def-Art-Sing noun|llamita-Fem cconj|y adv|donde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|pamo-Masc adp|por adv|ahí adv|también cm|cm adv|ahí adp|al noun|costado-Masc verb|mirar-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|encontrar-Fin-Ind-Past-S1 adv|ahora adv|aquí .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|32|ROOT 6|7|MARK 7|5|ACL-RELCL 8|9|MARK 9|7|ADVMOD 10|11|CASE 11|7|OBL 12|14|CASE 13|14|DET 14|11|NMOD 15|17|CC 16|17|ADVMOD 17|7|CONJ 18|19|DET 19|17|NSUBJ 20|21|CASE 21|17|ADVMOD 22|17|ADVMOD 23|27|PUNCT 24|27|ADVMOD 25|26|CASE 26|27|OBL 27|5|PARATAXIS 28|27|OBJ 29|30|OBJ 30|28|ACL-RELCL 31|30|ADVMOD 32|30|ADVMOD 33|5|PUNCT
+%wor:	y 121770_121790 este 121870_122170 es 122250_122290 el 122350_122471 perrito 122531_123152 que 123252_123332 es 123372_123572 como 123572_124013 ahí 124093_124333 al 124333_124393 lado 124433_124594 de 124614_124674 la 124714_124774 llamita 124794_125375 y 127598_127618 donde 128299_129060 está 129080_129340 el 129340_129380 pamo 129440_129781 por 131343_131583 ahí 131643_131844 también 131844_132264 , ahí 132404_132504 al 132504_132545 costado 132585_132965 mira 134948_135108 lo 135168_135228 que 135288_135368 encontré 135388_135789 ahora 135789_135969 aquí 135989_136489 .
+*PAR0:	Dónde lo vas a poner el Dolfín . 139190_140474
+%mor:	adv|dónde pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S1 adp|a verb|poner-Inf-S det|el-Masc-Def-Art-Sing propn|dolfín-Acc .
+%gra:	1|3|ADVMOD 2|5|OBJ 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+%wor:	Dónde 139190_139350 lo 139391_139431 vas 139471_139551 a 139592_139612 poner 139632_139853 el 139873_139913 Dolfín 139974_140474 .
+*PAR0:	En el agua . 142627_143388
+%mor:	adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	En 142627_142667 el 142687_142828 agua 142888_143388 .
+*PAR0:	En y no vive en el agua . 147314_151759
+%mor:	adp|en cconj|y adv|no verb|vivir-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|4|MARK 2|4|CC 3|4|ADVMOD 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	En 147314_147354 y 147594_147614 no 150378_150618 vive 150638_151059 en 151079_151119 el 151139_151219 agua 151259_151759 .
+*PAR0:	Dónde vive el ayun . 152761_159369
+%mor:	adv|dónde verb|vivir-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|ayun-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dónde 152761_158689 vive 158689_158769 el 158829_158869 ayun 158869_159369 .
+*PAR0:	El ayun vive junto con el elefante . 160470_162432
+%mor:	det|el-Masc-Def-Art-Sing noun|ayun-Masc verb|vivir-Fin-Ind-Pres-S3 adj|junto-S1 adp|con det|el-Masc-Def-Art-Sing noun|elefante-Masc .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|7|CASE 5|4|FIXED 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	El 160470_160570 ayun 160630_160830 vive 160870_161071 junto 161171_161511 con 161551_161712 el 161792_161872 elefante 161932_162432 .
+*PAR0:	Donde está el elefant . 162813_163734
+%mor:	adv|donde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|elefant-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Donde 162813_162994 está 163014_163094 el 163094_163174 elefant 163234_163734 .
+*PAR0:	En la hierba , en el gras . 163735_168621
+%mor:	adp|en det|el-Fem-Def-Art-Sing noun|hierba-Fem cm|cm adp|en det|el-Masc-Def-Art-Sing noun|gras-Masc .
+%gra:	1|3|CASE 2|3|DET 3|7|ROOT 4|3|PUNCT 5|7|CASE 6|7|DET 7|3|NMOD 8|3|PUNCT
+%wor:	En 163735_167300 la 167320_167380 hierba 167480_167881 , en 167901_167961 el 168021_168081 gras 168121_168621 .
+*PAR0:	Te encontré acá . 169102_170864
+%mor:	pron|tú-Prs-Dat-S2 verb|encontrar-Fin-Ind-Past-S1 adv|acá .
+%gra:	1|2|EXPL-PV 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	Te 169102_169202 encontré 169723_170364 acá 170364_170864 .
+*PAR0:	Y este qué es . 170885_171846
+%mor:	cconj|y pron|este-Dem-S1 pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|COP 5|3|PUNCT
+%wor:	Y 170885_170905 este 170965_171165 qué 171245_171346 es 171346_171846 .
+*PAR0:	Qué es eso . 173649_174369
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|ese-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	Qué 173649_173709 es 173709_173809 eso 173869_174369 .
+*PAR0:	Grismas , un arbolito , no . 176130_177510
+%mor:	propn|Grismas cm|cm det|uno-Masc-Ind-Art-Sing noun|arbolito-Masc cm|cm adv|no .
+%gra:	1|6|ROOT 2|4|PUNCT 3|4|DET 4|1|APPOS 5|4|PUNCT 6|1|ADVMOD 7|1|PUNCT
+%wor:	Grismas 176130_176310 , un 176310_176350 arbolito 176410_176950 , no 177010_177510 .
+*PAR0:	Ya , ponlo allá . 177871_178871
+%mor:	adv|ya cm|cm verb|poner-Fin-Ind-Pres-S1 adv|allá .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	Ya 177871_177971 , ponlo 178071_178331 allá 178371_178871 .
+*PAR0:	Mira , qué está caminando acá . 182395_183976
+%mor:	verb|mirar-Fin-Ind-Pres-S cm|cm pron|qué-Int-S1 aux|estar-Fin-Ind-Pres-S3 verb|caminar-Ger-S adv|acá .
+%gra:	1|6|ROOT 2|5|PUNCT 3|5|NSUBJ 4|5|AUX 5|1|CCOMP 6|5|ADVMOD 7|1|PUNCT
+%wor:	Mira 182395_182555 , qué 182615_182675 está 182675_182895 caminando 182895_183415 acá 183476_183976 .
+*PAR0:	Dánde están mis amigos . 184616_187598
+%mor:	propn|dánde aux|estar-Fin-Ind-Pres-P3 det|mi-Def-Prs-Plur-S noun|amigo-Masc-Plur .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dánde 184616_185857 están 186558_186878 mis 186878_187038 amigos 187098_187598 .
+*PAR0:	Quién dice así . 187959_188759
+%mor:	pron|quién-Int-S1 verb|decir-Fin-Ind-Pres-S3 adv|así .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	Quién 187959_188119 dice 188139_188259 así 188259_188759 .
+*PAR0:	Dónde vive la tortuga . 196480_197480
+%mor:	adv|dónde verb|vivir-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|tortuga-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dónde 196480_196660 vive 196680_196840 la 196860_196920 tortuga 196980_197480 .
+*PAR0:	En el agua . 200325_201466
+%mor:	adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	En 200325_200665 el 200825_200926 agua 200966_201466 .
+*PAR0:	Ok , pone en el agua . 203249_204270
+%mor:	propn|ok cm|cm verb|poner-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|3|NSUBJ 2|1|PUNCT 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	Ok 203249_203309 , pone 203349_203469 en 203489_203529 el 203609_203770 agua 203770_204270 .
+*PAR0:	Dice , dice [/] dice , aquí también , amigos . 203870_207854
+%mor:	verb|decir-Fin-Ind-Pres-S3 cm|cm verb|decir-Fin-Ind-Pres-S3 cm|cm adv|aquí adv|también cm|cm noun|amigo-Masc-Plur-Acc .
+%gra:	1|8|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|3|PUNCT 5|1|ADVMOD 6|1|ADVMOD 7|6|PUNCT 8|1|OBJ 9|1|PUNCT
+%wor:	Dice 203870_204230 , dice 204611_204951 dice 205272_205572 , aquí 206013_206613 también 206613_207074 , amigos 207354_207854 .
+*PAR0:	Ya lo encontré aquí . 207975_211339
+%mor:	adv|ya pron|él-Prs-Acc-S3 verb|encontrar-Fin-Ind-Past-S1 adv|aquí .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	Ya 207975_208055 lo 208176_208316 encontré 208316_210839 aquí 210839_211339 .
+*PAR0:	Recuerdas la búho y la tortuguita . 213930_215251
+%mor:	verb|recuerda-Fin-Ind-Pres-S1 det|el-Fem-Def-Art-Sing noun|búho-Masc-Acc cconj|y det|el-Fem-Def-Art-Sing noun|tortuguita-Fem .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|CC 5|6|DET 6|3|CONJ 7|1|PUNCT
+%wor:	Recuerdas 213930_214250 la 214290_214350 búho 214390_214591 y 214591_214611 la 214651_214711 tortuguita 214751_215251 .
+*PAR0:	Mira , te encontré acá . 217734_218935
+%mor:	verb|mirar-Fin-Ind-Pres-S cm|cm pron|tú-Prs-Dat-S2 verb|encontrar-Fin-Ind-Past-S1 adv|acá .
+%gra:	1|5|ROOT 2|1|PUNCT 3|4|EXPL-PV 4|1|PARATAXIS 5|4|ADVMOD 6|1|PUNCT
+%wor:	Mira 217734_217934 , te 217974_218054 encontré 218074_218435 acá 218435_218935 .
+*PAR0:	Cómo es el pato . 222359_223279
+%mor:	pron|cómo-Ind-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|pato-Masc .
+%gra:	1|4|ADVMOD 2|1|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	Cómo 222359_222539 es 222579_222619 el 222659_222719 pato 222779_223279 .
+*PAR0:	Cuac , cuac , cua , cuac . 229080_231062
+%mor:	propn|cuac cm|cm noun|cuac-Masc cm|cm noun|cua-Fem cm|cm noun|cuac-Masc .
+%gra:	1|7|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|5|PUNCT 7|1|CONJ 8|1|PUNCT
+%wor:	Cuac 229080_229541 , cuac 230041_230222 , cua 230282_230482 , cuac 230562_231062 .
+*PAR0:	A su casa lleva , a su casa . 231664_234168
+%mor:	adp|a det|su-Def-Prs-Sing noun|casa-Fem verb|llevar-Fin-Ind-Pres-S3 cm|cm adp|a det|su-Def-Prs-Sing noun|casa-Fem .
+%gra:	1|3|CASE 2|3|DET 3|4|OBL 4|8|ROOT 5|8|PUNCT 6|8|CASE 7|8|DET 8|4|OBL 9|4|PUNCT
+%wor:	A 231664_231684 su 231805_231885 casa 231965_232305 lleva 232305_232626 , a 233067_233087 su 233407_233528 casa 233668_234168 .
+*PAR0:	A su casa .
+%mor:	adp|a det|su-Def-Prs-Sing noun|casa-Fem .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*PAR0:	Y mira lo que encontré , una cibra . 235271_238756
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|encontrar-Fin-Ind-Past-S1 cm|cm det|uno-Fem-Ind-Art-Sing noun|cibra-Fem-Acc .
+%gra:	1|2|CC 2|8|ROOT 3|5|DET 4|5|OBJ 5|2|CCOMP 6|8|PUNCT 7|8|DET 8|2|OBJ 9|2|PUNCT
+%wor:	Y 235271_235291 mira 236874_237074 lo 237114_237154 que 237194_237274 encontré 237315_237695 , una 237695_237896 cibra 238256_238756 .
+*PAR0:	Una cibra , no . 239599_240519
+%mor:	det|uno-Fem-Ind-Art-Sing noun|cibra-Fem cm|cm adv|no .
+%gra:	1|2|DET 2|4|ROOT 3|4|PUNCT 4|2|ADVMOD 5|2|PUNCT
+%wor:	Una 239599_239719 cibra 239799_240019 , no 240019_240519 .
+*PAR0:	Vamos a hacer el agua de cibra No , el cibra no vive en el agua . 240600_245452
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|hacer-Inf-S det|el-Masc-Def-Art-Sing noun|agua-Fem-Acc adp|de noun|cibra-Fem adv|no cm|cm det|el-Masc-Def-Art-Sing noun|cibra-Fem adv|no verb|vivir-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|16|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|CASE 7|5|NMOD 8|1|ADVMOD 9|13|PUNCT 10|11|DET 11|13|NSUBJ 12|13|ADVMOD 13|1|PARATAXIS 14|16|CASE 15|16|DET 16|13|OBL 17|1|PUNCT
+%wor:	Vamos 240600_241021 a 241061_241081 hacer 241081_241482 el 241522_241583 agua 241663_241904 de 242064_242144 cibra 242345_242726 No 243327_243428 , el 244070_244150 cibra 244170_244370 no 244410_244471 vive 244511_244671 en 244711_244751 el 244792_244912 agua 244952_245452 .
+*PAR0:	Vive con el elefante . 246717_247738
+%mor:	verb|vivir-Fin-Ind-Pres-S3 adp|con det|el-Masc-Def-Art-Sing noun|elefante-Masc .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	Vive 246717_246917 con 246958_247098 el 247138_247218 elefante 247238_247738 .
+*PAR0:	A ver , vamos a contar . 259720_260941
+%mor:	adp|a verb|ver-Inf-S cm|cm verb|ir-Fin-Ind-Pres-P1 adp|a verb|contar-Inf-S .
+%gra:	1|2|MARK 2|4|ADVCL 3|2|PUNCT 4|6|ROOT 5|6|MARK 6|4|XCOMP 7|4|PUNCT
+%wor:	A 259720_259740 ver 259800_259980 , vamos 260060_260301 a 260341_260361 contar 260441_260941 .
+*PAR0:	cuántos animalitos hay aquí en el agua ahora . 260942_263165
+%mor:	det|cuánto-Masc-Def-IntRel-Plur noun|animalito-Masc-Plur verb|haber-Fin-Ind-Pres-S3 adv|aquí adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem adv|ahora .
+%gra:	1|2|DET 2|3|NSUBJ 3|8|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|ADVMOD 9|3|PUNCT
+%wor:	cuántos 260942_261262 animalitos 261322_261863 hay 261883_261983 aquí 262024_262204 en 262204_262264 el 262304_262404 agua 262444_262645 ahora 262665_263165 .
+*PAR0:	Cuéntame , a ver , cuenta , cuántos hay . 263045_265228
+%mor:	verb|cuéntame-Fin-Pres-S cm|cm adp|a verb|ver-Inf-S cm|cm verb|contar-Fin-Ind-Pres-S3 cm|cm pron|cuánto-Ind-P1 verb|haber-Fin-Ind-Pres-S3 .
+%gra:	1|9|ROOT 2|4|PUNCT 3|4|MARK 4|1|ADVCL 5|4|PUNCT 6|1|ADVCL 7|9|PUNCT 8|9|NSUBJ 9|1|PARATAXIS 10|1|PUNCT
+%wor:	Cuéntame 263045_263526 , a 263606_263626 ver 263646_263786 , cuenta 263927_264287 , cuántos 264347_264688 hay 264728_265228 .
+*PAR0:	Uno , dos , tres , cuatro . 264888_269996
+%mor:	pron|uno-Ind-S1 cm|cm num|dos cm|cm num|tres cm|cm num|cuatro .
+%gra:	1|7|ROOT 2|3|PUNCT 3|1|APPOS 4|5|PUNCT 5|1|APPOS 6|7|PUNCT 7|1|APPOS 8|1|PUNCT
+%wor:	Uno 264888_265008 , dos 265008_265069 , tres 265069_268594 , cuatro 269496_269996 .
+*PAR0:	Ok , lo vamos a poner aquí para que m . 273060_275239
+%mor:	propn|ok cm|cm pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S adv|aquí adp|para sconj|que noun|m .
+%gra:	1|4|NSUBJ 2|1|PUNCT 3|4|OBJ 4|10|ROOT 5|6|MARK 6|4|XCOMP 7|6|ADVMOD 8|10|CASE 9|10|MARK 10|6|OBL 11|4|PUNCT
+%wor:	Ok 273060_273242 , lo 273566_273647 vamos 273667_273869 a 273910_273930 poner 273970_274173 aquí 274213_274476 para 274476_274638 que 274679_274739 m 274739_275239 .
+*PAR0:	como hace el mono así Ok , ponlo aquí . 302350_310295
+%mor:	sconj|como verb|hacer-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|mono-Masc adv|así propn|ok cm|cm verb|poner-Fin-Ind-Pres-S1 adv|aquí .
+%gra:	1|2|MARK 2|8|ADVCL 3|4|DET 4|2|NSUBJ 5|2|ADVMOD 6|2|NSUBJ 7|2|PUNCT 8|9|ROOT 9|8|ADVMOD 10|8|PUNCT
+%wor:	como 302350_302510 hace 302550_302710 el 302790_302850 mono 302890_303230 así 305812_306172 Ok 306172_307573 , ponlo 308334_308614 aquí 309795_310295 .
+*PAR0:	Ahora cuenta , cuántos animalitos tienes ahí ahora . 314038_316579
+%mor:	adv|ahora verb|contar-Fin-Ind-Pres-S3 cm|cm det|cuánto-Masc-Def-IntRel-Plur noun|animalito-Masc-Plur verb|tener-Fin-Ind-Pres-S1 adv|ahí adv|ahora .
+%gra:	1|2|ADVMOD 2|8|ROOT 3|6|PUNCT 4|5|DET 5|6|NSUBJ 6|2|ADVCL 7|6|ADVMOD 8|6|ADVMOD 9|2|PUNCT
+%wor:	Ahora 314038_314238 cuenta 314278_314578 , cuántos 314638_314919 animalitos 314979_315499 tienes 315519_315799 ahí 315859_316079 ahora 316079_316579 .
+*PAR0:	Uno , dos , tres , cuatro , cinco . 317920_320881
+%mor:	pron|uno-Ind-S1 cm|cm num|dos cm|cm num|tres cm|cm num|cuatro cm|cm num|cinco .
+%gra:	1|9|ROOT 2|3|PUNCT 3|1|APPOS 4|5|PUNCT 5|1|CONJ 6|7|PUNCT 7|1|CONJ 8|9|PUNCT 9|1|APPOS 10|1|PUNCT
+%wor:	Uno 317920_318100 , dos 318560_318920 , tres 319200_319601 , cuatro 319781_320221 , cinco 320381_320881 .
+*PAR0:	Cinco animalitos tienes aquí . 321162_323263
+%mor:	num|cinco noun|animalito-Masc-Plur verb|tener-Fin-Ind-Pres-S1 adv|aquí .
+%gra:	1|2|NUMMOD 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	Cinco 321162_321622 animalitos 321662_322323 tienes 322363_322683 aquí 322763_323263 .
+*PAR0:	Aquí tienes cuatro . 324544_325664
+%mor:	adv|aquí verb|tener-Fin-Ind-Pres-S1 num|cuatro .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	Aquí 324544_324804 tienes 324804_325084 cuatro 325164_325664 .
+*PAR0:	Cómo se llama este . 325645_326825
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 pron|este-Dem-S1 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	Cómo 325645_325725 se 325725_325765 llama 325765_326325 este 326325_326825 .
+*PAR0:	Cómo se llaman estos . 334060_335220
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-P3 pron|este-Dem-P1 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	Cómo 334060_334220 se 334280_334360 llaman 334360_334620 estos 334720_335220 .
+*PAR0:	Dónde vive él . 337202_338263
+%mor:	adv|dónde verb|vivir-Fin-Ind-Pres-S3 pron|él-Prs-AccNom-S3 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	Dónde 337202_337443 vive 337503_337763 él 337763_338263 .
+*PAR0:	Vive en el agua , en el cerrito o en el graso . 338664_342687
+%mor:	verb|vivir-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem cm|cm adp|en det|el-Masc-Def-Art-Sing noun|cerrito-Masc cconj|o adp|en det|el-Masc-Def-Art-Sing noun|graso-Masc .
+%gra:	1|12|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|8|PUNCT 6|8|CASE 7|8|DET 8|1|OBL 9|12|CC 10|12|CASE 11|12|DET 12|8|CONJ 13|1|PUNCT
+%wor:	Vive 338664_338824 en 338844_338924 el 338984_339104 agua 339224_339605 , en 340485_340565 el 340605_340705 cerrito 340786_341386 o 341826_341846 en 341926_341987 el 342047_342147 graso 342187_342687 .
+*PAR0:	Donde vive él . 343168_344168
+%mor:	adv|donde verb|vivir-Fin-Ind-Pres-S3 pron|él-Prs-AccNom-S3 .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	Donde 343168_343408 vive 343448_343668 él 343668_344168 .
+*PAR0:	En el agua . 343708_344789
+%mor:	adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	En 343708_343748 el 343748_343828 agua 344289_344789 .
+*PAR0:	el bueno no sí vamos a ponerlo <por aquí> [/] por aquí estoy aquí está volando está vol Oh , se cayó . 347730_358239
+%mor:	det|el-Masc-Def-Art-Sing adj|buen-S1 adv|no intj|sí verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S adp|por adv|aquí aux|estar-Fin-Ind-Pres-S1 adv|aquí aux|estar-Fin-Ind-Pres-S3 verb|volar-Ger-S aux|estar-Fin-Ind-Pres-S3 propn|vol propn|Oh cm|cm pron|él-Prs-Acc-reflx-S3 verb|caer-Fin-Ind-Past-S3 .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|ADVMOD 4|5|ADVCL 5|19|ROOT 6|7|MARK 7|5|XCOMP 8|9|CASE 9|5|ADVMOD 10|13|AUX 11|13|ADVMOD 12|13|AUX 13|5|ADVCL 14|13|AUX 15|16|DET 16|13|NSUBJ 17|19|PUNCT 18|19|EXPL-PV 19|5|PARATAXIS 20|5|PUNCT
+%wor:	el 347730_347810 bueno 348170_349652 no 350652_350893 sí 348150_348370 vamos 352114_352274 a 352674_353055 ponerlo 353935_354015 por 354236_354836 aquí 349890_350170 por 354236_354836 aquí 350650_350930 estoy 354236_354836 aquí 355637_356037 está 355637_356037 volando 355637_356037 está 356618_356858 vol 356898_357118 Oh , se 357198_357278 cayó 357739_358239 .
+*PAR0:	Hola , amiguito , dile , cómo están todos . 385690_387811
+%mor:	intj|hola cm|cm noun|amiguito-Masc cm|cm propn|dile cm|cm pron|cómo-Ind-S1 aux|estar-Fin-Ind-Pres-P3 pron|todo-Tot-P1 .
+%gra:	1|9|DEP 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|1|PUNCT 7|8|OBL 8|9|COP 9|9|ROOT 10|9|PUNCT
+%wor:	Hola 385690_385890 , amiguito 385930_386410 , dile 386450_386671 , cómo 386731_386911 están 386931_387251 todos 387311_387811 .
+*PAR0:	Yo me llamo , cómo te llamas . 389693_391234
+%mor:	pron|yo-Prs-Nom-S1 pron|yo-Prs-Dat-S1 verb|llamar-Fin-Ind-Pres-S1 cm|cm pron|cómo-Ind-S1 pron|tú-Prs-Dat-S2 verb|llama-Fin-Ind-Pres-P3 .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|7|ROOT 4|7|PUNCT 5|7|OBL 6|7|OBL-ARG 7|3|ADVCL 8|3|PUNCT
+%wor:	Yo 389693_389754 me 389814_389874 llamo 389914_390254 , cómo 390454_390614 te 390674_390734 llamas 390734_391234 .
+*PAR0:	Ajá , dile para ellos . 392496_393737
+%mor:	propn|Ajá cm|cm noun|dile-Masc adp|para pron|él-Prs-AccNom-P3 .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|APPOS 4|5|CASE 5|3|NMOD 6|1|PUNCT
+%wor:	Ajá 392496_392756 , dile 392756_392977 para 393057_393217 ellos 393237_393737 .
+*PAR0:	Hola , mi amiguito . 394338_395218
+%mor:	intj|hola cm|cm det|mi-Def-Prs-Sing-S noun|amiguito-Masc .
+%gra:	1|4|DEP 2|1|PUNCT 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	Hola 394338_394498 , mi 394558_394618 amiguito 394718_395218 .
+*PAR0:	Yo me llamo Stuart . 394999_396099
+%mor:	pron|yo-Prs-Nom-S1 pron|yo-Prs-Dat-S1 verb|llamar-Fin-Ind-Pres-S1 propn|stuart-Acc .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	Yo 394999_395079 me 395159_395219 llamo 395219_395479 Stuart 395599_396099 .
+*PAR0:	Este es mi amiguita que se llama Yamita no se llama cauda . 396950_407015
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|mi-Def-Prs-Sing-S noun|amiguita-Fem pron|que-Rel-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 propn|yamita adv|no pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 noun|cauda-Fem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|12|ROOT 5|7|MARK 6|7|EXPL-PV 7|4|ACL-RELCL 8|7|NSUBJ 9|11|ADVMOD 10|11|EXPL-PV 11|4|PARATAXIS 12|11|XCOMP 13|4|PUNCT
+%wor:	Este 396950_397110 es 397130_397170 mi 397210_397270 amiguita 397290_397770 que 397850_397910 se 397970_398050 llama 398090_398430 Yamita 399491_400011 no 400071_405955 se 406015_406075 llama 406075_406295 cauda 406515_407015 .
+*PAR0:	Y ese va aquí . 422040_423202
+%mor:	cconj|y pron|ese-Dem-S1 verb|ir-Fin-Ind-Pres-S3 adv|aquí .
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	Y 422040_422060 ese 422120_422401 va 422502_422602 aquí 422702_423202 .
+*PAR0:	Mira lo que me encontré . 423847_424889
+%mor:	verb|mirar-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 pron|yo-Prs-Dat-S1 verb|encontrar-Fin-Ind-Past-S1 .
+%gra:	1|5|ROOT 2|5|DET 3|5|NSUBJ 4|5|OBL-ARG 5|1|CCOMP 6|1|PUNCT
+%wor:	Mira 423847_424008 lo 424048_424108 que 424168_424289 me 424309_424369 encontré 424389_424889 .
+*PAR0:	Qué es esto . 425895_427179
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	Qué 425895_426498 es 426498_426618 esto 426679_427179 .
+*PAR0:	Una estrella vive en el océano , en el agua . 433240_437885
+%mor:	det|uno-Fem-Ind-Art-Sing noun|estrella-Fem verb|vivir-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|océano-Masc cm|cm adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|2|DET 2|3|NSUBJ 3|10|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|10|PUNCT 8|10|CASE 9|10|DET 10|3|OBL 11|3|PUNCT
+%wor:	Una 433240_434241 estrella 434441_435002 vive 435062_435383 en 435503_435623 el 435723_436484 océano 436544_437085 , en 437085_437145 el 437185_437305 agua 437385_437885 .
+*PAR0:	Mira Qué lindo .
+%mor:	propn|Mira det|qué-Def-Int propn|lindo .
+%gra:	1|3|ROOT 2|3|DET 3|1|FLAT 4|1|PUNCT
+*PAR0:	lo que me encontré . 441792_442592
+%mor:	pron|él-Prs-Acc-S3 pron|que-Rel-S1 pron|yo-Prs-Dat-S1 verb|encontrar-Fin-Ind-Past-S1 .
+%gra:	1|4|DET 2|4|NSUBJ 3|4|OBL-ARG 4|4|ROOT 5|4|PUNCT
+%wor:	lo 441792_441852 que 441892_441972 me 441992_442052 encontré 442092_442592 .
+*PAR0:	Dónde vas a poner .
+%mor:	adv|dónde verb|ir-Fin-Ind-Pres-S1 adp|a verb|poner-Inf-S .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+*PAR0:	En el agua . 446919_447699
+%mor:	adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	En 446919_447039 el 447079_447139 agua 447199_447699 .
+*PAR0:	Déjame ver allá .
+%mor:	verb|déjame-Fin-Ind-Pres-S1 verb|ver-Inf-S adv|allá .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|ADVMOD 4|1|PUNCT
+*PAR0:	Ahora se van a ir . 453750_455150
+%mor:	adv|ahora pron|él-Prs-Acc-reflx-S3 verb|ir-Fin-Ind-Pres-P3 adp|a verb|ir-Inf-S .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	Ahora 453750_454210 se 454290_454370 van 454410_454550 a 454610_454630 ir 454650_455150 .
+*PAR0:	a saludar los amiguitos . 454750_455931
+%mor:	adp|a verb|saludar-Inf-S det|el-Masc-Def-Art-Plur noun|amiguito-Masc-Plur-Acc .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	a 454750_454770 saludar 454850_455191 los 455231_455371 amiguitos 455431_455931 .
+*PAR0:	Van a caminar . 455951_456671
+%mor:	verb|ir-Fin-Ind-Pres-P3 adp|a verb|caminar-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	Van 455951_456051 a 456091_456131 caminar 456171_456671 .
+*PAR0:	Me voy a conocer a mis amiguitos . 457772_459493
+%mor:	pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 adp|a verb|conocer-Inf-S adp|a det|mi-Def-Prs-Plur-S noun|amiguito-Masc-Plur-Acc .
+%gra:	1|2|EXPL-PV 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBJ 8|2|PUNCT
+%wor:	Me 457772_457872 voy 457933_458133 a 458173_458193 conocer 458273_458733 a 458773_458793 mis 458853_458953 amiguitos 458993_459493 .
+*PAR0:	Tú también acércate . 462015_462956
+%mor:	pron|tú-Prs-Nom-S2 adv|también verb|acércater-Fin-Ind-Pres-S3 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	Tú 462015_462115 también 462115_462396 acércate 462456_462956 .
+*PAR0:	Acércate con tus animalitos . 463136_464337
+%mor:	verb|acércate-Fin-Ind-Pres-S3 adp|con det|tu-Def-Prs-Plur-S noun|animalito-Masc-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	Acércate 463136_463496 con 463536_463657 tus 463677_463797 animalitos 463837_464337 .
+*PAR0:	Tú acércates para que se saluden . 464437_466018
+%mor:	pron|tú-Prs-Nom-S2 noun|acércate-Masc-Plur adp|para sconj|que pron|él-Prs-Acc-reflx-S3 verb|saludar-Fin-Sub-Pres-P3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|MARK 4|6|MARK 5|6|EXPL-PV 6|2|ADVCL 7|2|PUNCT
+%wor:	Tú 464437_464637 acércates 464637_465138 para 465138_465278 que 465278_465358 se 465398_465458 saluden 465518_466018 .
+*PAR0:	Se van a saludar . 465958_468179
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|ir-Fin-Ind-Pres-P3 adp|a verb|saludar-Inf-S .
+%gra:	1|2|EXPL-PV 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%wor:	Se 465958_467059 van 467479_467599 a 467619_467639 saludar 467679_468179 .
+*PAR0:	Qué le vas a decir . 468240_469281
+%mor:	pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|ir-Fin-Ind-Pres-S1 adp|a verb|decir-Inf-S .
+%gra:	1|3|NSUBJ 2|5|OBL-ARG 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	Qué 468240_468480 le 468480_468540 vas 468560_468700 a 468721_468741 decir 468781_469281 .
+*PAR0:	Hola , cómo estás . 470564_471886
+%mor:	intj|hola cm|cm pron|cómo-Ind-S1 verb|estar-Fin-Ind-Pres-S1 .
+%gra:	1|4|DEP 2|1|PUNCT 3|4|OBL 4|4|ROOT 5|4|PUNCT
+%wor:	Hola 470564_470925 , cómo 471126_471306 estás 471386_471886 .
+*PAR0:	Ahora el otro amiguito que se saluda . 471607_476275
+%mor:	adv|ahora det|el-Masc-Def-Art-Sing det|otro-Masc-Def-Ind-Sing noun|amiguito-Masc pron|que-Rel-S1 pron|él-Prs-Acc-reflx-S3 verb|saludar-Fin-Ind-Pres-S3 .
+%gra:	1|4|ADVMOD 2|4|DET 3|2|DET 4|7|ROOT 5|7|NSUBJ 6|7|EXPL-PV 7|4|ACL 8|4|PUNCT
+%wor:	Ahora 471607_474472 el 474733_474793 otro 474873_475014 amiguito 475054_475495 que 475575_475635 se 475675_475735 saluda 475775_476275 .
+*PAR0:	El otro , dónde está el otro . 476958_478239
+%mor:	det|el-Masc-Def-Art-Sing pron|otro-Ind-S1 cm|cm adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing pron|otro-Ind-S1 .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|PUNCT 4|5|ADVMOD 5|7|ROOT 6|7|DET 7|5|NSUBJ 8|5|PUNCT
+%wor:	El 476958_477058 otro 477118_477298 , dónde 477338_477499 está 477539_477619 el 477619_477699 otro 477739_478239 .
+*PAR0:	Saca el otro , saca tu chanchito . 478220_485893
+%mor:	verb|saca-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing pron|otro-Ind-S1 cm|cm verb|sacar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|chanchito-Masc-Acc .
+%gra:	1|7|ROOT 2|3|DET 3|1|OBJ 4|5|PUNCT 5|1|ADVCL 6|7|DET 7|5|OBJ 8|1|PUNCT
+%wor:	Saca 478220_478300 el 478300_478340 otro 478380_483429 , saca 483670_485333 tu 485333_485373 chanchito 485393_485893 .
+*PAR0:	Cómo te llamas . 485934_489079
+%mor:	pron|cómo-Ind-S1 pron|tú-Prs-Dat-S2 verb|llama-Fin-Ind-Pres-P3 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	Cómo 485934_488439 te 488479_488559 llamas 488579_489079 .
+*PAR0:	Ay , quiero conocer al patito . 496800_498423
+%mor:	intj|ay cm|cm verb|querer-Fin-Ind-Pres-S1 verb|conocer-Inf-S det|el-Masc-Def-Art-Sing noun|patito-Masc-Acc .
+%gra:	1|3|DEP 2|1|PUNCT 3|6|ROOT 4|3|XCOMP 5|6|DET 6|4|OBJ 7|3|PUNCT
+%wor:	Ay 496800_497101 , quiero 497161_497361 conocer 497401_497762 al 497802_497883 patito 497923_498423 .
+*PAR0:	Dónde está el patito . 498745_499746
+%mor:	adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|patito-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dónde 498745_498965 está 499006_499126 el 499126_499206 patito 499246_499746 .
+*PAR0:	Aquí está el patoito . 501412_502473
+%mor:	adv|aquí verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|patoito-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Aquí 501412_501693 está 501693_501833 el 501833_501933 patoito 501973_502473 .
+*PAR0:	Qué tal lobito . 534070_534970
+%mor:	det|qué-Def-Int det|tal-Def-Dem-Sing noun|lobito-Masc .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	Qué 534070_534230 tal 534230_534370 lobito 534470_534970 .
+*PAR0:	Ok , aquí me quedo . 536312_537833
+%mor:	propn|ok cm|cm adv|aquí pron|yo-Prs-Dat-S1 verb|quedo-Fin-Ind-Pres-S1 .
+%gra:	1|5|DEP 2|1|PUNCT 3|5|ADVMOD 4|5|EXPL-PV 5|5|ROOT 6|5|PUNCT
+%wor:	Ok 536312_536512 , aquí 536912_537152 me 537152_537233 quedo 537333_537833 .
+*PAR0:	A ver , sácate otro numerito . 538374_542597
+%mor:	adp|a verb|ver-Inf-S cm|cm verb|sacater-Fin-Ind-Pres-S3 det|otro-Masc-Def-Ind-Sing noun|numerito-Masc-Acc .
+%gra:	1|2|MARK 2|4|ADVCL 3|2|PUNCT 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	A 538374_538394 ver 538614_541396 , sácate 541576_541877 otro 541917_542057 numerito 542097_542597 .
+*PAR0:	Saca tu cibra . 542577_543498
+%mor:	verb|saca-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|cibra-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	Saca 542577_542777 tu 542837_542918 cibra 542998_543498 .
+*PAR0:	Dónde está tu cibbra . 543258_544158
+%mor:	adv|dónde verb|estar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|cibbra-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dónde 543258_543418 está 543458_543538 tu 543538_543578 cibbra 543658_544158 .
+*PAR0:	Dónde está tu cibera . 543958_545579
+%mor:	adv|dónde verb|estar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|cibera-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dónde 543958_544079 está 544939_545039 tu 545039_545079 cibera 545079_545579 .
+*PAR0:	Hola , cómo estás . 550730_552011
+%mor:	intj|hola cm|cm pron|cómo-Ind-S1 verb|estar-Fin-Ind-Pres-S1 .
+%gra:	1|4|DEP 2|1|PUNCT 3|4|OBL 4|4|ROOT 5|4|PUNCT
+%wor:	Hola 550730_551110 , cómo 551230_551450 estás 551511_552011 .
+*PAR0:	Cómo te llamas . 552952_553813
+%mor:	pron|cómo-Ind-S1 pron|tú-Prs-Dat-S2 verb|llama-Fin-Ind-Pres-P3 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	Cómo 552952_553132 te 553213_553293 llamas 553313_553813 .
+*PAR0:	Ay , yo me llamo Dolphin . 554694_556876
+%mor:	intj|ay cm|cm pron|yo-Prs-Nom-S1 pron|yo-Prs-Dat-S1 verb|llamar-Fin-Ind-Pres-S1 propn|dolphin-Acc .
+%gra:	1|5|DEP 2|1|PUNCT 3|5|NSUBJ 4|5|OBJ 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	Ay 554694_555415 , yo 555736_555816 me 555876_555936 llamo 555936_556256 Dolphin 556376_556876 .
+*PAR0:	Tienes tu mamá . 558399_559259
+%mor:	verb|tener-Fin-Ind-Pres-S1 det|tu-Def-Prs-Sing-S noun|mamá-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	Tienes 558399_558639 tu 558679_558739 mamá 558759_559259 .
+*PAR0:	No tengo mi mamá en mi mano . 562520_565084
+%mor:	adv|no verb|tener-Fin-Ind-Pres-S1 det|mi-Def-Prs-Sing-S noun|mamá-Fem-Acc adp|en det|mi-Def-Prs-Sing-S noun|mano-Fem .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	No 562520_562640 tengo 562941_563241 mi 563362_563482 mamá 563682_564123 en 564123_564284 mi 564324_564424 mano 564584_565084 .
+*PAR0:	Tiene tu hermano . 566088_569755
+%mor:	verb|tener-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|hermano-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	Tiene 566088_566388 tu 566469_566869 hermano 569255_569755 .
+*PAR0:	Bueno , yo también vivo solito , pero me voy a ir por acá . 577510_580573
+%mor:	adj|bueno-S1 cm|cm pron|yo-Prs-Nom-S1 adv|también verb|vivir-Fin-Ind-Pres-S1 adj|solito-S1 cm|cm cconj|pero pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 adp|a verb|ir-Inf-S adp|por adv|acá .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|14|ROOT 6|5|XCOMP 7|10|PUNCT 8|10|CC 9|10|EXPL-PV 10|5|CONJ 11|12|MARK 12|10|XCOMP 13|14|CASE 14|10|ADVMOD 15|5|PUNCT
+%wor:	Bueno 577510_577890 , yo 577950_578030 también 578070_578351 vivo 578391_578591 solito 578651_579112 , pero 579172_579332 me 579372_579452 voy 579512_579632 a 579652_579672 ir 579752_579812 por 579872_580012 acá 580073_580573 .
+*PAR0:	Aquí me encontré la estrellita . 580273_582955
+%mor:	adv|aquí pron|yo-Prs-Dat-S1 verb|encontrar-Fin-Ind-Past-S1 det|el-Fem-Def-Art-Sing noun|estrellita-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	Aquí 580273_581094 me 581094_581174 encontré 581254_582055 la 582055_582095 estrellita 582455_582955 .
+*PAR0:	Trae tu mono , tu chimpancé , tu mono , no tu mono . 590260_592963
+%mor:	verb|traer-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|mono-Masc-Acc cm|cm det|tu-Def-Prs-Sing-S noun|chimpancé-Masc cm|cm det|tu-Def-Prs-Sing-S noun|mono-Masc cm|cm adv|no det|tu-Def-Prs-Sing-S noun|mono-Masc .
+%gra:	1|13|ROOT 2|3|DET 3|1|OBJ 4|6|PUNCT 5|6|DET 6|3|APPOS 7|9|PUNCT 8|9|DET 9|3|APPOS 10|13|PUNCT 11|13|ADVMOD 12|13|DET 13|3|APPOS 14|1|PUNCT
+%wor:	Trae 590260_590340 tu 590420_590520 mono 590620_590941 , tu 591021_591101 chimpancé 591161_591782 , tu 591782_591862 mono 591922_592182 , no 592222_592283 tu 592323_592403 mono 592463_592963 .
+*PAR0:	Hola , cómo estás . 593404_597850
+%mor:	intj|hola cm|cm pron|cómo-Ind-S1 verb|estar-Fin-Ind-Pres-S1 .
+%gra:	1|4|DEP 2|1|PUNCT 3|4|OBL 4|4|ROOT 5|4|PUNCT
+%wor:	Hola 593404_596950 , cómo 597110_597310 estás 597350_597850 .
+*PAR0:	Cómo te llamas . 599253_600094
+%mor:	pron|cómo-Ind-S1 pron|tú-Prs-Dat-S2 verb|llama-Fin-Ind-Pres-P3 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	Cómo 599253_599433 te 599493_599594 llamas 599594_600094 .
+*PAR0:	Y tienes tu mamá , tu papá . 602398_603899
+%mor:	cconj|y verb|tener-Fin-Ind-Pres-S1 det|tu-Def-Prs-Sing-S noun|mamá-Fem-Acc cm|cm det|tu-Def-Prs-Sing-S noun|papá-Masc .
+%gra:	1|2|CC 2|7|ROOT 3|4|DET 4|2|OBJ 5|7|PUNCT 6|7|DET 7|4|APPOS 8|2|PUNCT
+%wor:	Y 602398_602418 tienes 602498_602758 tu 602798_602879 mamá 602919_603279 , tu 603279_603359 papá 603399_603899 .
+*PAR0:	Y con quién vives . 607900_608860
+%mor:	cconj|y adp|con pron|quién-Int-S1 verb|vivir-Fin-Ind-Pres-S1 .
+%gra:	1|4|CC 2|3|CASE 3|4|OBL 4|4|ROOT 5|4|PUNCT
+%wor:	Y 607900_607920 con 607960_608080 quién 608120_608320 vives 608360_608860 .
+*PAR0:	Con mi amigo .
+%mor:	adp|con det|mi-Def-Prs-Sing-S noun|amigo-Masc .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+*PAR0:	Ah , tiene solo tu amigo . 610123_612907
+%mor:	intj|ah cm|cm verb|tener-Fin-Ind-Pres-S3 adv|sólo det|tu-Def-Prs-Sing-S noun|amigo-Masc-Acc .
+%gra:	1|3|DEP 2|1|PUNCT 3|6|ROOT 4|3|ADVMOD 5|6|DET 6|3|OBJ 7|3|PUNCT
+%wor:	Ah 610123_610644 , tiene 611726_611926 solo 611986_612206 tu 612266_612366 amigo 612407_612907 .
+*PAR0:	Y vas a la escuela o no . 612587_614148
+%mor:	cconj|y verb|ir-Fin-Ind-Pres-S1 adp|a det|el-Fem-Def-Art-Sing noun|escuela-Fem cconj|o adv|no .
+%gra:	1|2|CC 2|7|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|7|CC 7|2|CONJ 8|2|PUNCT
+%wor:	Y 612587_612607 vas 612667_612807 a 612847_612867 la 612907_612947 escuela 612967_613448 o 613548_613568 no 613648_614148 .
+*PAR0:	Y te gusta tu escuela . 616993_618355
+%mor:	cconj|y pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|escuela-Fem .
+%gra:	1|3|CC 2|3|OBL-ARG 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	Y 616993_617013 te 617074_617134 gusta 617214_617594 tu 617755_617815 escuela 617855_618355 .
+*PAR0:	Y tienen muchos amigos , no . 619858_621439
+%mor:	cconj|y verb|tener-Fin-Ind-Pres-P3 det|mucho-Masc-Def-Ind-Plur noun|amigo-Masc-Plur-Acc cm|cm adv|no .
+%gra:	1|2|CC 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|PUNCT 6|2|ADVMOD 7|2|PUNCT
+%wor:	Y 619858_619878 tienen 619918_620138 muchos 620178_620439 amigos 620499_620899 , no 620939_621439 .
+*PAR0:	Vamos Oh , va . 638413_639098
+%mor:	verb|ir-Fin-Ind-Pres-P1 propn|Oh-Acc cm|cm verb|ir-Fin-Ind-Pres-S3 .
+%gra:	1|4|ROOT 2|1|OBJ 3|1|PUNCT 4|1|ADVCL 5|1|PUNCT
+%wor:	Vamos 638413_638557 Oh 638557_638598 , va 638598_639098 .
+*PAR0:	a hacer un picnic . 671100_672180
+%mor:	adp|a verb|hacer-Inf-S det|uno-Masc-Ind-Art-Sing noun|picnic-Masc-Acc .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	a 671100_671120 hacer 671120_671420 un 671460_671540 picnic 671680_672180 .
+*PAR0:	Nos vamos a ir al parque . 673824_676207
+%mor:	pron|yo-Prs-Dat-P1 verb|ir-Fin-Ind-Pres-P1 adp|a verb|ir-Inf-S adp|al noun|parque-Masc .
+%gra:	1|2|EXPL-PV 2|6|ROOT 3|4|MARK 4|2|XCOMP 5|6|CASE 6|4|OBL 7|2|PUNCT
+%wor:	Nos 673824_674284 vamos 675106_675346 a 675386_675406 ir 675466_675526 al 675546_675626 parque 675707_676207 .
+*PAR0:	Te das cuenta que este es el parque . 676047_677509
+%mor:	pron|tú-Prs-Dat-S2 verb|dar-Fin-Ind-Pres-S1 noun|cuenta-Fem sconj|que pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|parque-Masc .
+%gra:	1|2|OBL-ARG 2|8|ROOT 3|2|COMPOUND 4|8|MARK 5|8|NSUBJ 6|8|COP 7|8|DET 8|2|CCOMP 9|2|PUNCT
+%wor:	Te 676047_676107 das 676127_676207 cuenta 676227_676488 que 676548_676628 este 676648_676748 es 676768_676808 el 676848_676948 parque 677009_677509 .
+*PAR0:	Ves tu bar . 677429_678310
+%mor:	verb|ver-Fin-Ind-Pres-S det|tu-Def-Prs-Sing-S noun|bar-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	Ves 677429_677650 tu 677690_677790 bar 677810_678310 .
+*PAR0:	Vamos a hacer el lunch . 682918_684579
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|hacer-Inf-S det|el-Masc-Def-Art-Sing noun|lunch-Masc-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%wor:	Vamos 682918_683218 a 683278_683298 hacer 683579_684019 el 684019_684059 lunch 684079_684579 .
+*PAR0:	Esto va a ser la mesita . 686050_688291
+%mor:	pron|este-Dem-S1 verb|ir-Fin-Ind-Pres-S3 adp|a aux|ser-Inf-S det|el-Fem-Def-Art-Sing noun|mesita-Fem .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|6|CASE 4|6|COP 5|6|DET 6|2|XCOMP 7|2|PUNCT
+%wor:	Esto 686050_686250 va 686310_686370 a 686410_686430 ser 686450_686650 la 686730_686830 mesita 687791_688291 .
+*PAR0:	Y este es tu platito para mí . 690434_694157
+%mor:	cconj|y pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|platito-Masc adp|para pron|yo-Prs-Acc-S1 .
+%gra:	1|5|CC 2|5|NSUBJ 3|5|COP 4|5|DET 5|7|ROOT 6|7|CASE 7|5|NMOD 8|5|PUNCT
+%wor:	Y 690434_690454 este 690514_692015 es 692756_692816 tu 692856_692936 platito 692976_693376 para 693456_693637 mí 693657_694157 .
+*PAR0:	De qué color es tu platuito . 693697_695858
+%mor:	adp|de det|qué-Def-Int noun|color-Masc aux|ser-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|platuito-Masc .
+%gra:	1|3|CASE 2|3|DET 3|6|OBL 4|6|COP 5|6|DET 6|6|ROOT 7|6|PUNCT
+%wor:	De 693697_693757 qué 694297_695038 color 695038_695198 es 695198_695298 tu 695318_695358 platuito 695358_695858 .
+*PAR0:	En español , en . 701322_703156
+%mor:	adp|en noun|español-Masc cm|cm adp|en .
+%gra:	1|2|CASE 2|4|ROOT 3|2|PUNCT 4|2|CASE 5|2|PUNCT
+%wor:	En 701322_701383 español 701443_702596 , en 702656_703156 .
+*PAR0:	Qué color es tu quieres comer ahora . 703830_704673
+%mor:	det|qué-Def-Int noun|color-Masc aux|ser-Fin-Ind-Pres-S3 pron|tu-Prs-Acc-S2 verb|querer-Fin-Ind-Pres-S1 verb|comer-Inf-S adv|ahora .
+%gra:	1|2|DET 2|5|NSUBJ 3|5|COP 4|5|NSUBJ 5|7|ROOT 6|5|XCOMP 7|6|ADVMOD 8|5|PUNCT
+%wor:	Qué 703830_704120 color 704120_704320 es 704460_704680 tu 704680_704880 quieres 704173_705326 comer ahora 704173_704673 .
+*PAR0:	Quieres fruta o quieres sopita . 726940_728521
+%mor:	verb|querer-Fin-Ind-Pres-S1 noun|fruta-Fem-Acc cconj|o verb|querer-Fin-Ind-Pres-S1 noun|sopita-Fem-Acc .
+%gra:	1|5|ROOT 2|1|OBJ 3|4|CC 4|1|CONJ 5|4|OBJ 6|1|PUNCT
+%wor:	Quieres 726940_727160 fruta 727200_727621 o 727701_727721 quieres 727781_728001 sopita 728021_728521 .
+*PAR0:	Qué [/] Qué quieres . 728743_731225
+%mor:	pron|qué-Int-S1 verb|querer-Fin-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	Qué 728743_728903 Qué 728903_730725 quieres 730725_731225 .
+*PAR0:	Esto es sopita para ti . 731346_734110
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 adj|sopito-S1 adp|para pron|tú-Prs-Acc-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|5|ROOT 4|5|CASE 5|3|NMOD 6|3|PUNCT
+%wor:	Esto 731346_731767 es 732468_732588 sopita 732708_733209 para 733269_733449 ti 733610_734110 .
+*PAR0:	Y yo quiero +... 735072_736113
+%mor:	cconj|y pron|yo-Prs-Nom-S1 verb|querer-Fin-Ind-Pres-S1 +...
+%gra:	1|3|CC 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+%wor:	Y 735072_735092 yo 735332_735452 quiero 735613_736113 +...
+*PAR0:	Qué yo puedo comer , Estuba . 736334_737895
+%mor:	pron|qué-Int-S1 pron|yo-Prs-Nom-S1 aux|poder-Fin-Ind-Pres-S1 verb|comer-Inf-S cm|cm propn|Estuba-Acc .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|AUX 4|6|ROOT 5|6|PUNCT 6|4|OBJ 7|4|PUNCT
+%wor:	Qué 736334_736494 yo 736494_736554 puedo 736634_736854 comer 736914_737355 , Estuba 737395_737895 .
+*PAR0:	Qué puedo comer yo . 738076_739377
+%mor:	pron|qué-Int-S1 aux|poder-Fin-Ind-Pres-S1 verb|comer-Inf-S pron|yo-Prs-Nom-S1 .
+%gra:	1|3|OBJ 2|3|AUX 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	Qué 738076_738196 puedo 738196_738417 comer 738477_738797 yo 738877_739377 .
+*PAR0:	Yo puedo comer +... 739298_740759
+%mor:	pron|yo-Prs-Nom-S1 aux|poder-Fin-Ind-Pres-S1 verb|comer-Inf-S +...
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	Yo 739298_739418 puedo 739658_740059 comer 740259_740759 +...
+*PAR0:	Yo puedo comer ese . 742240_743283
+%mor:	pron|yo-Prs-Nom-S1 aux|poder-Fin-Ind-Pres-S1 verb|comer-Inf-S pron|ese-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	Yo 742240_742300 puedo 742340_742522 comer 742562_742743 ese 742783_743283 .
+*PAR0:	Cómo se llama ese . 743347_744249
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 pron|ese-Dem-S1 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|4|ROOT 4|3|NSUBJ 5|3|PUNCT
+%wor:	Cómo 743347_743528 se 743568_743629 llama 743629_743749 ese 743749_744249 .
+*PAR0:	Cómo se llaman . 743870_744974
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-P3 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	Cómo 743870_744293 se 744333_744474 llaman 744474_744974 .
+*PAR0:	Y luego comemos un chocolito .
+%mor:	cconj|y adv|luego verb|comer-Fin-Ind-Pres-P1 det|uno-Masc-Ind-Art-Sing noun|chocolito-Masc-Acc .
+%gra:	1|3|CC 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR0:	Estamos aquí en el parque comiendo porque papi está trabajando . 754000_757143
+%mor:	aux|estar-Fin-Ind-Pres-P1 adv|aquí adp|en det|el-Masc-Def-Art-Sing noun|parque-Masc verb|comer-Ger-S sconj|porque noun|papi-Masc aux|estar-Fin-Ind-Pres-S3 verb|trabajar-Ger-S .
+%gra:	1|10|ROOT 2|1|ADVMOD 3|5|CASE 4|5|DET 5|1|OBL 6|1|ADVCL 7|10|MARK 8|10|NSUBJ 9|10|AUX 10|1|ADVCL 11|1|PUNCT
+%wor:	Estamos 754000_754400 aquí 754520_754741 en 754741_754801 el 754841_754921 parque 754961_755361 comiendo 755401_755922 porque 755982_756203 papi 756283_756483 está 756483_756643 trabajando 756643_757143 .
+*PAR0:	Un chocolito , mira . 758305_759486
+%mor:	det|uno-Masc-Ind-Art-Sing noun|chocolito-Masc cm|cm verb|mirar-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|4|ROOT 3|2|PUNCT 4|2|PARATAXIS 5|2|PUNCT
+%wor:	Un 758305_758405 chocolito 758506_758906 , mira 758986_759486 .
+*PAR0:	Y cómo está tu sopa . 759207_764673
+%mor:	cconj|y pron|cómo-Ind-S1 verb|estar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|sopa-Fem .
+%gra:	1|3|CC 2|3|OBL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	Y 759207_759227 cómo 761349_763873 está 763893_764033 tu 764033_764113 sopa 764173_764673 .
+*PAR0:	Está feo o cómo está tu SOPA . 764494_766796
+%mor:	aux|estar-Fin-Ind-Pres-S3 adj|feo-S1 cconj|o pron|cómo-Ind-S1 verb|estar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S propn|SOPA .
+%gra:	1|2|COP 2|7|ROOT 3|5|CC 4|5|OBL 5|2|CONJ 6|7|DET 7|5|NSUBJ 8|2|PUNCT
+%wor:	Está 764494_765054 feo 765054_765495 o 765635_765655 cómo 765755_765936 está 765976_766176 tu 766176_766236 SOPA 766296_766796 .
+*PAR0:	A ver , tómalo . 768199_768979
+%mor:	adp|a verb|ver-Inf-S cm|cm noun|tómalo .
+%gra:	1|2|MARK 2|4|ROOT 3|2|PUNCT 4|2|XCOMP 5|2|PUNCT
+%wor:	A 768199_768219 ver 768279_768419 , tómalo 768479_768979 .
+*PAR0:	Está rico , estás good , no . 772030_773911
+%mor:	aux|estar-Fin-Ind-Pres-S3 adj|rico-S1 cm|cm aux|estar-Fin-Ind-Pres-S2 propn|good cm|cm adv|no .
+%gra:	1|2|COP 2|7|ROOT 3|5|PUNCT 4|5|COP 5|2|PARATAXIS 6|7|PUNCT 7|2|ADVMOD 8|2|PUNCT
+%wor:	Está 772030_772170 rico 772170_772450 , estás 772490_772810 good 772910_773211 , no 773411_773911 .
+*PAR0:	Estás bueno para tu vida . 773571_774912
+%mor:	aux|estar-Fin-Ind-Pres-S1 adj|buen-S1 adp|para det|tu-Def-Prs-Sing-S noun|vida-Fem .
+%gra:	1|2|COP 2|5|ROOT 3|5|CASE 4|5|DET 5|2|NMOD 6|2|PUNCT
+%wor:	Estás 773571_773891 bueno 773891_774111 para 774171_774291 tu 774291_774372 vida 774412_774912 .
+*PAR0:	Ahora vamos a comer . 777334_778595
+%mor:	adv|ahora verb|ir-Fin-Ind-Pres-P1 adp|a verb|comer-Inf-S .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%wor:	Ahora 777334_777674 vamos 777734_777975 a 778015_778035 comer 778095_778595 .
+*PAR0:	Quieres comer fresita . 778715_779756
+%mor:	verb|querer-Fin-Ind-Pres-S1 verb|comer-Inf-S noun|fresita-Fem-Acc .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+%wor:	Quieres 778715_778955 comer 778976_779236 fresita 779256_779756 .
+*PAR0:	Pero espérate , ya . 781197_782378
+%mor:	cconj|pero verb|esperatar-Fin-Ind-Pres-S3 cm|cm adv|ya .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|2|PUNCT 4|2|ADVMOD 5|2|PUNCT
+%wor:	Pero 781197_781338 espérate 781378_781798 , ya 781878_782378 .
+*PAR0:	Yo te voy a comer frutita . 782018_783959
+%mor:	pron|yo-Prs-Nom-S1 pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S1 adp|a verb|comer-Inf-S noun|frutita-Fem-Acc .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|5|OBJ 7|3|PUNCT
+%wor:	Yo 782018_783199 te 783199_783259 voy 783259_783319 a 783319_783339 comer 783359_783459 frutita 783459_783959 .
+*PAR0:	Cómo se llama esta frutita . 786530_787851
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 det|este-Fem-Def-Dem-Sing noun|frutita-Fem .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	Cómo 786530_786710 se 786750_786810 llama 786810_787010 esta 787111_787291 frutita 787351_787851 .
+*PAR0:	Ok , vamos a comer . 789513_792817
+%mor:	propn|ok cm|cm verb|ir-Fin-Ind-Pres-P1 adp|a verb|comer-Inf-S .
+%gra:	1|3|NSUBJ 2|1|PUNCT 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	Ok 789513_789694 , vamos 790535_792017 a 792117_792137 comer 792317_792817 .
+*PAR0:	Ahora me vamos a poner aquí un platito para tu hermanito . 806670_812174
+%mor:	adv|ahora pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S adv|aquí det|uno-Masc-Ind-Art-Sing noun|platito-Masc-Acc adp|para det|tu-Def-Prs-Sing-S noun|hermanito-Masc .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|11|ROOT 4|5|MARK 5|3|XCOMP 6|5|ADVMOD 7|8|DET 8|5|OBJ 9|11|CASE 10|11|DET 11|8|NMOD 12|3|PUNCT
+%wor:	Ahora 806670_808371 me 808371_808491 vamos 808551_808911 a 808992_809012 poner 809072_809352 aquí 809412_809692 un 809692_809752 platito 809792_810413 para 811233_811433 tu 811514_811614 hermanito 811674_812174 .
+*PAR0:	Para que coma . 813595_814736
+%mor:	adp|para sconj|que verb|comar-Fin-Sub-Pres-S3 .
+%gra:	1|3|MARK 2|3|MARK 3|3|ROOT 4|3|PUNCT
+%wor:	Para 813595_813875 que 813975_814076 coma 814236_814736 .
+*PAR0:	Mira , a ver , va a comer tu hermanito su uva . 816257_819439
+%mor:	verb|mirar-Fin-Ind-Pres-S cm|cm adp|a verb|ver-Inf-S cm|cm verb|ir-Fin-Ind-Pres-S3 adp|a verb|comer-Inf-S det|tu-Def-Prs-Sing-S noun|hermanito-Masc-Acc det|su-Def-Prs-Sing noun|uva-Fem-Acc .
+%gra:	1|12|ROOT 2|4|PUNCT 3|4|MARK 4|1|ADVCL 5|4|PUNCT 6|1|XCOMP 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|12|DET 12|8|OBJ 13|1|PUNCT
+%wor:	Mira 816257_816477 , a 816498_816518 ver 816578_817278 , va 817578_817658 a 817839_817859 comer 817919_818199 tu 818259_818319 hermanito 818319_818799 su 818879_818919 uva 818939_819439 .
+*PAR0:	A ver , tenedor , cuchillo , cuchara . 826070_828271
+%mor:	adp|a verb|ver-Inf-S cm|cm noun|tenedor-Masc-Acc cm|cm noun|cuchillo-Masc cm|cm noun|cuchar-Fem .
+%gra:	1|2|MARK 2|8|ROOT 3|4|PUNCT 4|2|OBJ 5|6|PUNCT 6|4|CONJ 7|8|PUNCT 8|4|CONJ 9|2|PUNCT
+%wor:	A 826070_826090 ver 826090_826170 , tenedor 826170_826770 , cuchillo 826870_827571 , cuchara 827771_828271 .
+*PAR0:	Cómo se llama . 828471_832374
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	Cómo 828471_831754 se 831794_831874 llama 831874_832374 .
+*PAR0:	El tenedor , ok . 833075_835656
+%mor:	det|el-Masc-Def-Art-Sing noun|tenedor-Masc cm|cm x|ok .
+%gra:	1|2|DET 2|4|ROOT 3|4|PUNCT 4|2|APPOS 5|2|PUNCT
+%wor:	El 833075_833175 tenedor 834175_834716 , ok 835156_835656 .
+*PAR0:	Para la mami también . 836457_837537
+%mor:	adp|para det|el-Fem-Def-Art-Sing noun|mami-Fem adv|también .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	Para 836457_836577 la 836577_836657 mami 836717_836957 también 837037_837537 .
+*PAR0:	Para la maminita también . 837498_840119
+%mor:	adp|para det|el-Fem-Def-Art-Sing noun|maminita-Fem adv|también .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	Para 837498_839219 la 839399_839439 maminita 839439_839619 también 839619_840119 .
+*PAR0:	Quieres tomar lechita . 844600_845661
+%mor:	verb|querer-Fin-Ind-Pres-S1 verb|tomar-Inf-S noun|lechita-Fem-Acc .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+%wor:	Quieres 844600_844820 tomar 844820_845101 lechita 845161_845661 .
+*PAR0:	Toma tu lechita .
+%mor:	verb|toma-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|lechita-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR0:	Toma un pancito , ya . 846804_852392
+%mor:	verb|toma-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|pancito-Masc-Acc cm|cm adv|ya .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|PUNCT 5|1|ADVMOD 6|1|PUNCT
+%wor:	Toma 846804_847284 un 848486_848887 pancito 848927_851832 , ya 851892_852392 .
+*PAR0:	Toma un pancito . 852072_855437
+%mor:	verb|toma-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|pancito-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	Toma 852072_852773 un 853274_854356 pancito 854937_855437 .
+*PAR0:	Voy a tomar mi cafecito . 859950_861110
+%mor:	verb|ir-Fin-Ind-Pres-S1 adp|a verb|tomar-Inf-S det|mi-Def-Prs-Sing-S noun|cafecito-Masc-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%wor:	Voy 859950_860030 a 860050_860070 tomar 860130_860410 mi 860450_860530 cafecito 860610_861110 .
+*PAR0:	O echarle azúcar , que no tiene . 864374_866376
+%mor:	cconj|o verb|echarlar-Inf-S noun|azúcar-Masc-Acc cm|cm pron|que-Rel-S1 adv|no verb|tener-Fin-Ind-Pres-S3 .
+%gra:	1|2|CC 2|7|ROOT 3|2|OBJ 4|7|PUNCT 5|7|NSUBJ 6|7|ADVMOD 7|3|ACL 8|2|PUNCT
+%wor:	O 864374_864394 echarle 864434_864734 azúcar 864795_865295 , que 865555_865635 no 865675_865776 tiene 865876_866376 .
+*PAR0:	Echarle azúcares también a tu leche . 868659_869919
+%mor:	verb|echarle-Fin-Pres-S noun|azúcar-Masc-Plur-Acc adv|también adp|a det|tu-Def-Prs-Sing-S noun|leche-Fem .
+%gra:	1|6|ROOT 2|1|OBJ 3|1|ADVMOD 4|6|CASE 5|6|DET 6|1|OBL 7|1|PUNCT
+%wor:	Echarle 868659_868899 azúcares 868939_869179 también 869179_869319 a 869319_869339 tu 869339_869379 leche 869419_869919 .
+*PAR0:	Vamos a tomar los dos . 874710_875812
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|tomar-Inf-S det|el-Masc-Def-Art-Plur num|dos .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%wor:	Vamos 874710_874911 a 874931_874951 tomar 874971_875171 los 875191_875292 dos 875312_875812 .
+*PAR0:	Puedo decir salud . 875472_877455
+%mor:	aux|poder-Fin-Ind-Pres-S1 verb|decir-Inf-S noun|salud-Fem-Acc .
+%gra:	1|2|AUX 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+%wor:	Puedo 875472_876614 decir 876655_876895 salud 876955_877455 .
+*PAR0:	Ahora , qué más vamos a hacer . 891750_893130
+%mor:	adv|ahora cm|cm pron|qué-Int-S1 adv|más verb|ir-Fin-Ind-Pres-P1 adp|a verb|hacer-Inf-S .
+%gra:	1|5|ADVMOD 2|1|PUNCT 3|5|NSUBJ 4|5|ADVMOD 5|7|ROOT 6|7|MARK 7|5|XCOMP 8|5|PUNCT
+%wor:	Ahora 891750_891970 , qué 892030_892190 más 892190_892310 vamos 892330_892590 a 892610_892630 hacer 892630_893130 .
+*PAR0:	Qué más quieres hacer ahora . 894752_896253
+%mor:	pron|qué-Int-S1 adv|más aux|querer-Fin-Ind-Pres-S2 verb|hacer-Inf-S adv|ahora .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|5|ROOT 4|3|XCOMP 5|4|ADVMOD 6|3|PUNCT
+%wor:	Qué 894752_894892 más 894892_895012 quieres 895072_895352 hacer 895372_895713 ahora 895753_896253 .
+*PAR0:	Quieres comer helado o no . 896893_898554
+%mor:	verb|querer-Fin-Ind-Pres-S1 verb|comer-Inf-S noun|helado-Masc-Acc cconj|o adv|no .
+%gra:	1|5|ROOT 2|1|XCOMP 3|2|OBJ 4|5|CC 5|2|CONJ 6|1|PUNCT
+%wor:	Quieres 896893_897134 comer 897174_897454 helado 897474_897854 o 897994_898014 no 898054_898554 .
+*PAR0:	Te gusta el helado . 898855_900216
+%mor:	pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|helado-Masc .
+%gra:	1|2|OBL-ARG 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Te 898855_898935 gusta 898975_899355 el 899595_899695 helado 899716_900216 .
+*PAR0:	De qué quieres . 901997_902817
+%mor:	adp|de pron|qué-Int-S1 verb|querer-Fin-Ind-Pres-S1 .
+%gra:	1|2|CASE 2|3|OBL 3|3|ROOT 4|3|PUNCT
+%wor:	De 901997_902077 qué 902137_902317 quieres 902317_902817 .
+*PAR0:	De qué quiere . 906820_907621
+%mor:	adp|de pron|qué-Int-S1 verb|querer-Fin-Ind-Pres-S3 .
+%gra:	1|2|CASE 2|3|OBL-ARG 3|3|ROOT 4|3|PUNCT
+%wor:	De 906820_906880 qué 906940_907121 quiere 907121_907621 .
+*PAR0:	De que quiere . 907461_908542
+%mor:	adp|de pron|que-Rel-S1 verb|querer-Fin-Ind-Pres-S3 .
+%gra:	1|3|MARK 2|3|OBL 3|3|ROOT 4|3|PUNCT
+%wor:	De 907461_907541 que 907622_907842 quiere 908042_908542 .
+*PAR0:	I want the white .
+%mor:	propn|i propn|want propn|the propn|white .
+%gra:	1|4|ROOT 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|1|PUNCT
+*PAR0:	Ah , This one . 908564_910246
+%mor:	intj|ah cm|cm propn|this propn|one .
+%gra:	1|4|ROOT 2|1|PUNCT 3|1|APPOS 4|1|FLAT 5|1|PUNCT
+%wor:	Ah 908564_908684 , This 908744_909526 one 909746_910246 .
+*PAR0:	A ver , invítame un poquito a mí . 923600_925103
+%mor:	adp|a verb|ver-Inf-S cm|cm verb|invítamar-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|poquito adp|a pron|yo-Prs-Acc-S1 .
+%gra:	1|2|MARK 2|4|ADVCL 3|2|PUNCT 4|8|ROOT 5|4|ADVMOD 6|5|FIXED 7|8|CASE 8|4|OBJ 9|4|PUNCT
+%wor:	A 923600_923620 ver 923660_923741 , invítame 923781_924102 un 924102_924142 poquito 924162_924543 a 924583_924603 mí 924603_925103 .
+*PAR0:	Ay , qué rico está . 927171_928594
+%mor:	intj|ay cm|cm det|qué-Def-Int adj|rico-S1 aux|estar-Fin-Ind-Pres-S3 .
+%gra:	1|4|DEP 2|1|PUNCT 3|4|DET 4|5|ROOT 5|4|COP 6|4|PUNCT
+%wor:	Ay 927171_927291 , qué 927412_927652 rico 927652_928054 está 928094_928594 .
+*PAR0:	Dónde te compran . 928615_929416
+%mor:	adv|dónde pron|tú-Prs-Dat-S2 verb|comprar-Fin-Ind-Pres-P3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	Dónde 928615_928756 te 928796_928876 compran 928916_929416 .
+*PAR0:	En el Jackson , no . 929318_930419
+%mor:	adp|en det|el-Masc-Def-Art-Sing propn|Jackson cm|cm adv|no .
+%gra:	1|3|CASE 2|3|DET 3|5|NMOD 4|3|PUNCT 5|5|ROOT 6|5|PUNCT
+%wor:	En 929318_929358 el 929378_929418 Jackson 929478_929879 , no 929919_930419 .
+*PAR0:	Allí en tienda donde pap veces en Burguiquín . 930280_932061
+%mor:	adv|allí adp|en noun|tienda-Fem adv|donde adp|pap noun|vez-Fem-Plur adp|en propn|Burguiquín .
+%gra:	1|8|ROOT 2|3|CASE 3|1|NMOD 4|6|ADVMOD 5|6|NUMMOD 6|3|NMOD 7|8|CASE 8|3|NMOD 9|1|PUNCT
+%wor:	Allí 930280_930380 en 930380_930420 tienda 930540_930820 donde 930820_930960 pap 931000_931141 veces 931141_931461 en 931481_931561 Burguiquín 931561_932061 .
+*PAR0:	Cómo se llaman . 949490_950638
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-P3 .
+%gra:	1|3|OBL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	Cómo 949490_950016 se 950057_950138 llaman 950138_950638 .
+*PAR0:	Y este de acá . 963620_964701
+%mor:	cconj|y pron|este-Dem-S1 adp|de adv|acá .
+%gra:	1|2|CC 2|4|ROOT 3|4|CASE 4|2|ADVMOD 5|2|PUNCT
+%wor:	Y 963620_963640 este 963660_963960 de 964021_964101 acá 964201_964701 .
+*PAR0:	Qué es esto . 968949_973958
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	Qué 968949_973397 es 973397_973438 esto 973458_973958 .
+*PAR0:	Es una zanahoria . 973578_974378
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|zanahoria-Fem .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	Es 973578_973618 una 973638_973778 zanahoria 973878_974378 .
+*PAR0:	Zanahoria , que miradita . 995460_999224
+%mor:	propn|zanahoria cm|cm pron|que-Rel-S1 verb|miraditar-Fin-Ind-Pres-S3 .
+%gra:	1|4|ROOT 2|4|PUNCT 3|4|NSUBJ 4|1|ACL 5|1|PUNCT
+%wor:	Zanahoria 995460_997302 , que 998604_998684 miradita 998724_999224 .
+*PAR0:	Dame tu agüita Está rica . 999105_1004011
+%mor:	verb|dame-Fin-Ind-Pres-S det|tu-Def-Prs-Sing-S noun|agüita-Fem-Acc aux|estar-Fin-Ind-Pres-S3 adj|rico-S1 .
+%gra:	1|5|CSUBJ 2|3|DET 3|1|OBJ 4|5|COP 5|5|ROOT 6|5|PUNCT
+%wor:	Dame 999105_999305 tu 999385_999465 agüita 999726_1002970 Está 1003030_1003511 rica 1003511_1004011 .
+*PAR0:	Ah , yo me he tocado de comer un pan con hot dog . 1019600_1021985
+%mor:	intj|ah cm|cm pron|yo-Prs-Nom-S1 pron|yo-Prs-Dat-S1 aux|haber-Fin-Ind-Pres-S1 verb|tocar-Part-Past-S adp|de verb|comer-Inf-S det|uno-Masc-Ind-Art-Sing noun|pan-Masc-Acc adp|con noun|hot-Masc noun|dog .
+%gra:	1|6|DEP 2|1|PUNCT 3|6|NSUBJ 4|6|EXPL-PV 5|6|AUX 6|13|ROOT 7|8|MARK 8|6|XCOMP 9|10|DET 10|8|OBJ 11|13|CASE 12|13|AMOD 13|8|OBL 14|6|PUNCT
+%wor:	Ah 1019600_1019700 , yo 1019700_1019740 me 1019800_1019861 he 1019861_1019901 tocado 1019981_1020282 de 1020282_1020362 comer 1020422_1020683 un 1020723_1020783 pan 1020823_1021003 con 1021064_1021204 hot 1021264_1021404 dog 1021485_1021985 .
+*PAR0:	Quieres comer un pan . 1022607_1023669
+%mor:	verb|querer-Fin-Ind-Pres-S1 verb|comer-Inf-S det|uno-Masc-Ind-Art-Sing noun|pan-Masc-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	Quieres 1022607_1022788 comer 1022808_1023129 un 1023129_1023169 pan 1023169_1023669 .
+*PAR0:	Un con hotdog .
+%mor:	det|uno-Masc-Ind-Art-Sing adp|con noun|hotdog-Masc .
+%gra:	1|3|ROOT 2|1|CASE 3|1|NMOD 4|1|PUNCT
+*PAR0:	Pan con hotdog . 1023289_1024170
+%mor:	noun|pan-Masc adp|con noun|hotdog-Masc .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	Pan 1023289_1023450 con 1023490_1023630 hotdog 1023670_1024170 .
+*PAR0:	donde Dónde tu está el pan [/] pan con [/] con hotdogs hotdog . 1030882_1035237
+%mor:	adv|donde adv|dónde pron|tu-Prs-Dat-S2 verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|pan-Masc adp|con noun|hotdogs-Masc noun|hotdog-Masc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|9|ROOT 5|6|DET 6|4|NSUBJ 7|8|CASE 8|4|OBL 9|8|COMPOUND 10|4|PUNCT
+%wor:	donde 1030882_1031766 Dónde 1031806_1033151 tu 1033151_1033191 está 1033191_1033272 el 1033272_1033312 pan 1033332_1033412 pan 1033412_1033553 con 1033593_1033733 con 1033774_1033934 hotdogs 1033954_1034737 hotdog 1034737_1035237 .
+*PAR0:	donde tu pan .
+%mor:	adv|donde det|tu-Def-Prs-Sing-S noun|pan-Masc .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+*PAR0:	no , esta aqui ahi esta en el plato , en el placo bar . 1036922_1039952
+%mor:	adv|no cm|cm det|este-Fem-Def-Dem-Sing noun|aquí-Fem adv|ahí verb|estar-Fin-S adp|en det|el-Masc-Def-Art-Sing noun|plato-Masc cm|cm adp|en det|el-Masc-Def-Art-Sing noun|placo-Masc noun|bar-Masc .
+%gra:	1|6|ADVMOD 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|ADVMOD 6|14|ROOT 7|9|CASE 8|9|DET 9|6|OBL 10|13|PUNCT 11|13|CASE 12|13|DET 13|6|OBL 14|13|APPOS 15|6|PUNCT
+%wor:	no 1036922_1037806 , esta 1036922_1037806 aqui 1039191_1039231 ahi esta 1039231_1039312 en el 1039312_1039352 plato 1039372_1039452 , en 1039372_1039452 el placo 1039452_1039952 bar .
+*PAR0:	Estamos haciendo un picnic los dos , porque hace tiempo que no hacemos el picnic . 1060010_1064112
+%mor:	aux|estar-Fin-Ind-Pres-P1 verb|hacer-Ger-S det|uno-Masc-Ind-Art-Sing noun|picnic-Masc-Acc det|el-Masc-Def-Art-Plur num|dos cm|cm sconj|porque verb|hacer-Fin-Ind-Pres-S3 noun|tiempo-Masc-Acc sconj|que adv|no verb|hacer-Fin-Ind-Pres-P1 det|el-Masc-Def-Art-Sing noun|picnic-Masc-Acc .
+%gra:	1|2|AUX 2|15|ROOT 3|4|DET 4|2|OBJ 5|6|DET 6|2|OBJ 7|9|PUNCT 8|9|MARK 9|2|ADVCL 10|9|OBJ 11|13|MARK 12|13|ADVMOD 13|9|CCOMP 14|15|DET 15|13|OBJ 16|2|PUNCT
+%wor:	Estamos 1060010_1060330 haciendo 1060350_1060710 un 1060750_1060810 picnic 1060950_1061391 los 1061431_1061591 dos 1061671_1062011 , porque 1062071_1062271 hace 1062291_1062411 tiempo 1062451_1062691 que 1062752_1062812 no 1062872_1062952 hacemos 1062952_1063312 el 1063372_1063432 picnic 1063612_1064112 .
+*PAR0:	Voy a levantar tu plato , ya . 1067114_1068775
+%mor:	verb|ir-Fin-Ind-Pres-S1 adp|a verb|levantar-Inf-S det|tu-Def-Prs-Sing-S noun|plato-Masc-Acc cm|cm adv|ya .
+%gra:	1|7|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|PUNCT 7|1|ADVMOD 8|1|PUNCT
+%wor:	Voy 1067114_1067235 a 1067235_1067255 levantar 1067255_1067635 tu 1067695_1067775 plato 1067835_1068175 , ya 1068275_1068775 .
+*PAR0:	Vamos a lavar los platos . 1068555_1069896
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|lavar-Inf-S det|el-Masc-Def-Art-Plur noun|plato-Masc-Plur-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%wor:	Vamos 1068555_1068816 a 1068876_1068896 lavar 1068956_1069156 los 1069216_1069336 platos 1069396_1069896 .
+*PAR0:	Me vas a ayudar a secar los platos . 1069916_1071497
+%mor:	pron|yo-Prs-Dat-S1 verb|ir-Fin-Ind-Pres-S1 adp|a verb|ayudar-Inf-S adp|a verb|secar-Inf-S det|el-Masc-Def-Art-Plur noun|plato-Masc-Plur-Acc .
+%gra:	1|2|EXPL-PV 2|8|ROOT 3|4|MARK 4|2|XCOMP 5|6|MARK 6|4|ADVCL 7|8|DET 8|6|OBJ 9|2|PUNCT
+%wor:	Me 1069916_1069976 vas 1069996_1070117 a 1070117_1070137 ayudar 1070157_1070417 a 1070437_1070457 secar 1070517_1070797 los 1070857_1070957 platos 1070997_1071497 .
+*PAR0:	Yo los lavo . 1072238_1073098
+%mor:	pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-P3 verb|laer-Fin-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%wor:	Yo 1072238_1072318 los 1072398_1072538 lavo 1072598_1073098 .
+*PAR0:	y tú los secas , ya , okay ? 1073499_1074899
+%mor:	cconj|y pron|tú-Prs-Nom-S2 det|el-Masc-Def-Art-Plur noun|secas-Fem-Plur cm|cm adv|ya cm|cm noun|okay-Masc ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|DET 4|8|ROOT 5|8|PUNCT 6|8|ADVMOD 7|6|PUNCT 8|4|CONJ 9|4|PUNCT
+%wor:	y 1073499_1073519 tú 1073579_1073739 los 1073739_1073859 secas 1073919_1074339 , ya 1074359_1074399 , okay 1074399_1074899 ?
+*PAR0:	Aquí tienes tu trapito para que seces tú tu plato . 1078840_1080943
+%mor:	adv|aquí verb|tener-Fin-Ind-Pres-S1 det|tu-Def-Prs-Sing-S noun|trapito-Masc-Acc adp|para sconj|que verb|sez-Fin-Ind-Pres-P3 pron|tú-Prs-Nom-S2 det|tu-Def-Prs-Sing-S noun|plato-Masc .
+%gra:	1|2|ADVMOD 2|10|ROOT 3|4|DET 4|2|OBJ 5|7|MARK 6|7|MARK 7|2|ADVCL 8|7|NSUBJ 9|10|DET 10|7|NSUBJ 11|2|PUNCT
+%wor:	Aquí 1078840_1078920 tienes 1078920_1079040 tu 1079040_1079080 trapito 1079080_1079461 para 1079501_1079641 que 1079641_1079721 seces 1079781_1080102 tú 1080162_1080302 tu 1080302_1080383 plato 1080443_1080943 .
+*PAR0:	Yo lo voy a lavar en el caño . 1081124_1082766
+%mor:	pron|yo-Prs-Nom-S1 pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S1 adp|a verb|lavar-Inf-S adp|en det|el-Masc-Def-Art-Sing noun|caño-Masc .
+%gra:	1|3|NSUBJ 2|3|OBJ 3|8|ROOT 4|5|MARK 5|3|XCOMP 6|8|CASE 7|8|DET 8|3|OBL 9|3|PUNCT
+%wor:	Yo 1081124_1081184 lo 1081204_1081264 voy 1081284_1081425 a 1081485_1081505 lavar 1081565_1081806 en 1081826_1082066 el 1082086_1082166 caño 1082266_1082766 .
+*PAR0:	Venga , saca tu plato . 1082727_1088999
+%mor:	verb|venir-Fin-Ind-Pres-S3 cm|cm verb|sacar-Fin-Ind-Pres-S3 det|tu-Def-Prs-Sing-S noun|plato-Masc-Acc .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|ADVCL 4|5|DET 5|3|OBJ 6|1|PUNCT
+%wor:	Venga 1082727_1086495 , saca 1086635_1088259 tu 1088359_1088399 plato 1088499_1088999 .
+*PAR0:	Y lo guardas aquí . 1094263_1095375
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|guarda-Fin-Ind-Pres-P1 adv|aquí .
+%gra:	1|3|CC 2|3|OBJ 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	Y 1094263_1094284 lo 1094324_1094406 guardas 1094467_1094814 aquí 1094875_1095375 .
+*PAR0:	Qué es eso .
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|ese-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+*PAR0:	Hay otro plato .
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|otro-Masc-Def-Ind-Sing noun|plato-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR0:	Mucha agua tiene .
+%mor:	det|mucho-Fem-Def-Ind-Sing noun|agua-Fem verb|tener-Fin-Ind-Pres-S3 .
+%gra:	1|2|DET 2|3|NSUBJ 3|3|ROOT 4|3|PUNCT
+*PAR0:	Cuál te gustó más de las frutas . 1144850_1146431
+%mor:	pron|cuál-Int-S1 pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Past-S3 adv|más adp|de det|el-Fem-Def-Art-Plur noun|fruta-Fem-Plur .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|7|ROOT 4|3|ADVMOD 5|7|CASE 6|7|DET 7|3|OBL 8|3|PUNCT
+%wor:	Cuál 1144850_1144990 te 1145010_1145090 gustó 1145150_1145490 más 1145490_1145650 de 1145670_1145730 las 1145750_1145891 frutas 1145931_1146431 .
+*PAR0:	Cuál fue la fruta que más te gustó . 1146391_1147992
+%mor:	pron|cuál-Int-S1 aux|ser-Fin-Ind-Past-S3 det|el-Fem-Def-Art-Sing noun|fruta-Fem pron|que-Rel-S1 adv|más pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Past-S3 .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|8|ROOT 5|8|MARK 6|8|ADVMOD 7|8|OBL-ARG 8|4|ACL 9|4|PUNCT
+%wor:	Cuál 1146391_1146551 fue 1146611_1146691 la 1146731_1146791 fruta 1146831_1147052 que 1147092_1147152 más 1147192_1147332 te 1147352_1147432 gustó 1147492_1147992 .
+*PAR0:	Te gustó mucho el helado . 1155919_1157099
+%mor:	pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Past-S3 pron|mucho-Ind-S1 det|el-Masc-Def-Art-Sing noun|helado-Masc .
+%gra:	1|2|OBL-ARG 2|5|ROOT 3|2|ADVMOD 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	Te 1155919_1155999 gustó 1156039_1156319 mucho 1156319_1156539 el 1156559_1156599 helado 1156599_1157099 .
+*PAR0:	Otro día vamos a comer más también . 1159070_1161131
+%mor:	det|otro-Masc-Def-Ind-Sing noun|día-Masc verb|ir-Fin-Ind-Pres-P1 adp|a verb|comer-Inf-S adv|más adv|también .
+%gra:	1|2|DET 2|3|OBL 3|7|ROOT 4|5|MARK 5|3|XCOMP 6|7|ADVMOD 7|3|ADVMOD 8|3|PUNCT
+%wor:	Otro 1159070_1159290 día 1159330_1159450 vamos 1159510_1159710 a 1159770_1159790 comer 1159850_1160110 más 1160170_1160431 también 1160631_1161131 .
+*PAR0:	Hoy solamente hemos comido un poquito . 1162012_1163773
+%mor:	adv|hoy adv|solamente aux|haber-Fin-Ind-Pres-P1 verb|comer-Part-Past-S det|uno-Masc-Ind-Art-Sing noun|poquito-Masc-Acc .
+%gra:	1|4|ADVMOD 2|4|ADVMOD 3|4|AUX 4|6|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+%wor:	Hoy 1162012_1162192 solamente 1162232_1162612 hemos 1162632_1162812 comido 1162872_1163153 un 1163173_1163233 poquito 1163273_1163773 .
+*PAR0:	Qué estás haciendo . 1165454_1166235
+%mor:	pron|qué-Int-S1 aux|estar-Fin-Ind-Pres-S1 verb|hacer-Ger-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	Qué 1165454_1165514 estás 1165514_1165715 haciendo 1165735_1166235 .
+*PAR0:	Qué estás haciéndo . 1167176_1167976
+%mor:	pron|qué-Int-S1 aux|estar-Fin-Ind-Pres-S1 verb|haciéndo-Ger-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	Qué 1167176_1167236 estás 1167236_1167476 haciéndo 1167476_1167976 .
+*PAR0:	Cómo estás limpiando . 1170258_1172359
+%mor:	pron|cómo-Ind-S1 aux|estar-Fin-Ind-Pres-S1 verb|limpiar-Ger-S .
+%gra:	1|3|OBL 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	Cómo 1170258_1171639 estás 1171679_1171839 limpiando 1171859_1172359 .
+*PAR0:	Estás doblando tu mantel , no . 1173280_1174457
+%mor:	aux|estar-Fin-Ind-Pres-S1 verb|doblar-Ger-S det|tu-Def-Prs-Sing-S noun|mantel-Masc-Acc cm|cm adv|no .
+%gra:	1|2|AUX 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|PUNCT 6|2|ADVMOD 7|2|PUNCT
+%wor:	Estás 1173280_1173403 doblando 1173403_1173711 tu 1173731_1173772 mantel 1173793_1173957 , no 1173957_1174457 .
+*PAR0:	Vamos a guardar aquí ahora vamos a ver mira , tengo unos cuentos aquí bonitos para leer a ver , vamos a ver cuál te voy a leer cuál . 1178870_1195379
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|guardar-Inf-S adv|aquí adv|ahora verb|ir-Fin-Ind-Pres-P1 adp|a verb|ver-Inf-S noun|mira-Acc cm|cm verb|tener-Fin-Ind-Pres-S1 det|uno-Masc-Ind-Art-Plur noun|cuento-Masc-Plur-Acc adv|aquí adj|bonito-P1 adp|para verb|leer-Inf-S adp|a verb|ver-Inf-S cm|cm verb|ir-Fin-Ind-Pres-P1 adp|a verb|ver-Inf-S pron|cuál-Int-S1 pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S1 adp|a verb|leer-Inf-S pron|cuál-Int-S1 .
+%gra:	1|29|ROOT 2|3|MARK 3|1|XCOMP 4|1|ADVMOD 5|6|ADVMOD 6|1|XCOMP 7|8|MARK 8|6|XCOMP 9|8|OBJ 10|11|PUNCT 11|6|PARATAXIS 12|13|DET 13|11|OBJ 14|15|ADVMOD 15|13|AMOD 16|17|MARK 17|11|ADVCL 18|19|MARK 19|17|XCOMP 20|21|PUNCT 21|1|ADVCL 22|23|MARK 23|21|XCOMP 24|26|NSUBJ 25|26|OBJ 26|23|CCOMP 27|28|MARK 28|26|XCOMP 29|26|NSUBJ 30|1|PUNCT
+%wor:	Vamos 1178870_1179170 a 1179230_1179250 guardar 1179350_1179730 aquí 1179730_1182752 ahora 1182752_1183252 vamos 1184953_1185294 a 1185354_1185374 ver 1185454_1185674 mira 1188836_1189276 , tengo 1189356_1189596 unos 1189596_1189816 cuentos 1189896_1190317 aquí 1190357_1190617 bonitos 1190617_1191477 para 1191477_1191677 leer 1191758_1192778 a 1193218_1193238 ver 1193298_1193419 , vamos 1193459_1193679 a 1193719_1193739 ver 1193779_1193899 cuál 1193979_1194319 te 1194419_1194499 voy 1194539_1194679 a 1194719_1194739 leer 1194739_1194839 cuál 1194879_1195379 .
+*PAR0:	quieres que te lea tú . 1195420_1197362
+%mor:	verb|querer-Fin-Ind-Pres-S1 sconj|que pron|tú-Prs-Dat-S2 verb|leer-Fin-Sub-Pres-S3 pron|tú-Prs-Nom-S2 .
+%gra:	1|5|ROOT 2|4|MARK 3|4|OBL-ARG 4|1|CCOMP 5|4|NSUBJ 6|1|PUNCT
+%wor:	quieres 1195420_1195620 que 1195640_1195720 te 1195801_1195881 lea 1195941_1196161 tú 1196862_1197362 .
+*PAR0:	vas a escoger uno para leer y dice , , buenas noches , Luna . 1197503_1201990
+%mor:	verb|ir-Fin-Ind-Pres-S adp|a verb|escoger-Inf-S pron|uno-Ind-S1 adp|para verb|leer-Inf-S cconj|y verb|decir-Fin-Ind-Pres-S3 cm|cm cm|cm adj|buen-P1 noun|noche-Fem-Plur cm|cm propn|luna .
+%gra:	1|14|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|6|MARK 6|3|ADVCL 7|8|CC 8|6|CONJ 9|12|PUNCT 10|12|PUNCT 11|12|AMOD 12|14|APPOS 13|12|PUNCT 14|1|PARATAXIS 15|1|PUNCT
+%wor:	vas 1197503_1197664 a 1197664_1197684 escoger 1197724_1198124 uno 1198986_1199146 para 1199206_1199346 leer 1199346_1199647 y 1200008_1200028 dice 1200108_1200388 , , buenas 1200508_1200929 noches 1201009_1201390 , Luna 1201490_1201990 .
+*PAR0:	Te acuerdas cuando . 1202572_1203432
+%mor:	pron|tú-Prs-Dat-S2 verb|acordar-Fin-Ind-Pres-S1 sconj|cuando .
+%gra:	1|2|EXPL-PV 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	Te 1202572_1202612 acuerdas 1202612_1202912 cuando 1202932_1203432 .
+*PAR0:	era bebita y te leíaste mucho . 1203133_1205015
+%mor:	aux|ser-Fin-Ind-Imp-S3 adj|bebito-S1 cconj|y pron|tú-Prs-Dat-S2 verb|leear-Fin-Ind-Pres-S1 pron|mucho-Ind-S1 .
+%gra:	1|2|COP 2|6|ROOT 3|5|CC 4|5|EXPL-PV 5|2|CONJ 6|5|ADVMOD 7|2|PUNCT
+%wor:	era 1203133_1203253 bebita 1203313_1203754 y 1203814_1203834 te 1203874_1203954 leíaste 1203994_1204455 mucho 1204515_1205015 .
+*PAR0:	Que decías , ay , no . 1205116_1206317
+%mor:	sconj|que verb|decir-Fin-Ind-Past-S1 cm|cm intj|ay cm|cm adv|no .
+%gra:	1|2|MARK 2|6|ROOT 3|2|PUNCT 4|2|DEP 5|4|PUNCT 6|2|ADVMOD 7|2|PUNCT
+%wor:	Que 1205116_1205196 decías 1205196_1205517 , ay 1205597_1205737 , no 1205817_1206317 .
+*PAR0:	A ver , acá hay otro . 1206518_1207479
+%mor:	adp|a verb|ver-Inf-S cm|cm adv|acá verb|haber-Fin-Ind-Pres-S3 pron|otro-Ind-S1 .
+%gra:	1|2|MARK 2|5|ADVCL 3|2|PUNCT 4|5|ADVMOD 5|6|ROOT 6|5|OBJ 7|5|PUNCT
+%wor:	A 1206518_1206538 ver 1206599_1206719 , acá 1206739_1206879 hay 1206879_1206939 otro 1206979_1207479 .
+*PAR0:	Y aquí hay el gran granjero rojo . 1208040_1212206
+%mor:	cconj|y adv|aquí verb|haber-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing adj|gran-S1 noun|granjero-Masc-Acc adj|rojo-S1 .
+%gra:	1|3|CC 2|3|ADVMOD 3|7|ROOT 4|6|DET 5|6|AMOD 6|3|OBJ 7|6|AMOD 8|3|PUNCT
+%wor:	Y 1208040_1208060 aquí 1208100_1208420 hay 1208420_1208641 el 1208721_1209102 gran 1210203_1210644 granjero 1210804_1211546 rojo 1211706_1212206 .
+*PAR0:	Cuál quieres que te lea . 1213108_1214249
+%mor:	pron|cuál-Int-S1 verb|querer-Fin-Ind-Pres-S1 sconj|que pron|tú-Prs-Dat-S2 verb|leer-Fin-Sub-Pres-S3 .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|MARK 4|5|OBL-ARG 5|2|CCOMP 6|2|PUNCT
+%wor:	Cuál 1213108_1213248 quieres 1213288_1213449 que 1213489_1213549 te 1213609_1213689 lea 1213749_1214249 .
+*PAR0:	Yo quiero que te leas Noche . 1215292_1220179
+%mor:	pron|yo-Prs-Nom-S1 verb|querer-Fin-Ind-Pres-S1 sconj|que pron|tú-Prs-Dat-S2 verb|lea-Fin-Sub-Pres-S3 propn|noche-Acc .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|MARK 4|5|OBL-ARG 5|2|CCOMP 6|5|OBJ 7|2|PUNCT
+%wor:	Yo 1215292_1215392 quiero 1215512_1215933 que 1217215_1217355 te 1217616_1217736 leas 1218297_1219338 Noche 1219679_1220179 .
+*PAR0:	Mira , qué tenemos aquí . 1239070_1241131
+%mor:	verb|mirar-Fin-Ind-Pres-S cm|cm pron|qué-Int-S1 verb|tener-Fin-Ind-Pres-P1 adv|aquí .
+%gra:	1|5|ROOT 2|4|PUNCT 3|4|NSUBJ 4|1|CCOMP 5|4|ADVMOD 6|1|PUNCT
+%wor:	Mira 1239070_1239590 , qué 1239930_1240090 tenemos 1240090_1240551 aquí 1240631_1241131 .
+*PAR0:	En la gran habitación de color verde hay un teléfono , hay un globo rojo y hay un cuadro . 1243433_1250217
+%mor:	adp|en det|el-Fem-Def-Art-Sing adj|gran-S1 noun|habitación-Fem adp|de noun|color-Masc adj|verde-S1 verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|teléfono-Masc-Acc cm|cm verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|globo-Masc-Acc adj|rojo-S1 cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|cuadro-Masc-Acc .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|8|OBL 5|6|CASE 6|4|NMOD 7|6|AMOD 8|19|ROOT 9|10|DET 10|8|OBJ 11|12|PUNCT 12|8|ADVCL 13|14|DET 14|12|OBJ 15|14|AMOD 16|17|CC 17|8|CONJ 18|19|DET 19|17|OBJ 20|8|PUNCT
+%wor:	En 1243433_1243633 la 1243733_1243813 gran 1243913_1244253 habitación 1244333_1245314 de 1245434_1245514 color 1245594_1245954 verde 1246114_1246555 hay 1246715_1246895 un 1246955_1247055 teléfono 1247135_1247936 , hay 1248056_1248216 un 1248256_1248336 globo 1248396_1248716 rojo 1248836_1249156 y 1249236_1249256 hay 1249336_1249477 un 1249517_1249597 cuadro 1249717_1250217 .
+*PAR0:	A ver , dime , dónde está el teléfono . 1251018_1253759
+%mor:	adp|a verb|ver-Inf-S cm|cm intj|dime cm|cm adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|teléfono-Masc .
+%gra:	1|2|MARK 2|7|ADVCL 3|4|PUNCT 4|2|DEP 5|4|PUNCT 6|7|ADVMOD 7|9|ROOT 8|9|DET 9|7|NSUBJ 10|7|PUNCT
+%wor:	A 1251018_1251038 ver 1251098_1251258 , dime 1251298_1251618 , dónde 1251718_1252939 está 1252979_1253119 el 1253119_1253219 teléfono 1253259_1253759 .
+*PAR0:	Y dónde está el globo rojo . 1257560_1259822
+%mor:	cconj|y adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|globo-Masc adj|rojo-S1 .
+%gra:	1|3|CC 2|3|ADVMOD 3|6|ROOT 4|5|DET 5|3|NSUBJ 6|5|AMOD 7|3|PUNCT
+%wor:	Y 1257560_1257580 dónde 1257660_1258100 está 1258181_1258781 el 1258781_1258821 globo 1258841_1259222 rojo 1259322_1259822 .
+*PAR0:	Ajá , y dónde está el cuadrito . 1261846_1264569
+%mor:	propn|Ajá cm|cm cconj|y adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|cuadrito-Masc .
+%gra:	1|7|ROOT 2|5|PUNCT 3|5|CC 4|5|ADVMOD 5|1|CONJ 6|7|DET 7|5|NSUBJ 8|1|PUNCT
+%wor:	Ajá 1261846_1263508 , y 1263508_1263528 dónde 1263568_1263788 está 1263828_1263968 el 1263968_1264029 cuadrito 1264069_1264569 .
+*PAR0:	Mira , ahí están las estrellas . 1266191_1271838
+%mor:	propn|Mira cm|cm adv|ahí verb|estar-Fin-Ind-Pres-P3 det|el-Fem-Def-Art-Plur noun|estrella-Plur .
+%gra:	1|4|DEP 2|1|PUNCT 3|4|ADVMOD 4|6|ROOT 5|6|DET 6|4|NSUBJ 7|4|PUNCT
+%wor:	Mira 1266191_1267653 , ahí 1270858_1270918 están 1270918_1271118 las 1271118_1271278 estrellas 1271338_1271838 .
+*PAR0:	Y quién está durmiendo en la cama . 1272800_1274241
+%mor:	cconj|y pron|quién-Int-S1 aux|estar-Fin-Ind-Pres-S3 verb|dormir-Ger-S adp|en det|el-Fem-Def-Art-Sing noun|cama-Fem .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|AUX 4|7|ROOT 5|7|CASE 6|7|DET 7|4|OBL 8|4|PUNCT
+%wor:	Y 1272800_1272820 quién 1272880_1273020 está 1273080_1273160 durmiendo 1273160_1273541 en 1273541_1273581 la 1273601_1273681 cama 1273741_1274241 .
+*PAR0:	Quién está durmiendo . 1275384_1276164
+%mor:	pron|quién-Int-S1 aux|estar-Fin-Ind-Pres-S3 verb|dormir-Ger-S .
+%gra:	1|3|NSUBJ 2|3|AUX 3|3|ROOT 4|3|PUNCT
+%wor:	Quién 1275384_1275524 está 1275584_1275664 durmiendo 1275664_1276164 .
+*PAR0:	Qién está haciendo nanay . 1276145_1277106
+%mor:	propn|qién aux|estar-Fin-Ind-Pres-S3 verb|hacer-Ger-S noun|nanay-Masc-Acc .
+%gra:	1|3|NSUBJ 2|3|AUX 3|4|ROOT 4|3|OBJ 5|3|PUNCT
+%wor:	Qién 1276145_1276265 está 1276265_1276345 haciendo 1276345_1276546 nanay 1276606_1277106 .
+*PAR0:	Qiénda haciendo nanay , corduroi , no . 1276886_1280972
+%mor:	verb|qiénda-Fin-Ind-Pres-S3 verb|hacer-Ger-S noun|nanay-Masc-Acc cm|cm noun|corduroi-Masc cm|cm adv|no .
+%gra:	1|7|ROOT 2|1|XCOMP 3|2|OBJ 4|5|PUNCT 5|3|CONJ 6|7|PUNCT 7|3|ADVMOD 8|1|PUNCT
+%wor:	Qiénda 1276886_1277006 haciendo 1278589_1278929 nanay 1279150_1279490 , corduroi 1279751_1280392 , no 1280472_1280972 .
+*PAR0:	Corduroi está haciendo nanai ahora . 1281894_1283836
+%mor:	propn|corduroi aux|estar-Fin-Ind-Pres-S3 verb|hacer-Ger-S noun|nanai-Fem-Acc adv|ahora .
+%gra:	1|3|NSUBJ 2|3|AUX 3|5|ROOT 4|3|OBJ 5|3|ADVMOD 6|3|PUNCT
+%wor:	Corduroi 1281894_1282275 está 1282275_1282455 haciendo 1282455_1282815 nanai 1282855_1283276 ahora 1283336_1283836 .
+*PAR0:	Ay , mira que tenemos aquí . 1284318_1285859
+%mor:	intj|ay cm|cm verb|mirar-Fin-Ind-Pres-S3 sconj|que verb|tener-Fin-Ind-Pres-P1 adv|aquí .
+%gra:	1|3|DEP 2|1|PUNCT 3|6|ROOT 4|5|MARK 5|3|CCOMP 6|5|ADVMOD 7|3|PUNCT
+%wor:	Ay 1284318_1284758 , mira 1284879_1285039 que 1285079_1285159 tenemos 1285199_1285359 aquí 1285359_1285859 .
+*PAR0:	De una vaquita que salta sobre la luna . 1286780_1290265
+%mor:	adp|de det|uno-Fem-Ind-Art-Sing noun|vaquita-Fem pron|que-Rel-S1 verb|saltar-Fin-Ind-Pres-S3 adp|sobre det|el-Fem-Def-Art-Sing noun|luna-Fem .
+%gra:	1|3|CASE 2|3|DET 3|8|ROOT 4|5|NSUBJ 5|3|ACL 6|8|CASE 7|8|DET 8|5|OBL 9|3|PUNCT
+%wor:	De 1286780_1286860 una 1286980_1287140 vaquita 1287201_1287722 que 1287802_1287882 salta 1287962_1288303 sobre 1288383_1288703 la 1289525_1289625 luna 1289765_1290265 .
+*PAR0:	Y otro más con tres ositos sentaditos en su silla . 1291328_1295675
+%mor:	cconj|y pron|otro-Ind-S1 adv|más adp|con num|tres noun|osito-Masc-Plur adj|sentadito-P1 adp|en det|su-Def-Prs-Sing noun|silla-Fem .
+%gra:	1|2|CC 2|10|ROOT 3|2|ADVMOD 4|6|CASE 5|6|NUMMOD 6|2|NMOD 7|6|AMOD 8|10|CASE 9|10|DET 10|6|NMOD 11|2|PUNCT
+%wor:	Y 1291328_1291348 otro 1291528_1291749 más 1291849_1292110 con 1292170_1292350 tres 1292390_1292651 ositos 1292691_1293412 sentaditos 1293853_1294714 en 1294774_1294855 su 1294915_1294995 silla 1295175_1295675 .
+*PAR0:	Viste los ositos que están sentaditos . 1295856_1297519
+%mor:	verb|ver-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Plur noun|osito-Masc-Plur-Acc pron|que-Rel-S1 aux|estar-Fin-Ind-Pres-P3 adj|sentadito-P1 .
+%gra:	1|6|ROOT 2|3|DET 3|1|OBJ 4|6|MARK 5|6|COP 6|3|ACL-RELCL 7|1|PUNCT
+%wor:	Viste 1295856_1296117 los 1296177_1296337 ositos 1296377_1296718 que 1296738_1296798 están 1296818_1296978 sentaditos 1297019_1297519 .
+*PAR0:	Dos gatitos juguetones , dos calcetines y dos mitones . 1300260_1305106
+%mor:	num|dos noun|gatito-Masc-Plur adj|juguetón-P1 cm|cm num|dos noun|calcetín-Masc-Plur cconj|y num|dos noun|mitón-Masc-Plur .
+%gra:	1|2|NUMMOD 2|9|ROOT 3|2|AMOD 4|6|PUNCT 5|6|NUMMOD 6|2|CONJ 7|9|CC 8|9|NUMMOD 9|2|CONJ 10|2|PUNCT
+%wor:	Dos 1300260_1300500 gatitos 1300560_1301141 juguetones 1301201_1302243 , dos 1302583_1302783 calcetines 1302843_1304085 y 1304185_1304205 dos 1304286_1304466 mitones 1304606_1305106 .
+*PAR0:	Aquí están los dos gatitos , los dos mitones , los dos calcetes . 1305507_1311836
+%mor:	adv|aquí verb|estar-Fin-Ind-Pres-P3 det|el-Masc-Def-Art-Plur num|dos noun|gatito-Masc-Plur cm|cm det|el-Masc-Def-Art-Plur num|dos noun|mitón-Masc-Plur cm|cm det|el-Masc-Def-Art-Plur num|dos noun|calcete-Masc-Plur .
+%gra:	1|2|ADVMOD 2|13|ROOT 3|5|DET 4|3|NUMMOD 5|2|NSUBJ 6|9|PUNCT 7|9|DET 8|7|NUMMOD 9|5|APPOS 10|13|PUNCT 11|13|DET 12|11|NUMMOD 13|5|APPOS 14|2|PUNCT
+%wor:	Aquí 1305507_1305748 están 1305748_1307270 los 1307290_1307430 dos 1307450_1307590 gatitos 1307650_1308692 , los 1309353_1309713 dos 1309793_1309994 mitones 1310094_1310915 , los 1310975_1311095 dos 1311115_1311275 calcetes 1311336_1311836 .
+*PAR0:	Hay una casa de muñecas . 1313338_1314479
+%mor:	verb|haber-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|casa-Fem-Acc adp|de noun|muñeca-Fem-Plur .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|3|NMOD 6|1|PUNCT
+%wor:	Hay 1313338_1313499 una 1313539_1313699 casa 1313799_1313939 de 1313939_1313979 muñecas 1313979_1314479 .
+*PAR0:	y hay un ratón que corretea . 1314840_1316444
+%mor:	cconj|y verb|haber-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|ratón-Masc-Acc pron|que-Rel-S1 verb|corretear-Fin-Ind-Pres-S3 .
+%gra:	1|2|CC 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|MARK 6|4|ACL 7|2|PUNCT
+%wor:	y 1314840_1314860 hay 1314880_1315000 un 1315041_1315121 ratón 1315201_1315643 que 1315763_1315843 corretea 1315944_1316444 .
+*PAR0:	Dónde está el ratón . 1317208_1318130
+%mor:	adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|ratón-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dónde 1317208_1317389 está 1317409_1317489 el 1317489_1317570 ratón 1317630_1318130 .
+*PAR0:	Dónde está el raton correteando . 1319055_1320358
+%mor:	adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|ratón-Masc verb|corretear-Ger-S .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|DET 4|2|NSUBJ 5|2|ADVCL 6|2|PUNCT
+%wor:	Dónde 1319055_1319236 está 1319256_1319336 el 1319336_1319416 raton 1319476_1319757 correteando 1319858_1320358 .
+*PAR0:	Y un cepillo y un gran peine y papilla en un tazón . 1330220_1333584
+%mor:	cconj|y det|uno-Masc-Ind-Art-Sing noun|cepillo-Masc cconj|y det|uno-Masc-Ind-Art-Sing adj|gran-S1 noun|peine-Masc cconj|y noun|papilla-Fem adp|en det|uno-Masc-Ind-Art-Sing noun|tazón-Masc .
+%gra:	1|3|CC 2|3|DET 3|12|ROOT 4|7|CC 5|7|DET 6|7|AMOD 7|3|CONJ 8|9|CC 9|3|CONJ 10|12|CASE 11|12|DET 12|9|NMOD 13|3|PUNCT
+%wor:	Y 1330220_1330240 un 1330340_1330440 cepillo 1330540_1331121 y 1331221_1331241 un 1331301_1331381 gran 1331421_1331622 peine 1331742_1332122 y 1332182_1332203 papilla 1332263_1332803 en 1332843_1332904 un 1332944_1333004 tazón 1333084_1333584 .
+*PAR0:	Y una amable viejecita . 1334646_1335947
+%mor:	cconj|y det|uno-Fem-Ind-Art-Sing adj|amable-S1 noun|viejecita-Fem .
+%gra:	1|4|CC 2|4|DET 3|4|AMOD 4|4|ROOT 5|4|PUNCT
+%wor:	Y 1334646_1334666 una 1334726_1334866 amable 1334906_1335367 viejecita 1335447_1335947 .
+*PAR0:	Una amable viejecita que teje muy calladita . 1339233_1342397
+%mor:	det|uno-Fem-Ind-Art-Sing adj|amable-S1 noun|viejecita-Fem pron|que-Rel-S1 verb|teeer-Fin-Ind-Pres-S3 adv|mucho adj|calladito-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|7|ROOT 4|5|MARK 5|3|ACL-RELCL 6|7|ADVMOD 7|5|XCOMP 8|3|PUNCT
+%wor:	Una 1339233_1339393 amable 1339433_1339793 viejecita 1339894_1340655 que 1340815_1340915 teje 1341015_1341376 muy 1341516_1341796 calladita 1341897_1342397 .
+*PAR0:	Ya con el hoy . 1343379_1344359
+%mor:	adv|ya adp|con det|el-Masc-Def-Art-Sing adv|hoy .
+%gra:	1|4|ROOT 2|1|CASE 3|4|DET 4|1|ADVMOD 5|1|PUNCT
+%wor:	Ya 1343379_1343479 con 1343559_1343739 el 1343739_1343859 hoy 1343859_1344359 .
+*PAR0:	Buenas noches , habitación . 1346900_1349342
+%mor:	adj|bueno-P1 noun|noche-Fem-Plur cm|cm noun|habitación-Fem .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|PUNCT 4|2|APPOS 5|2|PUNCT
+%wor:	Buenas 1346900_1347320 noches 1347400_1348422 , habitación 1348842_1349342 .
+*PAR0:	A ver acá . 1350905_1351606
+%mor:	adp|a verb|ver-Inf-S adv|acá .
+%gra:	1|2|MARK 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	A 1350905_1350925 ver 1350925_1351065 acá 1351106_1351606 .
+*PAR0:	Buenas noches , Luna . 1356854_1358255
+%mor:	adj|bueno-P1 noun|noche-Fem-Plur cm|cm propn|luna .
+%gra:	1|2|AMOD 2|4|ROOT 3|2|PUNCT 4|2|APPOS 5|2|PUNCT
+%wor:	Buenas 1356854_1357154 noches 1357214_1357655 , Luna 1357755_1358255 .
+*PAR0:	Buenas noche , vaquita . 1359858_1361079
+%mor:	adj|bueno-P1 noun|noche-Fem cm|cm noun|vaquita-Fem .
+%gra:	1|2|AMOD 2|4|ROOT 3|2|PUNCT 4|2|APPOS 5|2|PUNCT
+%wor:	Buenas 1359858_1360158 noche 1360218_1360519 , vaquita 1360579_1361079 .
+*PAR0:	Que saltes sobre la luna . 1361540_1363021
+%mor:	sconj|que verb|salte-Fin-Ind-Pres-S1 adp|sobre det|el-Fem-Def-Art-Sing noun|luna-Fem .
+%gra:	1|2|MARK 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	Que 1361540_1361620 saltes 1361720_1362041 sobre 1362081_1362321 la 1362381_1362441 luna 1362521_1363021 .
+*PAR0:	Dónde está la luna . 1363182_1364383
+%mor:	adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|luna-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dónde 1363182_1363543 está 1363563_1363743 la 1363743_1363803 luna 1363883_1364383 .
+*PAR0:	Buenas noches , lamparita . 1364124_1366587
+%mor:	adj|bueno-P1 noun|noche-Fem-Plur cm|cm noun|lamparita-Fem .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|PUNCT 4|2|APPOS 5|2|PUNCT
+%wor:	Buenas 1364124_1364544 noches 1364665_1366047 , lamparita 1366087_1366587 .
+*PAR0:	Buenas noche , globo rojo . 1375300_1377142
+%mor:	adj|bueno-P1 noun|noche-Fem cm|cm noun|globo-Masc adj|rojo-S1 .
+%gra:	1|2|AMOD 2|5|ROOT 3|4|PUNCT 4|2|APPOS 5|4|AMOD 6|2|PUNCT
+%wor:	Buenas 1375300_1375640 noche 1375720_1376121 , globo 1376181_1376522 rojo 1376642_1377142 .
+*PAR0:	Buenas noches , tres ositos . 1377523_1379165
+%mor:	adj|bueno-P1 noun|noche-Fem-Plur cm|cm num|tres noun|osito-Masc-Plur .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|PUNCT 4|5|NUMMOD 5|2|APPOS 6|2|PUNCT
+%wor:	Buenas 1377523_1377864 noches 1377924_1378384 , tres 1378424_1378625 ositos 1378665_1379165 .
+*PAR0:	Buenas notches , tres hijitas . 1379306_1380947
+%mor:	propn|buenas propn|notches cm|cm num|tres noun|hijita-Fem-Plur .
+%gra:	1|5|ROOT 2|1|FLAT 3|5|PUNCT 4|5|NUMMOD 5|1|APPOS 6|1|PUNCT
+%wor:	Buenas 1379306_1379606 notches 1379666_1380067 , tres 1380127_1380407 hijitas 1380447_1380947 .
+*PAR0:	Buenas noges , gatito . 1384794_1386055
+%mor:	adj|bueno-P1 propn|noges cm|cm noun|gatito-Masc .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|PUNCT 4|2|CONJ 5|2|PUNCT
+%wor:	Buenas 1384794_1385074 noges 1385134_1385515 , gatito 1385555_1386055 .
+*PAR0:	Buenas noches , lindos mitones . 1386637_1388739
+%mor:	adj|bueno-P1 noun|noche-Fem-Plur cm|cm adj|lindo-P1 noun|mitón-Masc-Plur .
+%gra:	1|2|AMOD 2|5|ROOT 3|5|PUNCT 4|5|AMOD 5|2|APPOS 6|2|PUNCT
+%wor:	Buenas 1386637_1387017 noches 1387097_1387738 , lindos 1387879_1388159 mitones 1388239_1388739 .
+*PAR0:	Buenas nochES , reloj . 1395480_1396882
+%mor:	propn|buenas propn|noches cm|cm noun|reloj-Masc .
+%gra:	1|4|ROOT 2|1|FLAT 3|4|PUNCT 4|1|APPOS 5|1|PUNCT
+%wor:	Buenas 1395480_1395781 nochES 1395861_1396302 , reloj 1396382_1396882 .
+*PAR0:	Tú conoces el reloj cuál es . 1396943_1401190
+%mor:	pron|tú-Prs-Nom-S2 verb|conocer-Fin-Ind-Pres-S1 det|el-Masc-Def-Art-Sing noun|reloj-Masc-Acc pron|cuál-Int-S1 aux|ser-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|NSUBJ 6|2|CCOMP 7|2|PUNCT
+%wor:	Tú 1396943_1399568 conoces 1399568_1399969 el 1400009_1400109 reloj 1400169_1400429 cuál 1400450_1400650 es 1400690_1401190 .
+*PAR0:	Que suena tic [/] tic , ya son las cinco , ya son la seis . 1401151_1405298
+%mor:	sconj|que verb|sonar-Fin-Ind-Pres-S3 noun|tic-Masc-Acc cm|cm adv|ya aux|ser-Fin-Ind-Pres-P3 det|el-Fem-Def-Art-Plur num|cinco cm|cm adv|ya aux|ser-Fin-Ind-Pres-P3 det|el-Fem-Def-Art-Sing num|seis .
+%gra:	1|2|MARK 2|8|ADVCL 3|2|OBJ 4|2|PUNCT 5|8|ADVMOD 6|8|COP 7|8|DET 8|13|ROOT 9|13|PUNCT 10|13|ADVMOD 11|13|COP 12|13|DET 13|8|APPOS 14|8|PUNCT
+%wor:	Que 1401151_1401231 suena 1401271_1401451 tic 1401612_1401852 tic 1402033_1403014 , ya 1403115_1403195 son 1403255_1403395 las 1403435_1403555 cinco 1403596_1404097 , ya 1404357_1404437 son 1404517_1404658 la 1404698_1404758 seis 1404798_1405298 .
+*PAR0:	Cuál es el relojo . 1405359_1406019
+%mor:	pron|cuál-Int-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|relojo-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	Cuál 1405359_1405439 es 1405439_1405479 el 1405479_1405519 relojo 1405519_1406019 .
+*PAR0:	calladita ahí está la abuelita , está tejiendo Buenas nochés estrellas , buenas noches cielo Tú ves . 1419670_1430349
+%mor:	adj|calladito-S1 adv|ahí verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|abuelita-Fem cm|cm aux|estar-Fin-Ind-Pres-S3 verb|tejer-Ger-S propn|buenas-Acc propn|nochés propn|estrella cm|cm propn|buen propn|noche propn|cielo pron|tú-Prs-Acc-S2 propn|ver .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|17|ROOT 4|5|DET 5|3|NSUBJ 6|8|PUNCT 7|8|AUX 8|3|PARATAXIS 9|8|OBJ 10|9|FLAT 11|9|FLAT 12|14|PUNCT 13|14|AMOD 14|9|CONJ 15|14|FLAT 16|17|NSUBJ 17|14|FLAT 18|3|PUNCT
+%wor:	calladita ahí 1419670_1419960 está 1419960_1420080 la 1421780_1422000 abuelita 1419890_1420191 , está 1419890_1420191 tejiendo 1420271_1420712 Buenas 1420792_1421353 nochés 1423978_1424379 estrellas 1424419_1424519 , buenas 1425681_1425861 noches 1427665_1427805 cielo 1428006_1428507 Tú ves 1429849_1430349 .
+*PAR0:	Poquito o bastante . 1469270_1470311
+%mor:	adv|poquito cconj|o pron|bastante-Ind-S1 .
+%gra:	1|3|ROOT 2|3|CC 3|1|CONJ 4|1|PUNCT
+%wor:	Poquito 1469270_1469731 o 1469751_1469771 bastante 1469811_1470311 .
+*PAR0:	Buenas noches , ruido . 1471192_1475977
+%mor:	adj|bueno-P1 noun|noche-Fem-Plur cm|cm noun|ruido-Masc .
+%gra:	1|2|AMOD 2|4|ROOT 3|2|PUNCT 4|2|APPOS 5|2|PUNCT
+%wor:	Buenas 1471192_1472013 noches 1472013_1474917 , ruido 1475477_1475977 .
+*PAR0:	Buenas noche , tierra . 1476118_1477559
+%mor:	adj|bueno-P1 noun|noche-Fem cm|cm noun|tierra-Fem .
+%gra:	1|2|AMOD 2|4|ROOT 3|4|PUNCT 4|2|CONJ 5|2|PUNCT
+%wor:	Buenas 1476118_1476419 noche 1476479_1476879 , tierra 1477059_1477559 .
+*PAR0:	Este cuento ha terminado . 1485190_1486910
+%mor:	det|este-Masc-Def-Dem-Sing noun|contar-Masc aux|haber-Fin-Ind-Pres-S3 verb|terminar-Part-Past-S .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	Este 1485190_1485490 cuento 1485570_1486090 ha 1486150_1486230 terminado 1486410_1486910 .
+*PAR0:	Ahora vamos a coger otro . 1488092_1490113
+%mor:	adv|ahora verb|ir-Fin-Ind-Pres-P1 adp|a verb|coger-Inf-S pron|otro-Ind-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%wor:	Ahora 1488092_1488492 vamos 1488832_1489092 a 1489132_1489172 coger 1489192_1489453 otro 1489613_1490113 .
+*PAR0:	Cuál más quieres que te lea de los dos . 1490373_1491934
+%mor:	pron|cuál-Int-S1 adv|más verb|querer-Fin-Ind-Pres-S1 sconj|que pron|tú-Prs-Dat-S2 verb|leer-Fin-Sub-Pres-S3 adp|de det|el-Masc-Def-Art-Plur num|dos .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|9|ROOT 4|6|MARK 5|6|EXPL-PV 6|3|CCOMP 7|9|CASE 8|9|DET 9|6|OBL 10|3|PUNCT
+%wor:	Cuál 1490373_1490573 más 1490613_1490814 quieres 1490854_1491034 que 1491034_1491114 te 1491174_1491254 lea 1491254_1491314 de 1491314_1491374 los 1491374_1491434 dos 1491434_1491934 .
+*PAR0:	Cuál te gusta de los dos , cuál ? 1491494_1495156
+%mor:	pron|cuál-Int-S1 pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-S3 adp|de det|el-Masc-Def-Art-Plur num|dos cm|cm pron|cuál-Int-S1 ?
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|8|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|8|PUNCT 8|3|PARATAXIS 9|3|PUNCT
+%wor:	Cuál 1491494_1491574 te 1491574_1491614 gusta 1491614_1491714 de 1491714_1491754 los 1491754_1491814 dos 1491854_1492635 , cuál 1494656_1495156 ?
+*PAR0:	Ah , de los animalitos . 1495677_1498899
+%mor:	intj|ah cm|cm adp|de det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur .
+%gra:	1|5|ROOT 2|1|PUNCT 3|5|CASE 4|5|DET 5|1|NMOD 6|1|PUNCT
+%wor:	Ah 1495677_1497939 , de 1498119_1498179 los 1498219_1498339 animalitos 1498399_1498899 .
+*PAR0:	El gran granero rojo . 1500300_1502264
+%mor:	det|el-Masc-Def-Art-Sing adj|gran-S1 noun|granero-Masc adj|rojo-S1 .
+%gra:	1|3|DET 2|3|AMOD 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	El 1500300_1500380 gran 1500440_1500741 granero 1501102_1501624 rojo 1501764_1502264 .
+*PAR0:	Qué lindo gallo . 1502185_1507238
+%mor:	det|qué-Def-Int adj|lindo-S1 noun|gallo-Masc .
+%gra:	1|3|DET 2|3|AMOD 3|3|ROOT 4|3|PUNCT
+%wor:	Qué 1502185_1506337 lindo 1506337_1506638 gallo 1506738_1507238 .
+*PAR0:	Junto al gran granero rojo en el basto y el verde prado . 1509630_1515534
+%mor:	adj|junto-S1 adp|al adj|gran-S1 noun|granero-Masc adj|rojo-S1 adp|en det|el-Masc-Def-Art-Sing noun|basto-Masc cconj|y det|el-Masc-Def-Art-Sing adj|verde-S1 adj|prado-S1 .
+%gra:	1|4|CASE 2|1|FIXED 3|4|AMOD 4|12|ROOT 5|4|AMOD 6|8|CASE 7|8|DET 8|4|NMOD 9|11|CC 10|11|DET 11|8|CONJ 12|11|AMOD 13|4|PUNCT
+%wor:	Junto 1509630_1510050 al 1510090_1510170 gran 1510230_1510530 granero 1511251_1511751 rojo 1511871_1512252 en 1512872_1512992 el 1513092_1513192 basto 1513272_1513713 y 1514253_1514273 el 1514353_1514453 verde 1514533_1514914 prado 1515034_1515534 .
+*PAR0:	Mira las florecitas , ves . 1516695_1518376
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Plur noun|florecita-Fem-Plur-Acc cm|cm verb|ver-Fin-Ind-Pres-S .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT 5|1|ADVCL 6|1|PUNCT
+%wor:	Mira 1516695_1516915 las 1516955_1517055 florecitas 1517055_1517836 , ves 1517876_1518376 .
+*PAR0:	Sí , a ver , huélelo . 1519017_1520057
+%mor:	intj|sí cm|cm adp|a verb|ver-Inf-S cm|cm noun|huélelo-Masc .
+%gra:	1|6|ADVCL 2|1|PUNCT 3|4|MARK 4|1|ADVCL 5|4|PUNCT 6|6|ROOT 7|6|PUNCT
+%wor:	Sí 1519017_1519337 , a 1519337_1519357 ver 1519397_1519477 , huélelo 1519557_1520057 .
+*PAR0:	Había un cerdito rosado que gruñía de buen grado . 1525180_1530652
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art-Sing noun|cerdito-Masc-Acc adj|rosado-S1 pron|que-Rel-S1 verb|gruñir-Fin-Ind-Pres-S3 adp|de adj|buen-S1 noun|grado-Masc .
+%gra:	1|9|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|6|MARK 6|3|ACL-RELCL 7|9|CASE 8|9|AMOD 9|6|OBL 10|1|PUNCT
+%wor:	Había 1525180_1525501 un 1525621_1525681 cerdito 1525781_1526483 rosado 1526944_1527606 que 1528267_1528368 gruñía 1528448_1529109 de 1529631_1529711 buen 1529831_1530052 grado 1530152_1530652 .
+*PAR0:	Había un cerdo . 1531655_1532697
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art-Sing noun|cerdo-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	Había 1531655_1531936 un 1532036_1532097 cerdo 1532197_1532697 .
+*PAR0:	Cómo dice el cerdito . 1532878_1533659
+%mor:	pron|cómo-Ind-S1 verb|decir-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|cerdito-Masc .
+%gra:	1|2|OBL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Cómo 1532878_1532959 dice 1532959_1533099 el 1533119_1533159 cerdito 1533159_1533659 .
+*PAR0:	Te acuerdas de ese caballo . 1540400_1541601
+%mor:	pron|tú-Prs-Dat-S2 verb|acordar-Fin-Ind-Pres-P1 adp|de det|ese-Masc-Def-Dem-Sing noun|caballo-Masc .
+%gra:	1|2|EXPL-PV 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	Te 1540400_1540480 acuerdas 1540500_1540720 de 1540720_1540780 ese 1540881_1541041 caballo 1541101_1541601 .
+*PAR0:	Tú ves tu película de ciber +... 1541842_1543724
+%mor:	pron|tú-Prs-Nom-S2 verb|ver-Fin-Ind-Pres-S1 det|tu-Def-Prs-Sing-S noun|película-Fem-Acc adp|de noun|ciber-Masc +...
+%gra:	1|2|NSUBJ 2|6|ROOT 3|4|DET 4|2|OBJ 5|6|CASE 6|4|NMOD 7|2|PUNCT
+%wor:	Tú 1541842_1542162 ves 1542162_1542363 tu 1542403_1542503 película 1542603_1542984 de 1543024_1543064 ciber 1543224_1543724 +...
+*PAR0:	Había un caballo grande y saltarín y junto a él un pollito pequeñín . 1543545_1548431
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art-Sing noun|caballo-Masc-Acc adj|grande-S1 cconj|y adj|saltarín-S1 cconj|y adj|junto-S1 adp|a pron|él-Prs-AccNom-S3 det|uno-Masc-Ind-Art-Sing noun|pollito-Masc adj|pequeñín-S1 .
+%gra:	1|13|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|6|CC 6|4|CONJ 7|12|CC 8|10|CASE 9|8|FIXED 10|12|NMOD 11|12|DET 12|3|CONJ 13|12|AMOD 14|1|PUNCT
+%wor:	Había 1543545_1543845 un 1543925_1543985 caballo 1544045_1544426 grande 1544466_1544947 y 1545047_1545067 saltarín 1545147_1545808 y 1545988_1546008 junto 1546148_1546569 a 1546649_1546669 él 1546669_1546950 un 1547130_1547230 pollito 1547310_1547851 pequeñín 1547931_1548431 .
+*PAR0:	Dónde está el pollito pequeño . 1548332_1550755
+%mor:	adv|dónde verb|estar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|pollito-Masc adj|pequeño-S1 .
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|DET 4|2|NSUBJ 5|4|AMOD 6|2|PUNCT
+%wor:	Dónde 1548332_1549493 está 1549513_1549634 el 1549634_1549694 pollito 1549754_1550174 pequeño 1550255_1550755 .
+*PAR0:	No , está aquí . 1550695_1553859
+%mor:	adv|no cm|cm aux|estar-Fin-Ind-Pres-S3 adv|aquí .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	No 1550695_1553179 , está 1553179_1553359 aquí 1553359_1553859 .
+*PAR0:	No , está acá .
+%mor:	adv|no cm|cm aux|estar-Fin-Ind-Pres-S3 adv|acá .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+*PAR0:	Y sobre el granero giraba un gran caballo dorado al viento que soplaba . 1554680_1560489
+%mor:	cconj|y adp|sobre det|el-Masc-Def-Art-Sing noun|granero-Masc verb|girar-Fin-Ind-Imp-S3 det|uno-Masc-Ind-Art-Sing adj|gran-S1 noun|caballo-Masc adj|dorado-S1 adp|al noun|viento-Masc pron|que-Rel-S1 verb|soplar-Fin-Ind-Imp-S3 .
+%gra:	1|5|CC 2|4|CASE 3|4|DET 4|5|OBL 5|13|ROOT 6|8|DET 7|8|AMOD 8|5|NSUBJ 9|8|AMOD 10|11|CASE 11|8|NMOD 12|13|NSUBJ 13|11|ACL 14|5|PUNCT
+%wor:	Y 1554680_1554700 sobre 1554860_1555181 el 1555201_1555261 granero 1555842_1556483 giraba 1556603_1557104 un 1557244_1557324 gran 1557404_1557785 caballo 1557905_1558366 dorado 1558426_1558927 al 1559187_1559307 viento 1559368_1559788 que 1559868_1559948 soplaba 1559989_1560489 .
+*PAR0:	Ahí está , mira , ve . 1562172_1566418
+%mor:	adv|ahí verb|estar-Fin-Ind-Pres-S3 cm|cm verb|mirar-Fin-Ind-Pres-S3 cm|cm verb|ver-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|6|ROOT 3|4|PUNCT 4|2|PARATAXIS 5|2|PUNCT 6|2|ADVCL 7|2|PUNCT
+%wor:	Ahí 1562172_1562853 está 1562853_1565317 , mira 1565317_1565658 , ve 1565918_1566418 .
+*PAR0:	animalitos [/] animalitos están [/] están aquí . 1578400_1579661
+%mor:	noun|animalito-Masc-Plur aux|estar-Fin-Ind-Pres-P3 adv|aquí .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	animalitos 1578400_1578600 animalitos 1578600_1578840 están 1578880_1579020 están 1579020_1579121 aquí 1579161_1579661 .
+*PAR0:	Cómo A ver . 1579381_1580061
+%mor:	pron|cómo-Ind-S1 adp|a verb|ver-Inf-S .
+%gra:	1|3|ROOT 2|1|CASE 3|1|ADVCL 4|1|PUNCT
+%wor:	Cómo 1579381_1579481 A 1579481_1579501 ver 1579561_1580061 .
+*PAR0:	se Cómo se llaman . 1579902_1581643
+%mor:	pron|él-Prs-Acc-reflx-S3 pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-P3 .
+%gra:	1|4|EXPL-PV 2|4|OBL 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%wor:	se 1579902_1580322 Cómo 1580803_1581003 se 1581063_1581123 llaman 1581143_1581643 .
+*PAR0:	Qué Cómo se llama . 1582846_1584187
+%mor:	pron|qué-Int-S1 pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|4|OBL 3|4|EXPL-PV 4|4|ROOT 5|4|PUNCT
+%wor:	Qué 1582846_1583346 Cómo 1583346_1583547 se 1583587_1583667 llama 1583687_1584187 .
+*PAR0:	Caballo y caballo y chanchito . 1584087_1586791
+%mor:	noun|caballo-Masc cconj|y noun|caballo-Masc cconj|y noun|chanchito-Masc .
+%gra:	1|5|ROOT 2|3|CC 3|1|CONJ 4|5|CC 5|1|CONJ 6|1|PUNCT
+%wor:	Caballo 1584087_1584708 y 1584949_1584969 caballo 1585269_1585950 y 1586271_1586291 chanchito 1586291_1586791 .
+*PAR0:	Y chanchito y pato y platafal . 1587592_1592979
+%mor:	cconj|y noun|chanchito-Masc cconj|y noun|pato-Masc cconj|y noun|platafal-Masc .
+%gra:	1|2|CC 2|6|ROOT 3|4|CC 4|2|CONJ 5|6|CC 6|2|CONJ 7|2|PUNCT
+%wor:	Y 1587592_1587612 chanchito 1587773_1588814 y 1591318_1591338 pato 1591578_1591999 y 1592459_1592479 platafal 1592479_1592979 .
+*PAR0:	Pero no hay niños en este momento , solo hay animales en este cuento . 1598250_1602834
+%mor:	cconj|pero adv|no verb|haber-Fin-Ind-Pres-S3 noun|niño-Masc-Plur-Acc adp|en det|este-Masc-Def-Dem-Sing noun|momento-Masc cm|cm adv|sólo verb|haber-Fin-Ind-Pres-S3 noun|animal-Masc-Plur-Acc adp|en det|este-Masc-Def-Dem-Sing noun|contar-Masc .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|14|ROOT 4|3|OBJ 5|7|CASE 6|7|DET 7|3|OBL 8|10|PUNCT 9|10|ADVMOD 10|3|PARATAXIS 11|10|OBJ 12|14|CASE 13|14|DET 14|10|OBL 15|3|PUNCT
+%wor:	Pero 1598250_1598430 no 1598530_1598610 hay 1598650_1598830 niños 1598950_1599391 en 1599451_1599551 este 1599651_1599871 momento 1599931_1600472 , solo 1600592_1600933 hay 1600993_1601153 animales 1601213_1601793 en 1601874_1601954 este 1602034_1602234 cuento 1602334_1602834 .
+*PAR0:	Uy , chico , no hay niños , no . 1603015_1605817
+%mor:	intj|uyo cm|cm noun|chico-Masc cm|cm adv|no verb|haber-Fin-Ind-Pres-S3 noun|niño-Masc-Plur-Acc cm|cm adv|no .
+%gra:	1|6|DEP 2|3|PUNCT 3|6|DEP 4|3|PUNCT 5|6|ADVMOD 6|9|ROOT 7|6|OBJ 8|9|PUNCT 9|6|ADVMOD 10|6|PUNCT
+%wor:	Uy 1603015_1603095 , chico 1603155_1603395 , no 1604616_1604656 hay 1604696_1604797 niños 1604877_1605237 , no 1605317_1605817 .
+*PAR0:	Mira lo que tenemos acá . 1606458_1607859
+%mor:	verb|mirar-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|tener-Fin-Ind-Pres-P1 adv|acá .
+%gra:	1|5|ROOT 2|4|DET 3|4|OBJ 4|1|CCOMP 5|4|ADVMOD 6|1|PUNCT
+%wor:	Mira 1606458_1606699 lo 1606759_1606799 que 1606839_1606919 tenemos 1606939_1607299 acá 1607359_1607859 .
+*PAR0:	Las ovejas y un burro manso , las cabritas y los gansos hacían ruido y más ruido , rebusnos , granidos y berridos . 1608080_1617019
+%mor:	det|el-Fem-Def-Art-Plur noun|oveja-Fem-Plur cconj|y det|uno-Masc-Ind-Art-Sing noun|burro-Masc adj|manso-S1 cm|cm det|el-Fem-Def-Art-Plur noun|cabrita-Fem-Plur cconj|y det|el-Masc-Def-Art-Plur noun|ganso-Masc-Plur verb|hacer-Fin-Ind-Imp-P3 noun|ruido-Masc-Acc cconj|y adv|más noun|ruido-Masc cm|cm noun|rebusno-Masc-Plur cm|cm noun|granido-Masc-Plur cconj|y noun|berrido-Masc-Plur .
+%gra:	1|2|DET 2|13|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|5|AMOD 7|9|PUNCT 8|9|DET 9|2|APPOS 10|12|CC 11|12|DET 12|2|CONJ 13|23|ROOT 14|13|OBJ 15|17|CC 16|17|ADVMOD 17|14|CONJ 18|19|PUNCT 19|14|CONJ 20|21|PUNCT 21|14|CONJ 22|23|CC 23|17|CONJ 24|13|PUNCT
+%wor:	Las 1608080_1608240 ovejas 1608340_1608842 y 1608882_1608902 un 1608962_1609062 burro 1609122_1609483 manso 1609563_1610044 , las 1610265_1610405 cabritas 1610465_1611046 y 1611107_1611127 los 1611207_1611367 gansos 1611447_1612009 hacían 1612089_1612530 ruido 1612610_1612891 y 1612931_1612951 más 1613011_1613171 ruido 1613271_1613612 , rebusnos 1614214_1614935 , granidos 1615456_1616178 y 1616438_1616458 berridos 1616519_1617019 .
+*PAR0:	Un espantapájaro viejo contemplaba perpeplejo y un ratoncito feliz . 1618420_1624708
+%mor:	det|uno-Masc-Ind-Art-Sing noun|espantapájaro-Masc adj|viejo-S1 verb|contemplar-Fin-Ind-Imp-S3 noun|perpeplejo-Masc-Acc cconj|y det|uno-Masc-Ind-Art-Sing noun|ratoncito-Masc adj|feliz-S1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|2|AMOD 4|9|ROOT 5|4|OBJ 6|8|CC 7|8|DET 8|5|CONJ 9|8|AMOD 10|4|PUNCT
+%wor:	Un 1618420_1618540 espantapájaro 1618600_1619661 viejo 1619742_1620302 contemplaba 1620923_1621864 perpeplejo 1622005_1622906 y 1623206_1623226 un 1623326_1623427 ratoncito 1623507_1624148 feliz 1624208_1624708 .
+*PAR0:	Cómo están , amiguitos . 1625229_1629314
+%mor:	pron|cómo-Ind-S1 aux|estar-Fin-Ind-Pres-P3 cm|cm noun|amiguito-Masc-Plur .
+%gra:	1|2|OBL 2|4|COP 3|4|PUNCT 4|4|ROOT 5|4|PUNCT
+%wor:	Cómo 1625229_1626331 están 1626391_1628754 , amiguitos 1628814_1629314 .
+*PAR0:	Ya tomaron su desayuno . 1629695_1630916
+%mor:	adv|ya verb|tomar-Fin-Ind-Past-P3 det|su-Def-Prs-Sing noun|desayuno-Masc-Acc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	Ya 1629695_1629775 tomaron 1629835_1630216 su 1630276_1630356 desayuno 1630416_1630916 .
+*PAR0:	Cómo le decía el caballo . 1632118_1633199
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Imp-S3 det|el-Masc-Def-Art-Sing noun|caballo-Masc .
+%gra:	1|3|OBL 2|3|EXPL 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	Cómo 1632118_1632299 le 1632339_1632419 decía 1632459_1632639 el 1632659_1632699 caballo 1632699_1633199 .
+*PAR0:	No , todavía no . 1635720_1637121
+%mor:	adv|no cm|cm adv|todavía adv|no .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|4|ADVMOD 4|4|ROOT 5|4|PUNCT
+%wor:	No 1635720_1635800 , todavía 1636020_1636481 no 1636621_1637121 .
+*PAR0:	decía , la vaquita le decía , vas a ir hoy día a la escuela . 1638083_1641487
+%mor:	verb|decir-Fin-Ind-Imp-S3 cm|cm det|el-Fem-Def-Art-Sing noun|vaquita-Fem pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Imp-S3 cm|cm verb|ir-Fin-Ind-Pres-S1 adp|a verb|ir-Inf-S adv|hoy noun|día-Masc adp|a det|el-Fem-Def-Art-Sing noun|escuela-Fem .
+%gra:	1|15|ROOT 2|6|PUNCT 3|4|DET 4|6|NSUBJ 5|6|OBL-ARG 6|1|ADVCL 7|8|PUNCT 8|6|ADVCL 9|10|MARK 10|8|XCOMP 11|10|ADVMOD 12|10|OBL 13|15|CASE 14|15|DET 15|10|OBL 16|1|PUNCT
+%wor:	decía 1638083_1638504 , la 1639064_1639144 vaquita 1639184_1639585 le 1639645_1639705 decía 1639745_1640126 , vas 1640206_1640386 a 1640426_1640446 ir 1640506_1640566 hoy 1640586_1640687 día 1640707_1640827 a 1640887_1640907 la 1640927_1640967 escuela 1640987_1641487 .
+*PAR0:	Y qué le decía el caballo . 1642149_1643289
+%mor:	cconj|y pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Imp-S3 det|el-Masc-Def-Art-Sing noun|caballo-Masc .
+%gra:	1|4|CC 2|4|OBJ 3|4|EXPL 4|6|ROOT 5|6|DET 6|4|NSUBJ 7|4|PUNCT
+%wor:	Y 1642149_1642169 qué 1642229_1642349 le 1642349_1642409 decía 1642449_1642689 el 1642709_1642749 caballo 1642789_1643289 .
+*PAR0:	No te gusta la escuela . 1644231_1650359
+%mor:	adv|no pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|escuela-Fem .
+%gra:	1|3|ADVMOD 2|3|OBL-ARG 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	No 1644231_1645233 te 1645914_1645974 gusta 1646034_1649759 la 1649799_1649859 escuela 1649859_1650359 .
+*PAR0:	No , tienes que ir porque . 1651340_1652861
+%mor:	adv|no cm|cm verb|tener-Fin-Ind-Pres-S1 sconj|que verb|ir-Inf-S sconj|porque .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|6|ROOT 4|5|CC 5|3|CONJ 6|3|PUNCT 7|3|PUNCT
+%wor:	No 1651340_1651440 , tienes 1651740_1651981 que 1652041_1652121 ir 1652221_1652321 porque 1652361_1652861 .
+*PAR0:	si no tu oreja te va a crecer grande , le decía . 1652622_1655125
+%mor:	sconj|si adv|no det|tu-Def-Prs-Sing-S noun|oreja-Fem pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S3 adp|a verb|crecer-Inf-S adj|grande-S1 cm|cm pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Imp-S3 .
+%gra:	1|6|MARK 2|6|ADVMOD 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|12|XCOMP 7|8|MARK 8|6|XCOMP 9|8|XCOMP 10|6|PUNCT 11|12|OBL-ARG 12|12|ROOT 13|12|PUNCT
+%wor:	si 1652622_1652702 no 1652722_1652782 tu 1652862_1652922 oreja 1652922_1653183 te 1653243_1653323 va 1653363_1653423 a 1653443_1653463 crecer 1653483_1653804 grande 1653884_1654445 , le 1654505_1654565 decía 1654625_1655125 .
+*PAR0:	Ok , voy a ir . 1654966_1656287
+%mor:	propn|ok cm|cm verb|ir-Fin-Ind-Pres-S1 adp|a verb|ir-Inf-S .
+%gra:	1|3|NSUBJ 2|1|PUNCT 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	Ok 1654966_1655106 , voy 1655347_1655527 a 1655607_1655627 ir 1655787_1656287 .
+*PAR0:	Y un espantapájaro viejo contemplaba perpeplejo y los ratoncitos felices , y un ratoncito feliz . 1657110_1663439
+%mor:	cconj|y det|uno-Masc-Ind-Art-Sing noun|espantapájaro-Masc adj|viejo-S1 verb|contemplar-Fin-Ind-Imp-S3 noun|perpeplejo-Masc-Acc cconj|y det|el-Masc-Def-Art-Plur noun|ratoncito-Masc-Plur adj|feliz-P1 cm|cm cconj|y det|uno-Masc-Ind-Art-Sing noun|ratoncito-Masc adj|feliz-S1 .
+%gra:	1|5|CC 2|3|DET 3|5|NSUBJ 4|3|AMOD 5|15|ROOT 6|5|OBJ 7|9|CC 8|9|DET 9|6|CONJ 10|9|AMOD 11|14|PUNCT 12|14|CC 13|14|DET 14|6|CONJ 15|14|AMOD 16|5|PUNCT
+%wor:	Y 1657110_1657130 un 1657250_1657370 espantapájaro 1657430_1658392 viejo 1658472_1658832 contemplaba 1658893_1659774 perpeplejo 1659834_1660595 y 1660736_1660756 los 1660816_1660936 ratoncitos 1660976_1661617 felices 1661657_1662018 , y 1662098_1662118 un 1662198_1662278 ratoncito 1662358_1662919 feliz 1662939_1663439 .
+*PAR0:	Mira esto , felices . 1664010_1666271
+%mor:	verb|mirar-Fin-Ind-Pres-S3 pron|este-Dem-S1 cm|cm adj|feliz-P1 .
+%gra:	1|4|ROOT 2|1|OBJ 3|4|PUNCT 4|2|AMOD 5|1|PUNCT
+%wor:	Mira 1664010_1664190 esto 1664310_1664710 , felices 1665771_1666271 .
+*PAR0:	Y otro día , dice que nació en un campo de maíz , nació una mariposa , ahí está la mariposa , sí . 1667712_1677279
+%mor:	cconj|y det|otro-Masc-Def-Ind-Sing noun|día-Masc cm|cm verb|decir-Fin-Ind-Pres-S3 sconj|que verb|nacer-Fin-Ind-Past-S3 adp|en det|uno-Masc-Ind-Art-Sing noun|campo-Masc adp|de noun|maíz-Masc cm|cm verb|nacer-Fin-Ind-Past-S3 det|uno-Fem-Ind-Art-Sing noun|mariposa-Fem-Acc cm|cm adv|ahí verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|mariposa-Fem cm|cm intj|sí .
+%gra:	1|5|CC 2|3|DET 3|5|OBL 4|3|PUNCT 5|23|ROOT 6|7|MARK 7|5|CCOMP 8|10|CASE 9|10|DET 10|7|OBL 11|12|CASE 12|10|NMOD 13|14|PUNCT 14|7|ADVCL 15|16|DET 16|14|OBJ 17|19|PUNCT 18|19|ADVMOD 19|5|PARATAXIS 20|21|DET 21|19|NSUBJ 22|23|PUNCT 23|19|ADVCL 24|5|PUNCT
+%wor:	Y 1667712_1667732 otro 1667812_1668033 día 1668113_1668433 , dice 1668713_1669073 que 1669173_1669253 nació 1669334_1670554 en 1670554_1670675 un 1670815_1670915 campo 1671015_1671435 de 1671495_1671575 maíz 1671655_1672236 , nació 1673036_1673937 una 1673937_1674217 mariposa 1674317_1675118 , ahí 1675658_1675898 está 1675898_1676078 la 1676078_1676138 mariposa 1676179_1676759 , sí 1676779_1677279 .
+*PAR0:	Hola mami , le dice , cómo estás mami . 1678330_1681292
+%mor:	propn|Hola propn|mami cm|cm pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S3 cm|cm pron|cómo-Ind-S1 aux|estar-Fin-Ind-Pres-S2 noun|mami-Fem .
+%gra:	1|5|NSUBJ 2|1|FLAT 3|1|PUNCT 4|5|OBL-ARG 5|9|ROOT 6|9|PUNCT 7|9|ADVMOD 8|9|COP 9|5|CCOMP 10|5|PUNCT
+%wor:	Hola 1678330_1678550 mami 1678670_1679090 , le 1679210_1679290 dice 1679351_1679691 , cómo 1679791_1680031 estás 1680111_1680672 mami 1680792_1681292 .
+*PAR0:	Dónde estás mami ? 1682193_1683654
+%mor:	adv|dónde aux|estar-Fin-Ind-Pres-S2 noun|mami-Fem ?
+%gra:	1|2|ADVMOD 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	Dónde 1682193_1682534 estás 1682574_1683034 mami 1683154_1683654 ?
+*PAR0:	le dice , aquí estoy hijita , vente , le dice . 1683635_1686877
+%mor:	pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S3 cm|cm adv|aquí aux|estar-Fin-Ind-Pres-S1 adj|hijito-S1 cm|cm verb|ventar-Fin-Ind-Pres-S cm|cm pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S3 .
+%gra:	1|2|OBL-ARG 2|11|CCOMP 3|6|PUNCT 4|6|ADVMOD 5|6|COP 6|2|PARATAXIS 7|6|PUNCT 8|6|ADVCL 9|2|PUNCT 10|11|OBL-ARG 11|11|ROOT 12|11|PUNCT
+%wor:	le 1683635_1683715 dice 1683735_1683915 , aquí 1684275_1684535 estoy 1684535_1685116 hijita 1685136_1685636 , vente 1685697_1686177 , le 1686237_1686317 dice 1686377_1686877 .
+*PAR0:	Y después se fueron , se fueron . 1687398_1689119
+%mor:	cconj|y adv|después pron|él-Prs-Acc-reflx-S3 verb|ser-Fin-Ind-Past-P3 cm|cm pron|él-Prs-Acc-reflx-S3 verb|ser-Fin-Ind-Past-P3 .
+%gra:	1|4|CC 2|4|ADVMOD 3|4|EXPL-PV 4|7|ROOT 5|4|PUNCT 6|7|EXPL-PV 7|4|ADVCL 8|4|PUNCT
+%wor:	Y 1687398_1687418 después 1687478_1687899 se 1687959_1688039 fueron 1688159_1688499 , se 1688539_1688599 fueron 1688619_1689119 .
+*PAR0:	y se encontraron un gallo hermoso y el gallo decía , cómo se llama . 1689440_1695688
+%mor:	cconj|y pron|él-Prs-Acc-reflx-S3 verb|encontrar-Fin-Ind-Past-P3 det|uno-Masc-Ind-Art-Sing noun|gallo-Masc adj|hermoso-S1 cconj|y det|el-Masc-Def-Art-Sing noun|gallo-Masc verb|decir-Fin-Ind-Imp-S3 cm|cm pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 .
+%gra:	1|3|CC 2|3|EXPL-PV 3|14|ROOT 4|5|DET 5|3|NSUBJ 6|5|AMOD 7|10|CC 8|9|DET 9|10|NSUBJ 10|3|CONJ 11|14|PUNCT 12|14|OBL 13|14|EXPL-PV 14|10|CCOMP 15|3|PUNCT
+%wor:	y 1689440_1689460 se 1689520_1689600 encontraron 1689640_1690281 un 1690381_1690521 gallo 1690641_1690962 hermoso 1691002_1691763 y 1692424_1692444 el 1692484_1692544 gallo 1692604_1692825 decía 1692865_1694868 , cómo 1694868_1695028 se 1695068_1695188 llama 1695188_1695688 .
+*PAR0:	Cantó el gallo de madrugada . 1699154_1700695
+%mor:	verb|cantar-Fin-Ind-Past-S3 det|el-Masc-Def-Art-Sing noun|gallo-Masc-Acc adp|de noun|madrugada-Fem .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+%wor:	Cantó 1699154_1699574 el 1699574_1699634 gallo 1699714_1699995 de 1700035_1700115 madrugada 1700195_1700695 .
+*PAR0:	y despertó a la paloma azulada . 1700956_1703159
+%mor:	cconj|y verb|despertar-Fin-Ind-Past-S3 adp|a det|el-Fem-Def-Art-Sing noun|paloma-Fem-Acc adj|azulado-S1 .
+%gra:	1|2|CC 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBJ 6|5|AMOD 7|2|PUNCT
+%wor:	y 1700956_1700976 despertó 1701036_1701737 a 1701737_1701757 la 1701797_1701878 paloma 1701978_1702458 azulada 1702659_1703159 .
+*PAR0:	De tanto cantar el gallo tan . 1704000_1705942
+%mor:	adp|de noun|tanto verb|cantar-Inf-S det|el-Masc-Def-Art-Sing noun|gallo-Masc-Acc adv|tanto .
+%gra:	1|3|ADVMOD 2|1|FIXED 3|6|ROOT 4|5|DET 5|3|OBJ 6|3|ADVMOD 7|3|PUNCT
+%wor:	De 1704000_1704100 tanto 1704180_1704541 cantar 1704601_1704962 el 1705022_1705102 gallo 1705162_1705362 tan 1705442_1705942 .
+*PAR0:	fuerte , la palomita se asustó y se levantó . 1705683_1711593
+%mor:	adj|fuerte-S1 cm|cm det|el-Fem-Def-Art-Sing noun|palomita-Fem pron|él-Prs-Acc-reflx-S3 verb|asustar-Fin-Ind-Past-S3 cconj|y pron|él-Prs-Acc-reflx-S3 verb|levantar-Fin-Ind-Past-S3 .
+%gra:	1|6|AMOD 2|1|PUNCT 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|9|ROOT 7|9|CC 8|9|EXPL-PV 9|6|CONJ 10|6|PUNCT
+%wor:	fuerte 1705683_1706264 , la 1708989_1709069 palomita 1709149_1709670 se 1710311_1710392 asustó 1710432_1710913 y 1710913_1710933 se 1710973_1711053 levantó 1711093_1711593 .
+*PAR0:	Dónde está mi mamá . 1711634_1713717
+%mor:	adv|dónde verb|estar-Fin-Ind-Pres-S3 det|mi-Def-Prs-Sing-S noun|mamá-Fem .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dónde 1711634_1711894 está 1711955_1713037 mi 1713037_1713117 mamá 1713217_1713717 .
+*PAR0:	Dénde está mi papá . 1713858_1714999
+%mor:	propn|dénde verb|estar-Fin-Ind-Pres-S3 det|mi-Def-Prs-Sing-S noun|papá-Masc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	Dénde 1713858_1714078 está 1714119_1714339 mi 1714339_1714419 papá 1714499_1714999 .
+*PAR0:	Y una gallina muy fina que tenía por vecina . 1716100_1719404
+%mor:	cconj|y det|uno-Fem-Ind-Art-Sing noun|gallina-Fem adv|mucho adj|fino-S1 pron|que-Rel-S1 verb|tener-Fin-Ind-Imp-S3 adp|por noun|vecina-Fem .
+%gra:	1|3|CC 2|3|DET 3|9|ROOT 4|5|ADVMOD 5|3|AMOD 6|7|OBJ 7|3|ACL 8|9|CASE 9|7|OBL 10|3|PUNCT
+%wor:	Y 1716100_1716120 una 1716200_1716360 gallina 1716440_1716841 muy 1716941_1717101 fina 1717221_1717542 que 1717642_1717722 tenía 1717822_1718403 por 1718623_1718824 vecina 1718904_1719404 .
+*PAR0:	Un gallo y una gallina y sus huevos daban abrigo . 1721147_1724511
+%mor:	det|uno-Masc-Ind-Art-Sing noun|gallo-Masc cconj|y det|uno-Fem-Ind-Art-Sing noun|gallina-Fem cconj|y det|su-Def-Prs-Plur noun|huevo-Masc-Plur verb|dar-Fin-Ind-Imp-P3 noun|abrigo-Masc-Acc .
+%gra:	1|2|DET 2|9|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|8|CC 7|8|DET 8|2|CONJ 9|10|ROOT 10|9|OBJ 11|9|PUNCT
+%wor:	Un 1721147_1721247 gallo 1721327_1721587 y 1721648_1721668 una 1721728_1721848 gallina 1721948_1722369 y 1722829_1722849 sus 1722929_1723090 huevos 1723170_1723530 daban 1723590_1723931 abrigo 1724011_1724511 .
+*PAR0:	Sobre dos sacos de trigo , cuántos huevos ves . 1725413_1729037
+%mor:	adp|sobre num|dos noun|saco-Masc-Plur adp|de noun|trigo-Masc cm|cm det|cuánto-Masc-Def-IntRel-Plur noun|huevo-Masc-Plur verb|ver-Fin-Ind-Pres-S1 .
+%gra:	1|3|CASE 2|3|NUMMOD 3|9|OBL 4|5|CASE 5|3|NMOD 6|3|PUNCT 7|8|DET 8|9|NSUBJ 9|9|ROOT 10|9|PUNCT
+%wor:	Sobre 1725413_1725693 dos 1725753_1725894 sacos 1725954_1726314 de 1726334_1726394 trigo 1726514_1726875 , cuántos 1727416_1727896 huevos 1727996_1728457 ves 1728537_1729037 .
+*PAR0:	Cuéntalos , hay diez . 1729398_1730579
+%mor:	verb|cuénta-Fin-S cm|cm verb|haber-Fin-Ind-Pres-S3 num|diez .
+%gra:	1|4|ROOT 2|3|PUNCT 3|1|ADVCL 4|3|OBJ 5|1|PUNCT
+%wor:	Cuéntalos 1729398_1730019 , hay 1730019_1730079 diez 1730079_1730579 .
+*PAR0:	Había una vaca marrón y un ternero juguetón . 1733880_1736743
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Fem-Ind-Art-Sing noun|vaca-Fem-Acc adj|marrón-S1 cconj|y det|uno-Masc-Ind-Art-Sing noun|ternero-Masc adj|juguetón-S1 .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|7|CC 6|7|DET 7|3|CONJ 8|7|AMOD 9|1|PUNCT
+%wor:	Había 1733880_1734200 una 1734300_1734440 vaca 1734501_1734741 marrón 1734821_1735222 y 1735402_1735422 un 1735502_1735582 ternero 1735642_1736183 juguetón 1736243_1736743 .
+*PAR0:	Y todo el día se oía , Muu . 1736964_1739086
+%mor:	cconj|y det|todo-Masc-Def-Tot-Sing det|el-Masc-Def-Art-Sing noun|día-Masc pron|él-Prs-Acc-reflx-S3 verb|oír-Fin-Ind-Imp-S3 cm|cm propn|muu .
+%gra:	1|6|CC 2|3|DET 3|4|DET 4|6|OBL 5|6|EXPL-PV 6|8|ROOT 7|8|PUNCT 8|6|DEP 9|6|PUNCT
+%wor:	Y 1736964_1736984 todo 1737104_1737364 el 1737424_1737485 día 1737545_1737725 se 1737845_1737925 oía 1738005_1738266 , Muu 1738586_1739086 .
+*PAR0:	muu decía el ternero . 1740208_1741730
+%mor:	propn|muu verb|decir-Fin-Ind-Imp-S3 det|el-Masc-Def-Art-Sing noun|ternero-Masc-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	muu 1740208_1740689 decía 1740789_1741109 el 1741129_1741169 ternero 1741230_1741730 .
+*PAR0:	Y la gallina decía , Kiri-kiri . 1742291_1743752
+%mor:	cconj|y det|el-Fem-Def-Art-Sing noun|gallina-Fem verb|decir-Fin-Ind-Imp-S3 cm|cm propn|Kirikiri-Acc .
+%gra:	1|4|CC 2|3|DET 3|4|NSUBJ 4|6|ROOT 5|6|PUNCT 6|4|OBJ 7|4|PUNCT
+%wor:	Y 1742291_1742311 la 1742351_1742431 gallina 1742471_1742772 decía 1742832_1743172 , Kirikiri 1743252_1743752 .
+*PAR0:	Kiri , kiri , kiki .
+%mor:	propn|Kiri cm|cm noun|kiri-Masc cm|cm noun|kiki .
+%gra:	1|5|ROOT 2|3|PUNCT 3|1|CONJ 4|5|PUNCT 5|1|CONJ 6|1|PUNCT
+*PAR0:	Y mira lo que tenemos aquí . 1747158_1748959
+%mor:	cconj|y verb|mirar-Fin-Ind-Pres-S3 pron|él-Prs-Acc-S3 pron|que-Rel-S1 verb|tener-Fin-Ind-Pres-P1 adv|aquí .
+%gra:	1|2|CC 2|6|ROOT 3|5|DET 4|5|OBJ 5|2|CCOMP 6|5|ADVMOD 7|2|PUNCT
+%wor:	Y 1747158_1747178 mira 1747438_1747738 lo 1747798_1747858 que 1747899_1747959 tenemos 1747999_1748399 aquí 1748459_1748959 .
+*PAR0:	Un gato salió , un gato negro . 1749880_1751902
+%mor:	det|uno-Masc-Ind-Art-Sing noun|gato-Masc verb|salir-Fin-Ind-Past-S3 cm|cm det|uno-Masc-Ind-Art-Sing noun|gato-Masc-Acc adj|negro-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|7|ROOT 4|6|PUNCT 5|6|DET 6|3|OBJ 7|6|AMOD 8|3|PUNCT
+%wor:	Un 1749880_1750060 gato 1750180_1750421 salió 1750501_1750962 , un 1750962_1751062 gato 1751102_1751322 negro 1751402_1751902 .
+*PAR0:	Mira , lo viste el gato negro . 1751783_1753245
+%mor:	propn|Mira cm|cm pron|él-Prs-Acc-S3 verb|ver-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|gato-Masc adj|negro-S1 .
+%gra:	1|4|DEP 2|1|PUNCT 3|4|OBJ 4|7|ROOT 5|6|DET 6|4|NSUBJ 7|6|AMOD 8|4|PUNCT
+%wor:	Mira 1751783_1751983 , lo 1752064_1752144 viste 1752144_1752404 el 1752424_1752464 gato 1752504_1752685 negro 1752745_1753245 .
+*PAR0:	Qué está haciendo el gato negro . 1753486_1754888
+%mor:	pron|qué-Int-S1 aux|estar-Fin-Ind-Pres-S3 verb|hacer-Ger-S det|el-Masc-Def-Art-Sing noun|gato-Masc-Acc adj|negro-S1 .
+%gra:	1|3|NSUBJ 2|3|AUX 3|6|ROOT 4|5|DET 5|3|OBJ 6|5|AMOD 7|3|PUNCT
+%wor:	Qué 1753486_1753546 está 1753546_1753666 haciendo 1753666_1754027 el 1754047_1754087 gato 1754107_1754307 negro 1754388_1754888 .
+*PAR0:	Sí , para tomar agua . 1755490_1757172
+%mor:	intj|sí cm|cm adp|para verb|tomar-Inf-S noun|agua-Fem-Acc .
+%gra:	1|5|ROOT 2|1|PUNCT 3|4|MARK 4|1|ADVCL 5|4|OBJ 6|1|PUNCT
+%wor:	Sí 1755490_1755790 , para 1755790_1756030 tomar 1756050_1756491 agua 1756672_1757172 .
+*PAR0:	Sí , se salió corriendo . 1757533_1758834
+%mor:	intj|sí cm|cm pron|él-Prs-Acc-reflx-S3 verb|salir-Fin-Ind-Past-S3 verb|correr-Ger-S .
+%gra:	1|4|ADVCL 2|1|PUNCT 3|4|EXPL-PV 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%wor:	Sí 1757533_1757834 , se 1757834_1757914 salió 1757974_1758334 corriendo 1758334_1758834 .
+*PAR0:	Uno aquí y otro acá . 1759657_1761579
+%mor:	pron|uno-Ind-S1 adv|aquí cconj|y pron|otro-Ind-S1 adv|acá .
+%gra:	1|5|ROOT 2|1|ADVMOD 3|4|CC 4|1|CONJ 5|4|ADVMOD 6|1|PUNCT
+%wor:	Uno 1759657_1759837 aquí 1759917_1760799 y 1760799_1760819 otro 1760879_1761019 acá 1761079_1761579 .
+*PAR0:	Te gustan los gatos o no . 1763540_1765282
+%mor:	pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-P3 det|el-Masc-Def-Art-Plur noun|gato-Masc-Plur cconj|o adv|no .
+%gra:	1|2|OBL-ARG 2|6|ROOT 3|4|DET 4|2|NSUBJ 5|6|CC 6|2|CONJ 7|2|PUNCT
+%wor:	Te 1763540_1763620 gustan 1763680_1763980 los 1763980_1764121 gatos 1764181_1764621 o 1764682_1764702 no 1764782_1765282 .
+*PAR0:	Yo me gustan mis gatos y . 1766504_1769488
+%mor:	pron|yo-Prs-Nom-S1 pron|yo-Prs-Dat-S1 verb|gustar-Fin-Ind-Pres-P3 det|mi-Def-Prs-Plur-S noun|gato-Masc-Plur cconj|y .
+%gra:	1|3|NSUBJ 2|3|OBL-ARG 3|6|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT 7|3|PUNCT
+%wor:	Yo 1766504_1766604 me 1766745_1766845 gustan 1766905_1767566 mis 1767626_1767786 gatos 1767886_1768447 y 1768988_1769488 .
+*PAR0:	Yo tengo muchos perritos . 1769228_1775857
+%mor:	pron|yo-Prs-Nom-S1 verb|tener-Fin-Ind-Pres-S1 det|mucho-Masc-Def-Ind-Plur noun|perrito-Masc-Plur-Acc .
+%gra:	1|2|NSUBJ 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	Yo 1769228_1769629 tengo 1770530_1771632 muchos 1774316_1774937 perritos 1775357_1775857 .
+*PAR0:	Había una gata con sus gatitos que decían miau , miau . 1780100_1783989
+%mor:	verb|haber-Fin-Ind-Imp-S3 det|uno-Fem-Ind-Art-Sing noun|gata-Fem-Acc adp|con det|su-Def-Prs-Plur noun|gatito-Masc-Plur pron|que-Rel-S1 verb|decir-Fin-Ind-Imp-P3 propn|miau cm|cm noun|miau-Masc .
+%gra:	1|11|ROOT 2|3|DET 3|1|OBJ 4|6|CASE 5|6|DET 6|1|OBL 7|8|MARK 8|6|ACL-RELCL 9|8|NSUBJ 10|11|PUNCT 11|9|APPOS 12|1|PUNCT
+%wor:	Había 1780100_1780341 una 1780381_1780561 gata 1780641_1780922 con 1780982_1781103 sus 1781143_1781263 gatitos 1781303_1781965 que 1782145_1782226 decían 1782266_1782667 miau 1782767_1783348 , miau 1783489_1783989 .
+*PAR0:	Y un gato con mucho apetito decía miau , miou , hambre . 1784772_1788099
+%mor:	cconj|y det|uno-Masc-Ind-Art-Sing noun|gato-Masc adp|con det|mucho-Masc-Def-Ind-Sing noun|apetito-Masc verb|decir-Fin-Ind-Imp-S3 propn|miau-Acc cm|cm noun|miou cm|cm noun|hambre-Fem .
+%gra:	1|7|CC 2|3|DET 3|7|NSUBJ 4|6|CASE 5|6|DET 6|3|NMOD 7|12|ROOT 8|7|OBJ 9|10|PUNCT 10|8|CONJ 11|10|PUNCT 12|8|APPOS 13|7|PUNCT
+%wor:	Y 1784772_1784792 un 1784872_1784952 gato 1785013_1785333 con 1786035_1786196 mucho 1786256_1786557 apetito 1786577_1787198 decía 1787258_1787379 miau 1787399_1787479 , miou 1787479_1787599 , hambre 1787599_1788099 .
+*PAR0:	tengo ha quiero mi lechita espérate gatito espérate le decía su mamá y había una perrita muy atenta que decía guau [/] guau ahí está la perrita que a sus cachorritos paseaba contenta ahí está la mamá los llevaba a pasear . 1789200_1807479
+%mor:	verb|tener-Fin-Ind-Pres-S1 aux|haber-Fin-Ind-Pres-S3 verb|querer-Fin-Ind-Pres-S1 det|mi-Def-Prs-Sing-S noun|lechita-Fem-Acc verb|esperatar-Fin-Ind-Pres-S3 noun|gatito-Masc-Acc adj|espérate-S1 pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Imp-S3 det|su-Def-Prs-Sing noun|mamá-Fem cconj|y verb|haber-Fin-Ind-Imp-S3 det|uno-Fem-Ind-Art-Sing noun|perrita-Fem-Acc adv|mucho adj|atento-S1 pron|que-Rel-S1 verb|decir-Fin-Ind-Imp-S3 noun|guau-Fem-Acc adv|ahí verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|perrita-Fem pron|que-Rel-S1 adp|a det|su-Def-Prs-Plur noun|cachorrito-Masc-Plur verb|pasear-Fin-Ind-Imp-S3 adj|contentar-S1 adv|ahí verb|estar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|mamá-Fem pron|él-Prs-Acc-P3 verb|llevar-Fin-Ind-Imp-S3 adp|a verb|pasear-Inf-S .
+%gra:	1|3|ADVCL 2|3|AUX 3|39|ROOT 4|5|DET 5|3|OBJ 6|3|ADVCL 7|6|OBJ 8|7|AMOD 9|10|OBL-ARG 10|3|PARATAXIS 11|12|DET 12|10|NSUBJ 13|14|CC 14|10|CONJ 15|16|DET 16|14|OBJ 17|18|ADVMOD 18|16|AMOD 19|20|MARK 20|16|ACL-RELCL 21|20|OBJ 22|23|ADVMOD 23|3|CONJ 24|25|DET 25|23|NSUBJ 26|30|MARK 27|29|CASE 28|29|DET 29|30|OBL-ARG 30|25|ACL-RELCL 31|30|XCOMP 32|30|ADVMOD 33|23|CONJ 34|35|DET 35|37|NSUBJ 36|37|OBJ 37|33|CONJ 38|39|MARK 39|37|ADVCL 40|3|PUNCT
+%wor:	tengo 1789200_1789500 ha 1789600_1789720 quiero 1790801_1791102 mi 1791182_1791282 lechita 1791402_1792303 espérate 1793164_1793825 gatito 1793885_1794525 espérate 1794746_1795326 le 1795386_1795446 decía 1795507_1795867 su 1795927_1796007 mamá 1796047_1796908 y 1796908_1796928 había 1797008_1797369 una 1797529_1797729 perrita 1797829_1798270 muy 1798370_1798570 atenta 1798650_1799331 que 1799511_1799591 decía 1799631_1799971 guau 1800112_1800392 guau 1800492_1800752 ahí 1801113_1801173 está 1801173_1801373 la 1801373_1801433 perrita 1801493_1801853 que 1802995_1803115 a 1803455_1803475 sus 1803555_1803695 cachorritos 1803735_1804376 paseaba 1804436_1804897 contenta 1804977_1805557 ahí 1805577_1805638 está 1805638_1805818 la 1805818_1805898 mamá 1805958_1806398 los 1806398_1806498 llevaba 1806498_1806899 a 1806919_1806939 pasear 1806979_1807479 .
+*PAR0:	Y en el granero , como les digo , todos eran muy buenos amigos . 1810680_1814685
+%mor:	cconj|y adp|en det|el-Masc-Def-Art-Sing noun|granero-Masc cm|cm sconj|como pron|él-Prs-Dat-P3 verb|decir-Fin-Ind-Pres-S1 cm|cm pron|todo-Tot-P1 aux|ser-Fin-Ind-Imp-P3 adv|mucho adj|buen-P1 noun|amigo-Masc-Plur .
+%gra:	1|14|CC 2|4|CASE 3|4|DET 4|14|OBL 5|8|PUNCT 6|8|MARK 7|8|OBL-ARG 8|14|ADVCL 9|8|PUNCT 10|14|NSUBJ 11|14|COP 12|13|ADVMOD 13|14|AMOD 14|14|ROOT 15|14|PUNCT
+%wor:	Y 1810680_1810700 en 1810780_1810860 el 1810920_1810960 granero 1810980_1811501 , como 1811561_1811781 les 1811821_1811961 digo 1812022_1812342 , todos 1812622_1813103 eran 1813183_1813383 muy 1813444_1813584 buenos 1813704_1814084 amigos 1814185_1814685 .
+*PAR0:	Mira , todos se habían juntado aquí . 1815406_1818189
+%mor:	propn|Mira cm|cm pron|todo-Tot-P1 pron|él-Prs-Acc-reflx-S3 aux|haber-Fin-Ind-Imp-P3 verb|juntar-Part-Past-S adv|aquí .
+%gra:	1|6|DEP 2|1|PUNCT 3|6|NSUBJ 4|6|EXPL-PV 5|6|AUX 6|7|ROOT 7|6|ADVMOD 8|6|PUNCT
+%wor:	Mira 1815406_1815667 , todos 1816207_1816648 se 1816668_1816708 habían 1816708_1817009 juntado 1817049_1817629 aquí 1817689_1818189 .
+*PAR0:	Cuál de los animales es el que más te gusta , Stuart . 1818871_1822716
+%mor:	pron|cuál-Int-S1 adp|de det|el-Masc-Def-Art-Plur noun|animal-Masc-Plur aux|ser-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing pron|que-Rel-S1 adv|más pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-S3 cm|cm propn|stuart .
+%gra:	1|5|NSUBJ 2|4|CASE 3|4|DET 4|1|NMOD 5|12|ROOT 6|10|DET 7|10|MARK 8|10|ADVMOD 9|10|OBL-ARG 10|5|CCOMP 11|12|PUNCT 12|6|APPOS 13|5|PUNCT
+%wor:	Cuál 1818871_1819172 de 1819212_1819272 los 1819312_1819452 animales 1819512_1820033 es 1820133_1820233 el 1820273_1820353 que 1821355_1821435 más 1821515_1821675 te 1821735_1821815 gusta 1821875_1822156 , Stuart 1822216_1822716 .
+*PAR0:	Cuál destos te gusta [/] gusta más [/] más . 1823538_1825279
+%mor:	pron|cuál-Int-S1 adj|desto-P1 pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-S3 adv|más .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|OBL-ARG 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	Cuál 1823538_1823758 destos 1823798_1824159 te 1824219_1824299 gusta 1824359_1824599 gusta 1824599_1824719 más 1824719_1824779 más 1824779_1825279 .
+*PAR0:	que Que tú [/] tú quieres [/] quieres tener . 1825740_1827101
+%mor:	sconj|que sconj|que pron|tú-Prs-Nom-S2 verb|querer-Fin-Ind-Pres-S1 verb|tener-Inf-S .
+%gra:	1|4|MARK 2|4|MARK 3|4|NSUBJ 4|5|ROOT 5|4|XCOMP 6|4|PUNCT
+%wor:	que 1825740_1825840 Que 1825900_1825960 tú 1825960_1826040 tú 1826040_1826080 quieres 1826080_1826220 quieres 1826220_1826561 tener 1826601_1827101 .
+*PAR0:	Cuáles Cuál te [/] te gusta más . 1826941_1829204
+%mor:	pron|cuál-Int-P1 pron|cuál-Int-S1 pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-S3 adv|más .
+%gra:	1|4|NSUBJ 2|4|NSUBJ 3|4|OBJ 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	Cuáles 1826941_1827462 Cuál 1827803_1828123 te 1828123_1828203 te 1828203_1828284 gusta 1828344_1828624 más 1828704_1829204 .
+*PAR0:	Qué es eso . 1831388_1832109
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|ese-Dem-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	Qué 1831388_1831449 es 1831449_1831549 eso 1831609_1832109 .
+*PAR0:	Quieres perrito baby chiquitito . 1834914_1837898
+%mor:	verb|querer-Fin-Ind-Pres-S1 noun|perrito-Masc-Acc noun|baby-Masc adj|chiquitito-S1 .
+%gra:	1|4|ROOT 2|1|OBJ 3|2|APPOS 4|2|AMOD 5|1|PUNCT
+%wor:	Quieres 1834914_1835395 perrito 1835575_1836236 baby 1837117_1837318 chiquitito 1837398_1837898 .
+*PAR0:	Y en el prado los animales pastaban , corrían y gruñaban y jugaban todos los animales . 1843020_1849008
+%mor:	cconj|y adp|en det|el-Masc-Def-Art-Sing noun|prado-Masc det|el-Masc-Def-Art-Plur noun|animal-Masc-Plur verb|pastar-Fin-Ind-Imp-P3 cm|cm verb|corr-Fin-Ind-Imp-P3 cconj|y verb|gruñar-Fin-Ind-Imp-P3 cconj|y verb|jugar-Fin-Ind-Imp-P3 det|todo-Masc-Def-Tot-Plur det|el-Masc-Def-Art-Plur noun|animal-Masc-Plur-Acc .
+%gra:	1|7|CC 2|4|CASE 3|4|DET 4|7|OBL 5|6|DET 6|7|NSUBJ 7|16|ROOT 8|9|PUNCT 9|7|ADVCL 10|11|CC 11|9|CONJ 12|13|CC 13|7|CONJ 14|15|DET 15|16|DET 16|13|OBJ 17|7|PUNCT
+%wor:	Y 1843020_1843040 en 1843100_1843160 el 1843220_1843300 prado 1843340_1843621 los 1843681_1843781 animales 1843841_1844422 pastaban 1844502_1845263 , corrían 1845744_1846345 y 1846425_1846445 gruñaban 1846505_1847086 y 1847186_1847206 jugaban 1847286_1847727 todos 1847807_1848268 los 1848288_1848428 animales 1848508_1849008 .
+*PAR0:	Y cuando el sol se ponía más allá del verde prado , la vaca grande mugía y . 1851092_1856499
+%mor:	cconj|y sconj|cuando det|el-Masc-Def-Art-Sing noun|sol-Masc pron|él-Prs-Acc-reflx-S3 verb|poner-Fin-Ind-Imp-S3 adv|más adv|allá adp|del adj|verde-S1 adj|prado-S1 cm|cm det|el-Fem-Def-Art-Sing noun|vaca-Fem adj|grande-S1 noun|mugía-Fem cconj|y .
+%gra:	1|6|CC 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|EXPL-PV 6|17|ROOT 7|8|ADVMOD 8|6|ADVMOD 9|10|CASE 10|6|OBL 11|10|AMOD 12|6|PUNCT 13|14|DET 14|6|NSUBJ 15|14|AMOD 16|14|APPOS 17|16|CC 18|6|PUNCT
+%wor:	Y 1851092_1851112 cuando 1851232_1851573 el 1851613_1851673 sol 1851773_1851993 se 1852053_1852134 ponía 1852214_1852594 más 1852694_1852875 allá 1852955_1853436 del 1853436_1853576 verde 1853676_1853996 prado 1854097_1854477 , la 1854557_1854637 vaca 1854717_1854958 grande 1855018_1855378 mugía 1855439_1855939 y 1855999_1856499 .
+*PAR0:	gruña el cerdito rosado . 1857340_1858841
+%mor:	verb|gruñar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|cerdito-Masc-Acc adj|rosado-S1 .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|3|AMOD 5|1|PUNCT
+%wor:	gruña 1857340_1857480 el 1857480_1857580 cerdito 1857680_1858281 rosado 1858341_1858841 .
+*PAR0:	Los caballos rincaban en eneno suave y el burrito rejejaba con voz grave . 1859743_1864930
+%mor:	det|el-Masc-Def-Art-Plur noun|caballo-Masc-Plur verb|rincar-Fin-Ind-Imp-P3 adp|en noun|eneno-Masc adj|suave-S1 cconj|y det|el-Masc-Def-Art-Sing noun|burrito-Masc verb|rejejar-Fin-Ind-Imp-S3 adp|con noun|voz-Fem adj|grave-S1 .
+%gra:	1|2|DET 2|3|NSUBJ 3|13|ROOT 4|5|CASE 5|3|OBL 6|5|AMOD 7|10|CC 8|9|DET 9|10|NSUBJ 10|3|CONJ 11|12|CASE 12|10|OBL 13|12|AMOD 14|3|PUNCT
+%wor:	Los 1859743_1859863 caballos 1859903_1860424 rincaban 1860444_1861005 en 1861005_1861125 eneno 1861185_1861566 suave 1861686_1862167 y 1862327_1862347 el 1862427_1862507 burrito 1862547_1862988 rejejaba 1863068_1863769 con 1863889_1864049 voz 1864129_1864330 grave 1864430_1864930 .
+*PAR0:	Las gallinas y los gallos se durmieron . 1867855_1870017
+%mor:	det|el-Fem-Def-Art-Plur noun|gallina-Fem-Plur cconj|y det|el-Masc-Def-Art-Plur noun|gallo-Masc-Plur pron|él-Prs-Acc-reflx-S3 verb|dormir-Fin-Ind-Past-P3 .
+%gra:	1|2|DET 2|7|NSUBJ 3|5|CC 4|5|DET 5|2|CONJ 6|7|EXPL-PV 7|7|ROOT 8|7|PUNCT
+%wor:	Las 1867855_1868055 gallinas 1868115_1868716 y 1868756_1868776 los 1868836_1868956 gallos 1869016_1869357 se 1869397_1869477 durmieron 1869517_1870017 .
+*PAR0:	Mira , está de noche ya . 1870459_1871579
+%mor:	propn|Mira cm|cm aux|estar-Fin-Ind-Pres-S3 adp|de noun|noche-Fem adv|ya .
+%gra:	1|3|NSUBJ 2|1|PUNCT 3|6|ROOT 4|3|ADVMOD 5|4|FIXED 6|3|ADVMOD 7|3|PUNCT
+%wor:	Mira 1870459_1870639 , está 1870639_1870799 de 1870799_1870879 noche 1870939_1871079 ya 1871079_1871579 .
+*PAR0:	Todo está oscuro . 1874460_1875160
+%mor:	pron|todo-Tot-S1 aux|estar-Fin-Ind-Pres-S3 adj|oscuro-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	Todo 1874460_1874540 está 1874540_1874660 oscuro 1874660_1875160 .
+*PAR0:	Ya van a dormir todos los animales . 1875681_1878204
+%mor:	adv|ya verb|ir-Fin-Ind-Pres-P3 adp|a verb|dormir-Inf-S det|todo-Masc-Def-Tot-Plur det|el-Masc-Def-Art-Plur noun|animal-Masc-Plur-Acc .
+%gra:	1|2|ADVMOD 2|7|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|7|DET 7|4|OBJ 8|2|PUNCT
+%wor:	Ya 1875681_1875782 van 1875862_1876002 a 1876062_1876082 dormir 1876142_1876543 todos 1876663_1877464 los 1877484_1877624 animales 1877704_1878204 .
+*PAR0:	Así como cuando tú vas a la cama a dormir , papi , mami , yo , ya todo está oscuro . 1879287_1883993
+%mor:	adv|así sconj|como sconj|cuando pron|tú-Prs-Nom-S2 verb|ir-Fin-Ind-Pres-S1 adp|a det|el-Fem-Def-Art-Sing noun|cama-Fem adp|a verb|dormir-Inf-S cm|cm noun|papi-Masc cm|cm noun|mami cm|cm pron|yo-Prs-Nom-S1 cm|cm adv|ya pron|todo-Tot-S1 aux|estar-Fin-Ind-Pres-S3 adj|oscuro-S1 .
+%gra:	1|21|CC 2|1|FIXED 3|5|MARK 4|5|NSUBJ 5|21|ADVCL 6|8|CASE 7|8|DET 8|5|OBL 9|10|MARK 10|5|ADVCL 11|12|PUNCT 12|10|CONJ 13|14|PUNCT 14|12|CONJ 15|16|PUNCT 16|12|CONJ 17|5|PUNCT 18|21|ADVMOD 19|21|NSUBJ 20|21|COP 21|21|ROOT 22|21|PUNCT
+%wor:	Así 1879287_1879507 como 1879507_1879687 cuando 1879768_1879968 tú 1880028_1880128 vas 1880128_1880268 a 1880308_1880328 la 1880389_1880429 cama 1880489_1880729 a 1880749_1880769 dormir 1880789_1881350 , papi 1881550_1881911 , mami 1882011_1882412 , yo 1882532_1882632 , ya 1882912_1882972 todo 1883093_1883333 está 1883333_1883493 oscuro 1883493_1883993 .
+*PAR0:	Y los pequeños murciélagos de granera salieron volando muy ligeros . 1884675_1887959
+%mor:	cconj|y det|el-Masc-Def-Art-Plur adj|pequeño-P1 noun|murciélago-Masc-Plur adp|de noun|granera-Fem verb|salir-Fin-Ind-Past-P3 verb|volar-Ger-S adv|mucho adj|ligero-P1 .
+%gra:	1|7|CC 2|4|DET 3|4|AMOD 4|7|NSUBJ 5|6|CASE 6|4|NMOD 7|10|ROOT 8|7|XCOMP 9|10|ADVMOD 10|8|XCOMP 11|7|PUNCT
+%wor:	Y 1884675_1884695 los 1884755_1884895 pequeños 1884976_1885416 murciélagos 1885456_1885937 de 1885957_1886037 granera 1886117_1886538 salieron 1886658_1887039 volando 1887079_1887399 muy 1887399_1887459 ligeros 1887459_1887959 .
+*PAR0:	Y así , de esta manera , los animales pasaron la noche entera . 1892540_1896325
+%mor:	cconj|y adv|así cm|cm adp|de det|este-Fem-Def-Dem-Sing noun|manera-Fem cm|cm det|el-Masc-Def-Art-Plur noun|animal-Masc-Plur verb|pasar-Fin-Ind-Past-P3 det|el-Fem-Def-Art-Sing noun|noche-Fem-Acc adj|entero-S1 .
+%gra:	1|10|CC 2|10|ADVMOD 3|6|PUNCT 4|6|CASE 5|6|DET 6|10|OBL 7|6|PUNCT 8|9|DET 9|10|NSUBJ 10|13|ROOT 11|12|DET 12|10|OBJ 13|12|AMOD 14|10|PUNCT
+%wor:	Y 1892540_1892560 así 1892660_1892981 , de 1892981_1893041 esta 1893101_1893301 manera 1893401_1893882 , los 1894002_1894162 animales 1894223_1894723 pasaron 1894783_1895244 la 1895304_1895384 noche 1895445_1895745 entera 1895825_1896325 .
+*PAR0:	Tú cuando vas a dormir qué dices . 1897007_1898629
+%mor:	pron|tú-Prs-Nom-S2 sconj|cuando verb|ir-Fin-Ind-Pres-S1 adp|a verb|dormir-Inf-S pron|qué-Int-S1 verb|decir-Fin-Ind-Pres-S1 .
+%gra:	1|7|ROOT 2|3|MARK 3|1|ACL 4|5|MARK 5|3|XCOMP 6|7|NSUBJ 7|3|CCOMP 8|1|PUNCT
+%wor:	Tú 1897007_1897147 cuando 1897147_1897368 vas 1897408_1897548 a 1897568_1897588 dormir 1897628_1897929 qué 1897989_1898129 dices 1898129_1898629 .
+*PAR0:	Cuando tú te vas a tu cama a dormir , qué dices . 1899411_1901554
+%mor:	sconj|cuando pron|tú-Prs-Nom-S2 pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S1 adp|a det|tu-Def-Prs-Sing-S noun|cama-Fem adp|a verb|dormir-Inf-S cm|cm pron|qué-Int-S1 verb|decir-Fin-Ind-Pres-S1 .
+%gra:	1|4|MARK 2|4|NSUBJ 3|4|EXPL-PV 4|12|ADVCL 5|7|CASE 6|7|DET 7|4|OBL 8|9|MARK 9|4|ADVCL 10|4|PUNCT 11|12|OBJ 12|12|ROOT 13|12|PUNCT
+%wor:	Cuando 1899411_1899591 tú 1899651_1899792 te 1899792_1899872 vas 1899912_1900032 a 1900072_1900092 tu 1900132_1900192 cama 1900232_1900413 a 1900433_1900453 dormir 1900493_1900853 , qué 1900913_1901054 dices 1901054_1901554 .
+*PAR0:	Sí , pero qué dizes tú . 1902476_1904218
+%mor:	intj|sí cm|cm cconj|pero det|qué-Def-Int noun|diz-Masc-Plur pron|tú-Prs-Nom-S2 .
+%gra:	1|6|ROOT 2|1|PUNCT 3|5|CC 4|5|DET 5|1|CONJ 6|5|NSUBJ 7|1|PUNCT
+%wor:	Sí 1902476_1902957 , pero 1902957_1903097 qué 1903157_1903317 dizes 1903317_1903638 tú 1903718_1904218 .
+*PAR0:	cuando te vas a dormir . 1903838_1904879
+%mor:	sconj|cuando pron|tú-Prs-Dat-S2 verb|ir-Fin-Ind-Pres-S1 adp|a verb|dormir-Inf-S .
+%gra:	1|3|MARK 2|3|EXPL-PV 3|5|ROOT 4|5|MARK 5|3|XCOMP 6|3|PUNCT
+%wor:	cuando 1903838_1904039 te 1904079_1904139 vas 1904179_1904299 a 1904319_1904339 dormir 1904379_1904879 .
+*PAR0:	Buenas noches a todos , dices , no . 1907100_1909243
+%mor:	adj|bueno-P1 noun|noche-Fem-Plur adp|a pron|todo-Tot-P1 cm|cm verb|decir-Fin-Ind-Pres-P1 cm|cm adv|no .
+%gra:	1|2|AMOD 2|6|OBL 3|4|CASE 4|2|NMOD 5|2|PUNCT 6|8|ROOT 7|8|PUNCT 8|6|ADVMOD 9|6|PUNCT
+%wor:	Buenas 1907100_1907340 noches 1907380_1907681 a 1907721_1907741 todos 1907881_1908322 , dices 1908362_1908683 , no 1908743_1909243 .
+*PAR0:	Y al niño Jesús qué le dices . 1910166_1911627
+%mor:	cconj|y det|el-Masc-Def-Art-Sing noun|niño-Masc propn|jesús pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S1 .
+%gra:	1|7|CC 2|3|DET 3|7|OBL 4|7|NSUBJ 5|7|NSUBJ 6|7|OBL-ARG 7|7|ROOT 8|7|PUNCT
+%wor:	Y 1910166_1910186 al 1910226_1910306 niño 1910346_1910506 Jesús 1910566_1910847 qué 1910887_1911007 le 1911007_1911087 dices 1911127_1911627 .
+*PAR0:	No , al niño Jesús , qué le dices . 1913071_1914673
+%mor:	adv|no cm|cm adp|al noun|niño-Masc propn|jesús cm|cm pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|decir-Fin-Ind-Pres-S1 .
+%gra:	1|9|ADVMOD 2|4|PUNCT 3|4|CASE 4|9|OBL 5|4|APPOS 6|4|PUNCT 7|9|NSUBJ 8|9|OBL-ARG 9|9|ROOT 10|9|PUNCT
+%wor:	No 1913071_1913151 , al 1913251_1913331 niño 1913352_1913532 Jesús 1913592_1913913 , qué 1913973_1914073 le 1914073_1914133 dices 1914173_1914673 .
+*PAR0:	Ajá , qué más . 1916578_1918019
+%mor:	propn|Ajá cm|cm pron|qué-Int-S1 adv|más .
+%gra:	1|4|ROOT 2|3|PUNCT 3|1|APPOS 4|1|ADVMOD 5|1|PUNCT
+%wor:	Ajá 1916578_1917379 , qué 1917379_1917519 más 1917519_1918019 .
+*PAR0:	Haz tu conita en corazón . 1923220_1924181
+%mor:	verb|hacer-Fin-Ind-Pres-S det|tu-Def-Prs-Sing-S noun|conita-Fem-Acc adp|en noun|corazón-Masc .
+%gra:	1|5|ROOT 2|3|DET 3|1|OBJ 4|5|CASE 5|1|OBL 6|1|PUNCT
+%wor:	Haz 1923220_1923280 tu 1923340_1923380 conita 1923380_1923600 en 1923620_1923661 corazón 1923681_1924181 .
+*PAR0:	En mi corazón . 1927608_1929530
+%mor:	adp|en det|mi-Def-Prs-Sing-S noun|corazón-Masc .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	En 1927608_1927748 mi 1928009_1928149 corazón 1929030_1929530 .
+*PAR0:	Ok , a ver . 1930573_1932115
+%mor:	propn|ok cm|cm adp|a verb|ver-Inf-S .
+%gra:	1|4|ROOT 2|1|PUNCT 3|4|MARK 4|1|ACL 5|1|PUNCT
+%wor:	Ok 1930573_1931214 , a 1931555_1931575 ver 1931615_1932115 .
+*PAR0:	En el gran granero rojo . 1932256_1934379
+%mor:	adp|en det|el-Masc-Def-Art-Sing adj|gran-S1 noun|granero-Masc adj|rojo-S1 .
+%gra:	1|4|CASE 2|4|DET 3|4|AMOD 4|5|ROOT 5|4|AMOD 6|4|PUNCT
+%wor:	En 1932256_1932336 el 1932417_1932497 gran 1932537_1932837 granero 1933238_1933719 rojo 1933879_1934379 .
+*PAR0:	Solo se escuchaba a los ratones escarbando por los rincones , mientras la luna solo proseguía . 1937190_1946457
+%mor:	adv|sólo pron|él-Prs-Acc-reflx-S3 verb|escuchar-Fin-Ind-Imp-S3 adp|a det|el-Masc-Def-Art-Plur noun|ratón-Masc-Plur-Acc verb|escarbar-Ger-S adp|por det|el-Masc-Def-Art-Plur noun|rincón-Masc-Plur cm|cm sconj|mientras det|el-Fem-Def-Art-Sing noun|luna-Fem adv|sólo verb|proseguir-Fin-Ind-Imp-S3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|16|ROOT 4|6|CASE 5|6|DET 6|3|OBJ 7|3|ADVCL 8|10|CASE 9|10|DET 10|7|OBL 11|16|PUNCT 12|16|MARK 13|14|DET 14|16|NSUBJ 15|16|ADVMOD 16|3|ADVCL 17|3|PUNCT
+%wor:	Solo 1937190_1937530 se 1937610_1937690 escuchaba 1937730_1938391 a 1938451_1938471 los 1938471_1938591 ratones 1938651_1939211 escarbando 1939271_1940052 por 1940132_1940252 los 1940272_1940392 rincones 1940472_1941233 , mientras 1944215_1944676 la 1944716_1944796 luna 1944876_1945196 solo 1945516_1945877 proseguía 1945957_1946457 .
+*PAR0:	y en el negro cielo su travesía . 1947478_1949559
+%mor:	cconj|y adp|en det|el-Masc-Def-Art-Sing adj|negro-S1 noun|cielo-Masc det|su-Def-Prs-Sing noun|travesía-Fem .
+%gra:	1|7|CC 2|5|CASE 3|5|DET 4|5|AMOD 5|7|NMOD 6|7|DET 7|7|ROOT 8|7|PUNCT
+%wor:	y 1947478_1947498 en 1947558_1947638 el 1947698_1947778 negro 1947838_1948138 cielo 1948258_1948639 su 1948819_1948939 travesía 1949059_1949559 .
+*PAR0:	Colorín colorado , este cuento ha terminado . 1950560_1955757
+%mor:	propn|colorín adj|colorado-S1 cm|cm det|este-Masc-Def-Dem-Sing noun|contar-Masc aux|haber-Fin-Ind-Pres-S3 verb|terminar-Part-Past-S .
+%gra:	1|7|DEP 2|1|AMOD 3|1|PUNCT 4|5|DET 5|7|NSUBJ 6|7|AUX 7|7|ROOT 8|7|PUNCT
+%wor:	Colorín 1950560_1951122 colorado 1951262_1952085 , este 1953410_1953731 cuento 1953832_1954353 ha 1955016_1955116 terminado 1955257_1955757 .
+@End

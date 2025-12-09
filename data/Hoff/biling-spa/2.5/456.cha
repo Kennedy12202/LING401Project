@@ -1,0 +1,2059 @@
+@UTF8
+@PID:	11312/a-00060096-1
+@Begin
+@Languages:	spa, eng, hun
+@Participants:	MOT Mother, CHI Target_Child
+@ID:	spa|Hoff|MOT|||||Mother|||
+@ID:	spa|Hoff|CHI|2;06.|female|||Target_Child|||
+@Media:	456, video
+@Date:	25-JAN-2013
+@Situation:	Animal toys
+@Transcriber:	IM
+@Time Duration:	00:00-12:07
+@Types:	cross, toyplay, biling
+*MOT:	y +...
+%mor:	cconj|y +...
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother prolongs y .
+*CHI:	ya !
+%mor:	adv|ya !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y esto cómo un campo ? 1290_2290
+%mor:	cconj|y pron|este-Dem-S1 pron|cómo-Ind-S1 det|uno-Masc-Ind-Art-Sing noun|campo-Masc ?
+%gra:	1|5|CC 2|5|NSUBJ 3|5|ADVMOD 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	y 1290_1310 esto 1330_1490 cómo 1530_1670 un 1670_1750 campo 1790_2290 ?
+%com:	mother laughs and examiner interacts with mother .
+*MOT:	mira . 4112_4612
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 4112_4612 .
+*MOT:	vamos hacer una casita . 5793_6853
+%mor:	verb|ir-Fin-Ind-Pres-P1 verb|hacer-Inf-S det|uno-Fem-Ind-Art-Sing noun|casita-Fem-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	vamos 5793_5973 hacer 5973_6153 una 6193_6313 casita 6353_6853 .
+%com:	mother stutters vamos .
+*MOT:	a ver . 7054_7614
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 7054_7074 ver 7114_7614 .
+%com:	mother gasps .
+*MOT:	hay que hacer las +/. 8355_9455
+%mor:	verb|haber-Fin-Ind-Pres-S3 sconj|que verb|hacer-Inf-S pron|él-Prs-Acc-P3 +/.
+%gra:	1|4|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|1|PUNCT
+%wor:	hay 8355_8475 que 8515_8595 hacer 8675_8895 las 8955_9455 +/.
+%com:	mother starts to say a word before interruption .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mira ! 9996_10496
+%mor:	verb|mirar-Fin-Ind-Pres-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 9996_10496 !
+*CHI:	xxx .
+*MOT:	+< mira las gallinas [=! gestures] . 11457_12338
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Plur noun|gallina-Fem-Plur-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	mira 11457_11637 las 11677_11798 gallinas 11838_12338 .
+*MOT:	quieres gallinas ? 12458_13138
+%mor:	verb|querer-Fin-Ind-Pres-S1 noun|gallina-Fem-Plur-Acc ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	quieres 12458_12598 gallinas 12638_13138 ?
+%com:	mother gasps .
+*MOT:	mira . 14259_14759
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 14259_14759 .
+*MOT:	qué es esto ? 15250_15970
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	qué 15250_15310 es 15310_15410 esto 15470_15970 ?
+*CHI:	no . 16090_16590
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 16090_16590 .
+*MOT:	qué es esto Brianna ? 17251_18311
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 propn|brianna ?
+%gra:	1|4|NSUBJ 2|4|COP 3|4|NSUBJ 4|4|ROOT 5|4|PUNCT
+%wor:	qué 17251_17311 es 17311_17411 esto 17491_17751 Brianna 17811_18311 ?
+*CHI:	no xxx .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mira un puerquito . 19032_19772
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|puerquito-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	mira 19032_19192 un 19212_19252 puerquito 19272_19772 .
+*MOT:	quieres ver un puerquito ? 19933_20853
+%mor:	verb|querer-Fin-Ind-Pres-S1 verb|ver-Inf-S det|uno-Masc-Ind-Art-Sing noun|puerquito-Masc-Acc ?
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	quieres 19933_20093 ver 20133_20233 un 20253_20313 puerquito 20353_20853 ?
+*CHI:	no . 21114_21614
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 21114_21614 .
+*MOT:	la araña . 22995_23635
+%mor:	det|el-Fem-Def-Art-Sing noun|araña-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	la 22995_23075 araña 23135_23635 .
+*MOT:	la araña Brianna . 24616_25697
+%mor:	det|el-Fem-Def-Art-Sing noun|araña-Fem propn|brianna .
+%gra:	1|2|DET 2|3|ROOT 3|2|APPOS 4|2|PUNCT
+%wor:	la 24616_24696 araña 24756_25156 Brianna 25197_25697 .
+*MOT:	uy [/] uy ! 26277_27538
+%mor:	intj|uy !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 26277_26978 uy 27038_27538 !
+*MOT:	una araña . 27258_27978
+%mor:	det|uno-Fem-Ind-Art-Sing noun|araña-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 27258_27438 araña 27478_27978 .
+*MOT:	uy . 28038_28538
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 28038_28538 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	uy [/] uy ! 28939_29959
+%mor:	intj|uy !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 28939_29419 uy 29459_29959 !
+*CHI:	eh@fp .
+%mor:	fp|eh .
+%gra:	1|1|FLAT 2|1|PUNCT
+%com:	mother pretends to scare the child with a toy .
+*CHI:	eh@fp .
+%mor:	fp|eh .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	uy ! 31400_31900
+%mor:	intj|uy !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 31400_31900 !
+*CHI:	mami ! 31460_31960
+%mor:	noun|mami-Fem !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mami 31460_31960 !
+*MOT:	qué ? 32342_32842
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	qué 32342_32842 ?
+*CHI:	eh@fp .
+%mor:	fp|eh .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	es mío . 32422_35666
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|mío-Prs-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	es 32422_33023 mío 35166_35666 .
+*CHI:	dame .
+%mor:	propn|dame .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< es tuyo ? 36167_36807
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	es 36167_36267 tuyo 36307_36807 ?
+*MOT:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	eso no es tuyo . 36948_37789
+%mor:	pron|ese-Dem-S1 adv|no aux|ser-Fin-Ind-Pres-S3 det|tuyo-Masc-Def-Prs-Sing-P .
+%gra:	1|4|NSUBJ 2|4|ADVMOD 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	eso 36948_37088 no 37128_37168 es 37189_37269 tuyo 37289_37789 .
+*CHI:	es mío . 37569_38430
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|mío-Prs-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	es 37569_37609 mío 37930_38430 .
+*MOT:	son de otros niños . 38631_39731
+%mor:	aux|ser-Fin-Ind-Pres-P3 adp|de det|otro-Masc-Def-Ind-Plur noun|niño-Masc-Plur .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	son 38631_38771 de 38771_38851 otros 38951_39191 niños 39231_39731 .
+*CHI:	mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	que no . 40674_41394
+%mor:	sconj|que adv|no .
+%gra:	1|2|MARK 2|2|ROOT 3|2|PUNCT
+%wor:	que 40674_40754 no 40894_41394 .
+*CHI:	+< xxx .
+*MOT:	mira . 42857_43357
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 42857_43357 .
+%com:	mother gasps .
+*MOT:	qué vamos hacer aquí ? 44058_45179
+%mor:	pron|qué-Int-S1 verb|ir-Fin-Ind-Pres-P1 verb|hacer-Inf-S adv|aquí ?
+%gra:	1|2|NSUBJ 2|4|ROOT 3|2|XCOMP 4|3|ADVMOD 5|2|PUNCT
+%wor:	qué 44058_44138 vamos 44138_44359 hacer 44399_44619 aquí 44679_45179 ?
+*CHI:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	aquí un bosque . 46930_47870
+%mor:	adv|aquí det|uno-Masc-Ind-Art-Sing noun|bosque-Masc .
+%gra:	1|3|ADVMOD 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	aquí 46930_47230 un 47230_47310 bosque 47370_47870 .
+*MOT:	<con de> [//] con tantos animalitos . 48190_49811
+%mor:	adp|con det|tanto-Masc-Def-Dem-Plur noun|animalito-Masc-Plur .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	con 48190_48291 de 48331_48411 con 48751_48871 tantos 48911_49231 animalitos 49311_49811 .
+%com:	mother starts to say a word before correction .
+*MOT:	la ardilla . 52093_52673
+%mor:	det|el-Fem-Def-Art-Sing noun|ardilla-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	la 52093_52153 ardilla 52173_52673 .
+*CHI:	xxx xxx .
+*MOT:	+< el rinoceronte . 54315_54995
+%mor:	det|el-Masc-Def-Art-Sing noun|rinoceronte-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	el 54315_54435 rinoceronte 54495_54995 .
+*MOT:	cómo se llama ? 55295_56055
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|llamar-Fin-Ind-Pres-S3 ?
+%gra:	1|3|OBL 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	cómo 55295_55455 se 55475_55555 llama 55555_56055 ?
+%com:	mother gasps .
+*MOT:	mira . 57457_57957
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 57457_57957 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no quieres ? 59898_60559
+%mor:	adv|no verb|querer-Fin-Ind-Pres-S1 ?
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	no 59898_59999 quieres 60059_60559 ?
+*MOT:	ay . 60899_61399
+%mor:	x|ay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ay 60899_61399 .
+*MOT:	no . 61279_61779
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 61279_61779 .
+*MOT:	por qué eres así Brianna ? 62860_63640
+%mor:	adp|por pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S2 adv|así propn|brianna ?
+%gra:	1|2|CASE 2|3|OBL 3|5|ROOT 4|5|ADVMOD 5|3|NSUBJ 6|3|PUNCT
+%wor:	por 62860_62920 qué 62920_62980 eres 62980_63060 así 63060_63140 Brianna 63140_63640 ?
+%com:	child moves toys to the ground .
+*MOT:	por qué eres así ? 65283_66284
+%mor:	adp|por pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S1 adv|así ?
+%gra:	1|2|CASE 2|4|NMOD 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	por 65283_65403 qué 65443_65504 eres 65504_65724 así 65784_66284 ?
+*MOT:	mira . 68288_68788
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 68288_68788 .
+%com:	pause and then gasps .
+*MOT:	qué es eso ? 74517_75238
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|ese-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	qué 74517_74577 es 74577_74678 eso 74738_75238 ?
+*MOT:	es una ballena . 75138_75919
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|ballena-Fem .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	es 75138_75178 una 75218_75359 ballena 75419_75919 .
+%com:	mother gasps .
+*MOT:	una ballena . 77360_78120
+%mor:	det|uno-Fem-Ind-Art-Sing noun|ballena-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 77360_77520 ballena 77620_78120 .
+*MOT:	wuau .
+%mor:	propn|wuau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	sí . 80745_81245
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sí 80745_81245 .
+*MOT:	qué es eso ? 82448_83188
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|ese-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	qué 82448_82508 es 82508_82628 eso 82688_83188 ?
+%com:	mother gasps .
+*MOT:	así ? 84911_85411
+%mor:	adv|así ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	así 84911_85411 ?
+*MOT:	es una ballena princesa . 86834_88476
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|ballena-Fem adj|princesa-S1 .
+%gra:	1|3|COP 2|3|DET 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	es 86834_86915 una 87035_87195 ballena 87275_87896 princesa 87976_88476 .
+*CHI:	+< xxx .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	juega con más . 89579_90519
+%mor:	verb|jugar-Fin-Ind-Pres-S3 adp|con adv|más .
+%gra:	1|3|ROOT 2|3|CASE 3|1|ADVMOD 4|1|PUNCT
+%wor:	juega 89579_89799 con 89859_89999 más 90019_90519 .
+*CHI:	xxx .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	es mío .
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|mío-Prs-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*MOT:	no . 94380_94880
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 94380_94880 .
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no me dejas ju(gar) +... 95480_96421
+%mor:	adv|no pron|yo-Prs-Dat-S1 verb|dejar-Fin-Ind-Pres-S1 verb|jugar-Inf-S +...
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|4|ROOT 4|3|XCOMP 5|3|PUNCT
+%wor:	no 95480_95540 me 95600_95660 dejas 95680_95921 ju(gar) 95921_96421 +...
+*MOT:	mira este es un gallo &=points . 96081_97141
+%mor:	verb|mirar-Fin-Ind-Pres-S3 pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|gallo-Masc .
+%gra:	1|5|CSUBJ 2|5|NSUBJ 3|5|COP 4|5|DET 5|5|ROOT 6|5|PUNCT
+%wor:	mira 96081_96241 este 96261_96401 es 96441_96481 un 96521_96581 gallo 96641_97141 .
+*MOT:	cómo +/.
+%mor:	pron|cómo-Ind-S1 +/.
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< no [/] no !
+%mor:	adv|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child screams and prolongs second no .
+*MOT:	cómo hace el gallo ? 97142_97882
+%mor:	pron|cómo-Ind-S1 verb|hacer-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|gallo-Masc ?
+%gra:	1|2|OBL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	cómo 97142_97222 hace 97222_97302 el 97322_97362 gallo 97382_97882 ?
+*MOT:	cómo hace el gallo ? 98162_99123
+%mor:	pron|cómo-Ind-S1 verb|hacer-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|gallo-Masc ?
+%gra:	1|2|OBL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	cómo 98162_98342 hace 98382_98522 el 98543_98583 gallo 98623_99123 ?
+*MOT:	ay . 98823_99323
+%mor:	x|ay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ay 98823_99323 .
+*MOT:	no . 98883_99383
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 98883_99383 .
+*MOT:	Brianna .
+%mor:	propn|Brianna-Nom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	a ver . 99163_99703
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 99163_99183 ver 99203_99703 .
+*MOT:	cómo hace el gallo ? 100084_101124
+%mor:	pron|cómo-Ind-S1 verb|hacer-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|gallo-Masc ?
+%gra:	1|2|OBL 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	cómo 100084_100284 hace 100344_100424 el 100444_100544 gallo 100624_101124 ?
+*MOT:	este es un gallo . 101124_102505
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|gallo-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	este 101124_101665 es 101825_101925 un 101965_102005 gallo 102005_102505 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child screams and mother gasps .
+*MOT:	es un gallo princesa . 109930_111231
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|gallo-Masc adj|princesa-S1 .
+%gra:	1|3|COP 2|3|DET 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	es 109930_110010 un 110070_110210 gallo 110250_110671 princesa 110731_111231 .
+*MOT:	no ? 113436_113936
+%mor:	adv|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 113436_113936 ?
+%com:	long pause .
+*MOT:	a ver qué estás haciendo ? 117403_118443
+%mor:	adp|a verb|ver-Inf-S pron|qué-Int-S1 aux|estar-Fin-Ind-Pres-S1 verb|hacer-Ger-S ?
+%gra:	1|2|MARK 2|5|ADVCL 3|5|NSUBJ 4|5|AUX 5|5|ROOT 6|5|PUNCT
+%wor:	a 117403_117423 ver 117463_117583 qué 117623_117683 estás 117683_117923 haciendo 117943_118443 ?
+*MOT:	uy ! 121349_121849
+%mor:	intj|uy !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 121349_121849 !
+*MOT:	te gustaron más las ballenas ? 124630_125991
+%mor:	pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Past-P3 adv|más det|el-Fem-Def-Art-Plur noun|ballena-Fem-Plur ?
+%gra:	1|2|OBL-ARG 2|5|ROOT 3|2|ADVMOD 4|5|DET 5|2|NSUBJ 6|2|PUNCT
+%wor:	te 124630_124710 gustaron 124750_125091 más 125131_125291 las 125331_125451 ballenas 125491_125991 ?
+*MOT:	mira . 127134_127634
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 127134_127634 .
+*MOT:	hay más juguetes Brianna &=points . 127274_128695
+%mor:	verb|haber-Fin-Ind-Pres-S3 adv|más noun|juguete-Masc-Plur-Acc propn|brianna .
+%gra:	1|4|ROOT 2|3|ADVMOD 3|1|OBJ 4|3|APPOS 5|1|PUNCT
+%wor:	hay 127274_127374 más 127414_127594 juguetes 127635_128155 Brianna 128195_128695 .
+*MOT:	hay más aquí . 128576_129857
+%mor:	verb|haber-Fin-Ind-Pres-S3 adv|más adv|aquí .
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%wor:	hay 128576_128916 más 128977_129277 aquí 129357_129857 .
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	Brianna mira [=! gestures] . 131080_133122
+%mor:	propn|Brianna-Nom propn|mira-Nom .
+%gra:	1|2|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+%wor:	Brianna 131080_131440 mira 132622_133122 .
+*MOT:	Brianna ! 136829_137329
+%mor:	propn|Brianna-Nom !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Brianna 136829_137329 !
+%com:	mother gasps .
+*CHI:	xxx xxx .
+*MOT:	+< este es un +... 139740_140480
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing +...
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	este 139740_139840 es 139880_139920 un 139980_140480 +...
+*MOT:	qué es esto ? 140440_141180
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	qué 140440_140500 es 140500_140620 esto 140680_141180 ?
+*CHI:	hm@fp .
+%mor:	fp|hm .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	mío . 141021_141521
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mío 141021_141521 .
+*MOT:	tuyo ? 142962_143462
+%mor:	pron|tuyo-Prs-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tuyo 142962_143462 ?
+*CHI:	xxx .
+*MOT:	todo esto es tuyo ? 144604_145624
+%mor:	det|todo-Masc-Def-Tot-Sing pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 ?
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	todo 144604_144804 esto 144844_145004 es 145024_145104 tuyo 145124_145624 ?
+*CHI:	no . 145424_145924
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 145424_145924 .
+*MOT:	entonces ? 147046_147546
+%mor:	adv|entonces ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	entonces 147046_147546 ?
+*MOT:	aquí [/] aquí Brianna . 148227_149607
+%mor:	adv|aquí propn|brianna .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	aquí 148227_148827 aquí 148827_149107 Brianna 149107_149607 .
+*MOT:	juega aquí [=! gestures] . 149468_150228
+%mor:	verb|jugar-Fin-Ind-Pres-S3 adv|aquí .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	juega 149468_149708 aquí 149728_150228 .
+*MOT:	aquí . 151209_151709
+%mor:	adv|aquí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	aquí 151209_151709 .
+*MOT:	a ver león !
+%mor:	adp|a verb|ver-Inf-S noun|león-Masc-Acc !
+%gra:	1|2|MARK 2|3|ROOT 3|2|OBJ 4|2|PUNCT
+*MOT:	este qué es ? 157900_158740
+%mor:	pron|este-Dem-S1 pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COP 4|2|PUNCT
+%wor:	este 157900_158080 qué 158160_158240 es 158240_158740 ?
+*MOT:	qué es esto ? 159641_160422
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	qué 159641_159721 es 159721_159842 esto 159922_160422 ?
+*CHI:	hm@fp .
+%mor:	fp|hm .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	xxx .
+*CHI:	0 [=! animal noises] .
+*MOT:	guau !
+%mor:	propn|guau !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	es un león ? 161463_165006
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|león-Masc ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	es 161463_161723 un 162825_164486 león 164506_165006 ?
+%com:	mother gasps .
+*MOT:	uy . 166688_167188
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 166688_167188 .
+*MOT:	sí . 167069_167569
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sí 167069_167569 .
+*MOT:	es un león . 167189_168189
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|león-Masc .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	es 167189_167469 un 167529_167629 león 167689_168189 .
+*MOT:	Brianna voltéate para acá . 171300_173142
+%mor:	propn|brianna propn|voltéate adp|para adv|acá .
+%gra:	1|4|ROOT 2|1|FLAT 3|4|CASE 4|1|ADVMOD 5|1|PUNCT
+%wor:	Brianna 171300_171640 voltéate 172021_172381 para 172441_172602 acá 172642_173142 .
+*MOT:	este es un gallo . 172782_177689
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|gallo-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	este 172782_176908 es 176948_176988 un 177029_177149 gallo 177189_177689 .
+%com:	mother gasps .
+*MOT:	un tigre . 178791_179512
+%mor:	det|uno-Masc-Ind-Art-Sing noun|tigre-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 178791_178871 tigre 179012_179512 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	un tigre . 179893_180934
+%mor:	det|uno-Masc-Ind-Art-Sing noun|tigre-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 179893_180253 tigre 180434_180934 .
+*MOT:	qué vas hacer ? 183699_184459
+%mor:	pron|qué-Int-S1 verb|ir-Fin-Ind-Pres-S1 verb|hacer-Inf-S ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%wor:	qué 183699_183799 vas 183799_183939 hacer 183959_184459 ?
+*CHI:	guau .
+%mor:	propn|guau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	guau .
+%mor:	propn|guau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mira . 188790_189290
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 188790_189290 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< esto es un tigre . 189710_190851
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|tigre-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	esto 189710_189971 es 189991_190091 un 190171_190251 tigre 190351_190851 .
+*MOT:	no ! 190871_191371
+%mor:	adv|no !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 190871_191371 !
+*MOT:	no quieres jugar con mami ? 191512_192773
+%mor:	adv|no verb|querer-Fin-Ind-Pres-S1 verb|jugar-Inf-S adp|con noun|mami-Fem ?
+%gra:	1|2|ADVMOD 2|5|ROOT 3|2|XCOMP 4|5|CASE 5|3|OBL 6|2|PUNCT
+%wor:	no 191512_191592 quieres 191632_191812 jugar 191832_192092 con 192132_192232 mami 192273_192773 ?
+*CHI:	hm@fp .
+%mor:	fp|hm .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	e(s) mío .
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|mío-Prs-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*MOT:	tuyo ? 194634_195134
+%mor:	pron|tuyo-Prs-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tuyo 194634_195134 ?
+*CHI:	eh@fp .
+%mor:	fp|eh .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	uno_dos@x .
+%mor:	noun|unodo-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	es una jirafa . 195555_197516
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|jirafa-Fem .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	es 195555_196236 una 196316_196676 jirafa 197016_197516 .
+%com:	mother gasps .
+*MOT:	es una jirafa princesa . 206490_208211
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|jirafa-Fem adj|princesa-S1 .
+%gra:	1|3|COP 2|3|DET 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	es 206490_206530 una 206530_206650 jirafa 206790_207631 princesa 207711_208211 .
+*MOT:	a ver qué es ? 208472_209333
+%mor:	adp|a verb|ver-Inf-S pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|2|MARK 2|4|ROOT 3|2|OBJ 4|2|CCOMP 5|2|PUNCT
+%wor:	a 208472_208493 ver 208533_208673 qué 208733_208833 es 208833_209333 ?
+*MOT:	wuau .
+%mor:	propn|wuau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	un puerquito . 211958_212618
+%mor:	det|uno-Masc-Ind-Art-Sing noun|puerquito-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 211958_212018 puerquito 212118_212618 .
+*MOT:	mira . 212779_213279
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 212779_213279 .
+*MOT:	xxx .
+*MOT:	mira el puerquito . 213300_214901
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|puerquito-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	mira 213300_214241 el 214261_214341 puerquito 214401_214901 .
+*MOT:	xxx .
+*MOT:	a ver . 215743_216384
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 215743_215763 ver 215884_216384 .
+*MOT:	es un venado . 221310_222050
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|venado-Masc .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	es 221310_221350 un 221410_221510 venado 221550_222050 .
+*MOT:	mira .
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	que se formen los animalitos . 224896_226117
+%mor:	sconj|que pron|él-Prs-Acc-reflx-S3 verb|formar-Fin-Sub-Pres-P3 det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur .
+%gra:	1|3|MARK 2|3|EXPL-PV 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	que 224896_224976 se 225016_225096 formen 225136_225416 los 225436_225557 animalitos 225617_226117 .
+*CHI:	+< xxx .
+*MOT:	hay que formar los animalitos . 226258_227559
+%mor:	verb|haber-Fin-Ind-Pres-S3 sconj|que verb|formar-Inf-S det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+%wor:	hay 226258_226358 que 226398_226478 formar 226538_226859 los 226899_226999 animalitos 227059_227559 .
+%com:	mother sighs .
+*MOT:	uy . 231526_232026
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 231526_232026 .
+*MOT:	otro tigre . 231827_232647
+%mor:	det|otro-Masc-Def-Ind-Sing noun|tigre-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	otro 231827_232027 tigre 232147_232647 .
+*MOT:	uy ! 233349_233849
+%mor:	intj|uy !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 233349_233849 !
+*MOT:	este qué es ? 236590_237411
+%mor:	pron|este-Dem-S1 pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|COP 4|2|PUNCT
+%wor:	este 236590_236750 qué 236811_236911 es 236911_237411 ?
+*MOT:	otro gallo . 241363_242204
+%mor:	det|otro-Masc-Def-Ind-Sing noun|gallo-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	otro 241363_241624 gallo 241704_242204 .
+*MOT:	mira ! 242286_242786
+%mor:	verb|mirar-Fin-Ind-Pres-S !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 242286_242786 !
+*MOT:	otro gallito . 242947_243668
+%mor:	det|otro-Masc-Def-Ind-Sing noun|gallito-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	otro 242947_243128 gallito 243168_243668 .
+%com:	mother gasps .
+*MOT:	un león .
+%mor:	det|uno-Masc-Ind-Art-Sing noun|león-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	uy !
+%mor:	intj|uy !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	xxx .
+*MOT:	uy .
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother makes a noise and child screams .
+*CHI:	mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	cuál es tuyo ? 250940_251740
+%mor:	pron|cuál-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	cuál 250940_251080 es 251120_251200 tuyo 251240_251740 ?
+*CHI:	xxx mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child gets bag .
+*MOT:	ah ! 253101_253601
+%mor:	x|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ah 253101_253601 !
+*MOT:	mira . 253602_254102
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 253602_254102 .
+%com:	mother gasps .
+*MOT:	mira un borreguito . 255143_256243
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|borreguito-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	mira 255143_255603 un 255663_255723 borreguito 255743_256243 .
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	qué bonito ! 257264_257924
+%mor:	det|qué-Def-Int adj|bonito-S1 !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	qué 257264_257424 bonito 257424_257924 !
+*MOT:	hay más ahí ? 259566_260646
+%mor:	verb|haber-Fin-Ind-Pres-S3 adv|más adv|ahí ?
+%gra:	1|3|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%wor:	hay 259566_259766 más 259846_260066 ahí 260146_260646 ?
+*MOT:	uy .
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no [/] no me di cuenta . 260366_261867
+%mor:	adv|no pron|yo-Prs-Dat-S1 verb|dar-Fin-Ind-Past-S1 noun|cuenta-Fem .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|4|ROOT 4|3|COMPOUND 5|3|PUNCT
+%wor:	no 260366_260666 no 260706_260786 me 261107_261187 di 261227_261287 cuenta 261367_261867 .
+*CHI:	no . 261747_262247
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 261747_262247 .
+*CHI:	e(s) mío .
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|mío-Prs-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	[- eng] he(y) .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	es tuyo .
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	mío . 262027_262527
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mío 262027_262527 .
+*MOT:	mira . 264269_264769
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 264269_264769 .
+*MOT:	el borreguito . 266010_266590
+%mor:	det|el-Masc-Def-Art-Sing noun|borreguito-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	el 266010_266050 borreguito 266090_266590 .
+*MOT:	vente . 267432_267932
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 267432_267932 .
+*CHI:	hm !
+%mor:	intj|hm !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< mira . 269755_270255
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 269755_270255 .
+*MOT:	está bonito . 270896_271617
+%mor:	aux|estar-Fin-Ind-Pres-S3 adj|bonito-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	está 270896_271117 bonito 271117_271617 .
+*MOT:	con todo hilitos . 271838_273419
+%mor:	adp|con det|todo-Masc-Def-Tot-Sing noun|hilito-Masc-Plur .
+%gra:	1|3|CASE 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	con 271838_271978 todo 272098_272358 hilitos 272919_273419 .
+%com:	mother stutters hilitos .
+*MOT:	vente . 274261_274761
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 274261_274761 .
+*CHI:	no . 276304_276804
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 276304_276804 .
+*MOT:	ven .
+%mor:	x|ven .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	que vamos hacer un corralito . 276344_277365
+%mor:	pron|que-Rel-S1 verb|ir-Fin-Ind-Pres-P1 verb|hacer-Inf-S det|uno-Masc-Ind-Art-Sing noun|corralito-Masc-Acc .
+%gra:	1|2|MARK 2|5|ROOT 3|2|XCOMP 4|5|DET 5|3|OBJ 6|2|PUNCT
+%wor:	que 276344_276404 vamos 276404_276564 hacer 276564_276764 un 276784_276845 corralito 276865_277365 .
+*CHI:	no . 278487_278987
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 278487_278987 .
+*MOT:	no . 278707_279207
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 278707_279207 .
+*MOT:	por_favor .
+%mor:	noun|porfavor .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos hacer un corralito . 279368_280529
+%mor:	verb|ir-Fin-Ind-Pres-P1 verb|hacer-Inf-S det|uno-Masc-Ind-Art-Sing noun|corralito-Masc-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	vamos 279368_279769 hacer 279769_279949 un 279969_280009 corralito 280029_280529 .
+*CHI:	no . 281010_281510
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 281010_281510 .
+*MOT:	pa(ra) que los animalitos no salgan . 281651_283573
+%mor:	adp|para sconj|que det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur adv|no verb|salgar-Fin-Sub-Pres-P3 .
+%gra:	1|6|MARK 2|6|MARK 3|4|DET 4|6|NSUBJ 5|6|ADVMOD 6|6|ROOT 7|6|PUNCT
+%wor:	pa(ra) 281651_281811 que 281811_281891 los 282192_282312 animalitos 282372_282893 no 282933_282993 salgan 283073_283573 .
+*MOT:	no se escapen . 284035_284756
+%mor:	adv|no pron|él-Prs-Acc-reflx-S3 verb|escapar-Fin-Sub-Pres-P3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	no 284035_284115 se 284155_284216 escapen 284256_284756 .
+*CHI:	no . 284736_285236
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 284736_285236 .
+*MOT:	vente . 285398_285898
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 285398_285898 .
+*CHI:	no . 285718_286218
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 285718_286218 .
+*MOT:	<por qué> [/] por qué no ? 286940_288482
+%mor:	adp|por pron|qué-Int-S1 adv|no ?
+%gra:	1|2|CASE 2|3|NMOD 3|3|ROOT 4|3|PUNCT
+%wor:	por 286940_287061 qué 287121_287662 por 287662_287782 qué 287822_287982 no 287982_288482 ?
+%com:	mother starts to say a word before repetition .
+*CHI:	xxx .
+*MOT:	vente princesa . 290667_291528
+%mor:	noun|vente-Fem noun|princesa-Fem .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	vente 290667_290968 princesa 291028_291528 .
+*CHI:	no . 291529_292029
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 291529_292029 .
+*CHI:	hm@fp .
+%mor:	fp|hm .
+%gra:	1|1|FLAT 2|1|PUNCT
+*CHI:	mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	es tuyo ?
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*MOT:	todo es tuyo . 295720_296660
+%mor:	pron|todo-Tot-S1 aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 .
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	todo 295720_295980 es 296040_296120 tuyo 296160_296660 .
+*MOT:	todo . 296660_297160
+%mor:	pron|todo-Tot-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	todo 296660_297160 .
+*MOT:	vente . 299262_299762
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 299262_299762 .
+*CHI:	no . 300323_300823
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 300323_300823 .
+*MOT:	sacaste todos ? 302184_303144
+%mor:	verb|sacastar-Fin-Ind-Pres-S1 pron|todo-Tot-P1 ?
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	sacaste 302184_302584 todos 302644_303144 ?
+*CHI:	<no no no> [/] no . 303725_305126
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 303725_303825 no 304185_304265 no 304385_304466 no 304626_305126 .
+*MOT:	uy . 305306_305806
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 305306_305806 .
+*MOT:	una lagartija . 305626_306306
+%mor:	det|uno-Fem-Ind-Art-Sing noun|lagartija-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 305626_305766 lagartija 305806_306306 .
+*MOT:	uy . 306867_307367
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 306867_307367 .
+*MOT:	una lagartija . 307087_307847
+%mor:	det|uno-Fem-Ind-Art-Sing noun|lagartija-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 307087_307287 lagartija 307347_307847 .
+%com:	mother sniffles .
+*MOT:	vente . 308708_309208
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 308708_309208 .
+*MOT:	aquí . 311800_312300
+%mor:	adv|aquí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	aquí 311800_312300 .
+%com:	pause as mother moves toy .
+*MOT:	acá princesita . 318304_319064
+%mor:	adv|acá noun|princesita-Fem .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	acá 318304_318564 princesita 318564_319064 .
+*MOT:	acá .
+%mor:	adv|acá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	acá . 319725_320225
+%mor:	adv|acá .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	acá 319725_320225 .
+*MOT:	es un carro . 322127_322927
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|carro-Masc .
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	es 322127_322227 un 322267_322347 carro 322427_322927 .
+*MOT:	échalos aquí . 322847_326349
+%mor:	noun|échalo-Masc-Plur adv|aquí .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	échalos 322847_325789 aquí 325849_326349 .
+*MOT:	échalos aquí . 326920_327620
+%mor:	noun|échalo-Masc-Plur adv|aquí .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	échalos 326920_327120 aquí 327120_327620 .
+*MOT:	ese es un corral . 330082_330962
+%mor:	pron|ese-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|corral-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	ese 330082_330162 es 330182_330262 un 330322_330402 corral 330462_330962 .
+*MOT:	es un corral para que no se escapen los animalitos Brianna . 331223_333865
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|corral-Masc adp|para sconj|que adv|no pron|él-Prs-Acc-reflx-S3 verb|escapar-Fin-Sub-Pres-P3 det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur propn|brianna .
+%gra:	1|3|COP 2|3|DET 3|11|ROOT 4|8|MARK 5|8|MARK 6|8|ADVMOD 7|8|EXPL-PV 8|3|ADVCL 9|10|DET 10|8|NSUBJ 11|10|APPOS 12|3|PUNCT
+%wor:	es 331223_331303 un 331363_331423 corral 331463_331743 para 331783_331903 que 331923_332003 no 332043_332084 se 332124_332184 escapen 332224_332544 los 332564_332664 animalitos 332724_333324 Brianna 333365_333865 .
+%com:	child tries to fix fence .
+*MOT:	qué vas hacer ? 339229_340029
+%mor:	pron|qué-Int-S1 verb|ir-Fin-Ind-Pres-S1 verb|hacer-Inf-S ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%wor:	qué 339229_339329 vas 339329_339509 hacer 339529_340029 ?
+*MOT:	así . 344000_344500
+%mor:	adv|así .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	así 344000_344500 .
+*MOT:	mira Brianna . 344320_345040
+%mor:	propn|mira-Nom propn|Brianna-Nom .
+%gra:	1|2|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+%wor:	mira 344320_344500 Brianna 344540_345040 .
+*MOT:	así .
+%mor:	adv|así .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a cerrar . 345702_346563
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|cerrar-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	vamos 345702_345922 a 345982_346003 cerrar 346063_346563 .
+*MOT:	y vamos a echar a los animalitos para que no se escape(n) . 347465_350107
+%mor:	cconj|y verb|ir-Fin-Ind-Pres-P1 adp|a verb|echar-Inf-S adp|a det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur-Acc adp|para sconj|que adv|no pron|él-Prs-Acc-reflx-S3 verb|escapar-Fin-Sub-Pres-P3 .
+%gra:	1|2|CC 2|12|ROOT 3|4|MARK 4|2|XCOMP 5|7|CASE 6|7|DET 7|4|OBJ 8|12|MARK 9|12|MARK 10|12|ADVMOD 11|12|EXPL-PV 12|4|ADVCL 13|2|PUNCT
+%wor:	y 347465_347485 vamos 347605_347805 a 347805_347825 echar 347825_348025 a 348025_348045 los 348045_348165 animalitos 348246_348987 para 349047_349187 que 349207_349287 no 349327_349407 se 349467_349547 escape(n) 349607_350107 .
+*MOT:	es hora de dormir . 351009_352050
+%mor:	aux|ser-Fin-Ind-Pres-S3 noun|hora-Fem adp|de verb|dormir-Inf-S .
+%gra:	1|2|COP 2|4|ROOT 3|4|MARK 4|2|ACL 5|2|PUNCT
+%wor:	es 351009_351130 hora 351170_351330 de 351390_351470 dormir 351550_352050 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a echar cuáles ? 354534_355755
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|echar-Inf-S pron|cuál-Int-P1 ?
+%gra:	1|4|ROOT 2|3|MARK 3|1|XCOMP 4|1|OBJ 5|1|PUNCT
+%wor:	vamos 354534_354735 a 354735_354755 echar 354775_355135 cuáles 355255_355755 ?
+*CHI:	no [/] no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< este eh@fp esto va a dentro . 356897_357958
+%mor:	det|este-Masc-Def-Dem-Sing fp|eh pron|este-Dem-S1 verb|ir-Fin-Ind-Pres-S3 adp|a adv|dentro .
+%gra:	1|2|DET 2|4|FLAT 3|4|NSUBJ 4|6|ROOT 5|6|CASE 6|4|ADVMOD 7|4|PUNCT
+%wor:	este 356897_357138 eh@fp 357158_357258 esto 357278_357378 va 357378_357418 a 357438_357458 dentro 357458_357958 .
+*MOT:	un borreguito . 357679_358239
+%mor:	det|uno-Masc-Ind-Art-Sing noun|borreguito-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 357679_357719 borreguito 357739_358239 .
+*CHI:	0 &=points .
+*MOT:	este es un patito . 361110_361990
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|patito-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	este 361110_361270 es 361290_361330 un 361390_361450 patito 361490_361990 .
+*MOT:	qué más ? 363632_364272
+%mor:	pron|qué-Int-S1 adv|más ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	qué 363632_363772 más 363772_364272 ?
+*MOT:	<qué más> [/] qué más ? 365793_367094
+%mor:	pron|qué-Int-S1 adv|más ?
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	qué 365793_366034 más 366034_366314 qué 366414_366594 más 366594_367094 ?
+*MOT:	el gallo se sube aquí . 368856_370296
+%mor:	det|el-Masc-Def-Art-Sing noun|gallo-Masc pron|él-Prs-Acc-reflx-S3 verb|subir-Fin-Ind-Pres-S3 adv|aquí .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|EXPL-PV 4|5|ROOT 5|4|ADVMOD 6|4|PUNCT
+%wor:	el 368856_368956 gallo 368996_369316 se 369376_369476 sube 369536_369776 aquí 369796_370296 .
+*MOT:	aquí duerme . 370077_370857
+%mor:	adv|aquí verb|dormir-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	aquí 370077_370357 duerme 370357_370857 .
+*CHI:	+< 0 [=! places toys] .
+%com:	mother gasps .
+*MOT:	los echaste todos . 372018_373239
+%mor:	pron|él-Prs-Acc-P3 verb|echastar-Fin-Ind-Pres-S1 pron|todo-Tot-P1 .
+%gra:	1|2|OBJ 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	los 372018_372158 echaste 372198_372639 todos 372739_373239 .
+*MOT:	todos . 373499_373999
+%mor:	pron|todo-Tot-P1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	todos 373499_373999 .
+*MOT:	hm ?
+%mor:	intj|hm ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	este es cebra ? 377870_378610
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 noun|cebra-Fem ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	este 377870_378010 es 378070_378110 cebra 378110_378610 ?
+*MOT:	este va aquí . 380752_381632
+%mor:	pron|este-Dem-S1 verb|ir-Fin-Ind-Pres-S3 adv|aquí .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	este 380752_380932 va 380992_381092 aquí 381132_381632 .
+*MOT:	esto también acá en el mar . 384435_386796
+%mor:	pron|este-Dem-S1 adv|también adv|acá adp|en det|el-Masc-Def-Art-Sing noun|mar .
+%gra:	1|6|ROOT 2|3|ADVMOD 3|1|ADVMOD 4|6|CASE 5|6|DET 6|3|NMOD 7|1|PUNCT
+%wor:	esto 384435_384655 también 384735_385055 acá 385095_385976 en 385976_386076 el 386116_386216 mar 386296_386796 .
+*MOT:	este también . 390139_391159
+%mor:	det|este-Masc-Def-Dem-Sing adv|también .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	este 390139_390539 también 390659_391159 .
+*MOT:	a ver . 394560_395180
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 394560_394580 ver 394680_395180 .
+*MOT:	echa todos los animalitos para que no se escapen princesa . 395721_398424
+%mor:	verb|echar-Fin-Ind-Pres-S3 det|todo-Masc-Def-Tot-Plur det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur-Acc adp|para sconj|que adv|no pron|él-Prs-Acc-reflx-S3 verb|escapar-Fin-Sub-Pres-P3 noun|princesa-Fem-Acc .
+%gra:	1|10|ROOT 2|3|DET 3|4|DET 4|1|OBJ 5|9|MARK 6|5|FIXED 7|9|ADVMOD 8|9|EXPL-PV 9|1|ADVCL 10|9|OBJ 11|1|PUNCT
+%wor:	echa 395721_395882 todos 395962_396122 los 396122_396222 animalitos 396302_396843 para 396883_397003 que 397023_397103 no 397143_397223 se 397283_397384 escapen 397424_397904 princesa 397924_398424 .
+%com:	mother gasps .
+*MOT:	todos los animalitos encimados ? 399326_400988
+%mor:	det|todo-Masc-Def-Tot-Plur det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur adj|encimado-P1 ?
+%gra:	1|2|DET 2|3|DET 3|4|ROOT 4|3|AMOD 5|3|PUNCT
+%wor:	todos 399326_399587 los 399627_399767 animalitos 399847_400428 encimados 400488_400988 ?
+*CHI:	0 [=! places toy] .
+*MOT:	y este qué es ? 401970_402850
+%mor:	cconj|y pron|este-Dem-S1 pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|COP 5|3|PUNCT
+%wor:	y 401970_401990 este 401990_402190 qué 402250_402350 es 402350_402850 ?
+*MOT:	xxx .
+%com:	mother gasps .
+*MOT:	y este qué es ? 404774_408057
+%mor:	cconj|y pron|este-Dem-S1 pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|COP 5|3|PUNCT
+%wor:	y 404774_404794 este 404794_407377 qué 407457_407557 es 407557_408057 ?
+*MOT:	un oso . 408719_409319
+%mor:	det|uno-Masc-Ind-Art-Sing noun|oso-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 408719_408779 oso 408819_409319 .
+*MOT:	uy .
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	<el oso el oso> [/] el oso . 409780_411361
+%mor:	det|el-Masc-Def-Art-Sing noun|oso-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	el 409780_409900 oso 409960_410240 el 410320_410441 oso 410481_410741 el 410761_410821 oso 410861_411361 .
+*MOT:	un osito . 411843_412543
+%mor:	det|uno-Masc-Ind-Art-Sing noun|osito-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	un 411843_411923 osito 412043_412543 .
+%com:	mother gasps before the last utterance .
+*MOT:	el oso va a fuera porque se lo va comer los borreguitos . 413264_415887
+%mor:	det|el-Masc-Def-Art-Sing noun|oso-Masc verb|ir-Fin-Ind-Pres-S3 adp|a adv|fuera sconj|porque pron|él-Prs-Acc-reflx-S3 pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S3 verb|comer-Inf-S det|el-Masc-Def-Art-Plur noun|borreguito-Masc-Plur-Acc .
+%gra:	1|2|DET 2|3|NSUBJ 3|12|ROOT 4|5|CASE 5|3|ADVMOD 6|9|MARK 7|9|EXPL-PV 8|9|OBJ 9|3|ADVCL 10|9|XCOMP 11|12|DET 12|10|OBJ 13|3|PUNCT
+%wor:	el 413264_413305 oso 413385_413585 va 413625_413725 a 413785_413805 fuera 413905_414266 porque 414406_414606 se 414626_414686 lo 414726_414786 va 414807_414867 comer 414947_415187 los 415227_415347 borreguitos 415387_415887 .
+*MOT:	ese elefante . 416929_417610
+%mor:	det|ese-Masc-Def-Dem-Sing noun|elefante-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	ese 416929_417070 elefante 417110_417610 .
+%com:	mother sniffles .
+*MOT:	el puerquito .
+%mor:	det|el-Masc-Def-Art-Sing noun|puerquito-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	qué vas hacer ? 421756_424759
+%mor:	pron|qué-Int-S1 verb|ir-Fin-Ind-Pres-S1 verb|hacer-Inf-S ?
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|XCOMP 4|2|PUNCT
+%wor:	qué 421756_424119 vas 424119_424259 hacer 424259_424759 ?
+%com:	child tries to fix fence .
+*CHI:	nada .
+%mor:	pron|nada-Neg-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	lo vas a encerrar ? 429860_430720
+%mor:	pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S1 adp|a verb|encerrar-Inf-S ?
+%gra:	1|2|OBJ 2|4|ROOT 3|4|MARK 4|2|XCOMP 5|2|PUNCT
+%wor:	lo 429860_429940 vas 429960_430120 a 430160_430180 encerrar 430220_430720 ?
+%com:	mother stutters encerrar .
+*MOT:	eh@fp .
+%mor:	fp|eh .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	así .
+%mor:	adv|así .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	bravo !
+%mor:	adj|bravo-S1 !
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother gasps .
+*MOT:	ya lo cerraste . 431623_436509
+%mor:	adv|ya pron|él-Prs-Acc-S3 verb|cerrar-Fin-Ind-Pres-S1 .
+%gra:	1|3|ADVMOD 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%wor:	ya 431623_432344 lo 435829_435909 cerraste 436009_436509 .
+*MOT:	cómo se van a escapar ahora ? 436630_437991
+%mor:	pron|cómo-Ind-S1 pron|él-Prs-Acc-reflx-S3 verb|ir-Fin-Ind-Pres-P3 adp|a verb|escapar-Inf-S adv|ahora ?
+%gra:	1|3|ADVMOD 2|5|EXPL-PV 3|6|ROOT 4|5|MARK 5|3|XCOMP 6|3|ADVMOD 7|3|PUNCT
+%wor:	cómo 436630_436770 se 436810_436870 van 436890_437051 a 437051_437071 escapar 437091_437491 ahora 437491_437991 ?
+*MOT:	no se pueden escapar . 438613_439714
+%mor:	adv|no pron|él-Prs-Acc-reflx-S3 aux|poder-Fin-Ind-Pres-P3 verb|escapar-Inf-S .
+%gra:	1|4|ADVMOD 2|4|EXPL-PV 3|4|AUX 4|4|ROOT 5|4|PUNCT
+%wor:	no 438613_438693 se 438753_438833 pueden 438893_439174 escapar 439214_439714 .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	lo vamos acomodar porque esto está como chueco . 440997_443259
+%mor:	pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-P1 verb|acomodar-Inf-S sconj|porque pron|este-Dem-S1 aux|estar-Fin-Ind-Pres-S3 sconj|como noun|chueco-Masc .
+%gra:	1|2|OBJ 2|8|ROOT 3|2|XCOMP 4|6|MARK 5|6|NSUBJ 6|2|ADVCL 7|8|CASE 8|6|OBL 9|2|PUNCT
+%wor:	lo 440997_441097 vamos 441097_441257 acomodar 441297_441798 porque 441858_442058 esto 442118_442258 está 442278_442499 como 442499_442679 chueco 442759_443259 .
+%com:	mother tries to fix fence and then there is a long pause .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	echa los animalitos ahí &=points . 452280_453761
+%mor:	verb|echar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur-Acc adv|ahí .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+%wor:	echa 452280_452440 los 452500_452600 animalitos 452660_453201 ahí 453261_453761 .
+*MOT:	échalos .
+%mor:	noun|échalo-Masc-Plur .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	échalos princesa . 453981_457284
+%mor:	noun|échalo-Masc-Plur noun|princesa-Fem .
+%gra:	1|2|ROOT 2|1|APPOS 3|1|PUNCT
+%wor:	échalos 453981_454502 princesa 456784_457284 .
+%com:	mother gasps .
+*MOT:	todos ? 460547_461047
+%mor:	pron|todo-Tot-P1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	todos 460547_461047 ?
+*MOT:	uno por uno Brianna . 462549_463309
+%mor:	pron|uno-Ind-S1 adp|por det|uno-Masc-Ind-Art-Sing propn|brianna .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	uno 462549_462689 por 462689_462749 uno 462749_462809 Brianna 462809_463309 .
+*CHI:	0 [=! places toy] .
+*MOT:	uno por uno . 467410_468470
+%mor:	pron|uno-Ind-S1 adp|por pron|uno-Ind-S1 .
+%gra:	1|3|ROOT 2|3|CASE 3|1|NMOD 4|1|PUNCT
+%wor:	uno 467410_467590 por 467690_467870 uno 467970_468470 .
+*MOT:	wuau .
+%mor:	propn|wuau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	los animalitos están encimados . 470251_471772
+%mor:	det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur aux|estar-Fin-Ind-Pres-P3 adj|encimado-P1 .
+%gra:	1|2|DET 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	los 470251_470412 animalitos 470472_471012 están 471012_471212 encimados 471272_471772 .
+*MOT:	ves ? 472113_472613
+%mor:	verb|ver-Fin-Ind-Pres-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ves 472113_472613 ?
+%com:	pause .
+*MOT:	arrímate más para allá . 472633_482579
+%mor:	noun|arrímate-Masc adv|más adp|para adv|allá .
+%gra:	1|4|ROOT 2|1|ADVMOD 3|4|CASE 4|1|ADVMOD 5|1|PUNCT
+%wor:	arrímate 472633_481759 más 481799_481899 para 481939_482059 allá 482079_482579 .
+*MOT:	ve la cámara . 482540_483280
+%mor:	verb|ver-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|cámara-Fem-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	ve 482540_482600 la 482660_482740 cámara 482780_483280 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no ?
+%mor:	adv|no ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	[- eng] he(y) .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	es mío .
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|mío-Prs-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*MOT:	+< [- eng] hey !
+%mor:	intj|hey !
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	pause .
+*MOT:	vente [/] vente para acá . 484401_497069
+%mor:	noun|vente-Fem adp|para adv|acá .
+%gra:	1|3|ROOT 2|3|CASE 3|1|ADVMOD 4|1|PUNCT
+%wor:	vente 484401_495448 vente 495648_496229 para 496349_496529 acá 496569_497069 .
+*MOT:	vamos para acá . 496889_497729
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|para adv|acá .
+%gra:	1|3|ROOT 2|3|CASE 3|1|ADVMOD 4|1|PUNCT
+%wor:	vamos 496889_497089 para 497109_497209 acá 497229_497729 .
+*MOT:	para que haya más espacio aquí Brianna . 499390_500951
+%mor:	adp|para sconj|que verb|haber-Fin-Sub-Pres-S3 adv|más noun|espacio-Masc-Acc adv|aquí propn|brianna-Acc .
+%gra:	1|3|MARK 2|3|MARK 3|7|ROOT 4|5|ADVMOD 5|3|OBJ 6|3|ADVMOD 7|3|OBJ 8|3|PUNCT
+%wor:	para 499390_499470 que 499470_499530 haya 499530_499610 más 499610_499710 espacio 499710_500151 aquí 500191_500451 Brianna 500451_500951 .
+%com:	mother mispronounces haya .
+*MOT:	vente . 500872_501372
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 500872_501372 .
+%com:	mother gasps .
+*MOT:	todos solo [//] los animalitos ahí ? 502795_504597
+%mor:	det|todo-Masc-Def-Tot-Plur det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur adv|ahí ?
+%gra:	1|2|DET 2|3|DET 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	todos 502795_503055 solo 503076_503176 los 503176_503296 animalitos 503356_504037 ahí 504097_504597 ?
+*MOT:	todos ? 505600_506100
+%mor:	pron|todo-Tot-P1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	todos 505600_506100 ?
+*MOT:	ay . 507102_507602
+%mor:	x|ay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ay 507102_507602 .
+*MOT:	sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y lo llenaste . 507703_508483
+%mor:	cconj|y pron|él-Prs-Acc-S3 verb|llenar-Fin-Ind-Pres-S1 .
+%gra:	1|3|CC 2|3|OBJ 3|3|ROOT 4|3|PUNCT
+%wor:	y 507703_507723 lo 507883_507963 llenaste 507983_508483 .
+%com:	mother sighs .
+*MOT:	lo llenaste Brianna . 510167_511769
+%mor:	pron|él-Prs-Acc-S3 verb|llenar-Fin-Ind-Pres-S1 propn|brianna .
+%gra:	1|2|OBJ 2|3|ROOT 3|2|NSUBJ 4|2|PUNCT
+%wor:	lo 510167_510247 llenaste 510307_511129 Brianna 511269_511769 .
+*CHI:	+< xxx .
+*CHI:	0 [=! animal noises] .
+*MOT:	xxx .
+*CHI:	ma(má) .
+%mor:	x|mamá .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	huh ?
+%mor:	propn|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	esta [=! gestures] .
+%mor:	pron|este-Dem-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	qué es ? 517480_521903
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|2|ROOT 2|1|COP 3|1|PUNCT
+%wor:	qué 517480_521403 es 521403_521903 ?
+%com:	child and mother gasps .
+*MOT:	una ballena .
+%mor:	det|uno-Fem-Ind-Art-Sing noun|ballena-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother sighs .
+*MOT:	a ver . 523465_524045
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 523465_523485 ver 523545_524045 .
+*MOT:	así ? 524806_525306
+%mor:	adv|así ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	así 524806_525306 ?
+%com:	mother gasps .
+*CHI:	ahí (es)tá .
+%mor:	adv|ahí verb|estar-Fin-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+*CHI:	xxx .
+*MOT:	+< sí [/] sí . 528029_529309
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	sí 528029_528809 sí 528809_529309 .
+*CHI:	yey .
+%mor:	intj|yey .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child laughs .
+*MOT:	yey !
+%mor:	intj|yey !
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	whoa .
+%mor:	intj|whoa .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	huh ?
+%mor:	propn|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mi xxx .
+%mor:	pron|mi-Prs-Nom-P1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	xxx .
+*MOT:	+< se fue ? 537160_537860
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|ser-Fin-Ind-Past-S3 ?
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+%wor:	se 537160_537240 fue 537360_537860 ?
+*CHI:	ya .
+%mor:	adv|ya .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	se pegaron ? 544010_544670
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|pegar-Fin-Ind-Past-P3 ?
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+%wor:	se 544010_544110 pegaron 544170_544670 ?
+%com:	child struggles .
+*MOT:	se pegó . 545552_546212
+%mor:	pron|él-Prs-Acc-reflx-S3 verb|pegar-Fin-Ind-Past-S3 .
+%gra:	1|2|EXPL-PV 2|2|ROOT 3|2|PUNCT
+%wor:	se 545552_545632 pegó 545712_546212 .
+*MOT:	a ver . 545912_546493
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 545912_545933 ver 545993_546493 .
+*MOT:	no . 546894_547394
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 546894_547394 .
+*MOT:	no se pegan . 547174_548035
+%mor:	adv|no pron|él-Prs-Acc-reflx-S3 verb|pegar-Fin-Ind-Pres-P3 .
+%gra:	1|3|ADVMOD 2|3|EXPL-PV 3|3|ROOT 4|3|PUNCT
+%wor:	no 547174_547274 se 547355_547455 pegan 547535_548035 .
+*CHI:	xxx .
+*MOT:	qué ? 550299_550799
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	qué 550299_550799 ?
+*MOT:	aquí [/] aquí para +... 551970_553030
+%mor:	adv|aquí adp|para +...
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	aquí 551970_552270 aquí 552270_552530 para 552530_553030 +...
+*MOT:	a ver qué animales van en el agua ? 552930_554471
+%mor:	adp|a verb|ver-Inf-S det|qué-Def-Int noun|animal-Masc-Plur verb|ir-Fin-Ind-Pres-P3 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem ?
+%gra:	1|2|MARK 2|8|ROOT 3|4|DET 4|5|NSUBJ 5|2|CCOMP 6|8|CASE 7|8|DET 8|5|OBL 9|2|PUNCT
+%wor:	a 552930_552950 ver 552990_553090 qué 553130_553231 animales 553231_553611 van 553651_553731 en 553751_553811 el 553831_553931 agua 553971_554471 ?
+*MOT:	a ver . 555452_556052
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 555452_555472 ver 555552_556052 .
+*MOT:	esto va en el agua [=! gestures] . 555792_556993
+%mor:	pron|este-Dem-S1 verb|ir-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|agua-Fem .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	esto 555792_556032 va 556073_556153 en 556193_556233 el 556273_556413 agua 556493_556993 .
+*MOT:	esto también . 557894_558794
+%mor:	pron|este-Dem-S1 adv|también .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	esto 557894_558214 también 558294_558794 .
+*MOT:	esto va eh@fp aquí en la tierra . 559835_562377
+%mor:	pron|este-Dem-S1 verb|ir-Fin-Ind-Pres-S3 fp|eh adv|aquí adp|en det|el-Fem-Def-Art-Sing noun|tierra-Fem .
+%gra:	1|2|NSUBJ 2|7|ROOT 3|2|FLAT 4|2|ADVMOD 5|7|CASE 6|7|DET 7|2|OBL 8|2|PUNCT
+%wor:	esto 559835_560115 va 560215_560315 eh@fp 560616_560736 aquí 560736_561576 en 561576_561656 la 561676_561756 tierra 561877_562377 .
+*MOT:	esto para el bosque . 563378_564618
+%mor:	pron|este-Dem-S1 adp|para det|el-Masc-Def-Art-Sing noun|bosque-Masc .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	esto 563378_563658 para 563738_563898 el 563938_564018 bosque 564118_564618 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	estos son para el bosque Brianna . 565559_566479
+%mor:	pron|este-Dem-P1 aux|ser-Fin-Ind-Pres-P3 adp|para det|el-Masc-Def-Art-Sing noun|bosque-Masc propn|brianna .
+%gra:	1|2|NSUBJ 2|6|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|5|APPOS 7|2|PUNCT
+%wor:	estos 565559_565659 son 565679_565739 para 565739_565819 el 565819_565859 bosque 565859_565979 Brianna 565979_566479 .
+*CHI:	+< xxx .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< vamos a buscar los animalitos que van <para bos(que)> [//] en el bosque . 567730_570352
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|buscar-Inf-S det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur-Acc pron|que-Rel-S1 verb|ir-Fin-Ind-Pres-P3 adp|en det|el-Masc-Def-Art-Sing noun|bosque-Masc .
+%gra:	1|10|ROOT 2|3|MARK 3|1|XCOMP 4|5|DET 5|3|OBJ 6|7|MARK 7|5|ACL-RELCL 8|10|CASE 9|10|DET 10|7|OBL 11|1|PUNCT
+%wor:	vamos 567730_567890 a 567950_567970 buscar 567990_568190 los 568230_568330 animalitos 568370_568851 que 568871_568931 van 568971_569051 para 569051_569191 bos(que) 569271_569671 en 569671_569731 el 569751_569832 bosque 569852_570352 .
+%com:	mother gasps .
+*MOT:	ellos viven en el bosque . 570652_571853
+%mor:	pron|él-Prs-AccNom-P3 verb|vivir-Fin-Ind-Pres-P3 adp|en det|el-Masc-Def-Art-Sing noun|bosque-Masc .
+%gra:	1|2|NSUBJ 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	ellos 570652_570832 viven 570852_571093 en 571113_571193 el 571213_571313 bosque 571353_571853 .
+*CHI:	+< no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a ver . 571933_572834
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|ver-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	vamos 571933_572214 a 572254_572274 ver 572334_572834 .
+*MOT:	mira .
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	esto sobre la tierra . 573995_575976
+%mor:	pron|este-Dem-S1 adp|sobre det|el-Fem-Def-Art-Sing noun|tierra-Fem .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	esto 573995_574395 sobre 574656_574956 la 575056_575136 tierra 575476_575976 .
+%com:	child is playing by herself with toy .
+*MOT:	Brianna ! 577138_577638
+%mor:	propn|Brianna-Nom !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Brianna 577138_577638 !
+*MOT:	esto en el mar . 578459_579639
+%mor:	pron|este-Dem-S1 adp|en det|el-Masc-Def-Art-Sing noun|mar .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	esto 578459_578719 en 578759_578839 el 578899_579019 mar 579139_579639 .
+%com:	mother gasps .
+*CHI:	xxx .
+*MOT:	+< esto también . 583850_584690
+%mor:	pron|este-Dem-S1 adv|también .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	esto 583850_584110 también 584190_584690 .
+*MOT:	coyote . 584490_584990
+%mor:	noun|coyote .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	coyote 584490_584990 .
+*MOT:	mira el coyote [=! gestures] . 585511_586291
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|coyote-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	mira 585511_585691 el 585711_585751 coyote 585791_586291 .
+*MOT:	coyote mira . 586591_587892
+%mor:	noun|coyote-Masc verb|mirar-Fin-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	coyote 586591_587292 mira 587392_587892 .
+*MOT:	ves ? 587672_588172
+%mor:	verb|ver-Fin-Ind-Pres-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ves 587672_588172 ?
+*MOT:	coyote . 588653_589153
+%mor:	noun|coyote .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	coyote 588653_589153 .
+*MOT:	0 [=! animal noises] .
+%com:	child takes toy and mother gasps .
+*MOT:	vente . 589754_590254
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 589754_590254 .
+%com:	mother sniffles .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	(es)tá para acá . 601340_602180
+%mor:	aux|estar-Fin-Ind-Pres-S3 adp|para adv|acá .
+%gra:	1|3|ROOT 2|3|CASE 3|1|ADVMOD 4|1|PUNCT
+%wor:	(es)tá 601340_601480 para 601480_601640 acá 601680_602180 .
+*MOT:	es que +... 602221_602821
+%mor:	aux|ser-Fin-Ind-Pres-S3 sconj|que +...
+%gra:	1|2|ROOT 2|1|PUNCT 3|1|PUNCT
+%wor:	es 602221_602281 que 602321_602821 +...
+*MOT:	de este lado Brianna . 602661_603742
+%mor:	adp|de det|este-Masc-Def-Dem-Sing noun|lado-Masc propn|brianna .
+%gra:	1|3|CASE 2|3|DET 3|4|ROOT 4|3|APPOS 5|3|PUNCT
+%wor:	de 602661_602761 este 602781_602922 lado 602982_603202 Brianna 603242_603742 .
+%com:	mother moves toys close to child .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother gasps .
+*MOT:	esta es la tierra . 608569_610732
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|tierra-Fem .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+%wor:	esta 608569_609871 es 609911_609991 la 610051_610111 tierra 610232_610732 .
+*MOT:	<vamos a> [//] los vamos a poner los animalitos que van en el bosque . 612134_615097
+%mor:	pron|él-Prs-Acc-P3 verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S det|el-Masc-Def-Art-Plur noun|animalito-Masc-Plur-Acc pron|que-Rel-S1 verb|ir-Fin-Ind-Pres-P3 adp|en det|el-Masc-Def-Art-Sing noun|bosque-Masc .
+%gra:	1|2|OBJ 2|11|ROOT 3|4|MARK 4|2|XCOMP 5|6|DET 6|4|OBJ 7|8|MARK 8|6|ACL-RELCL 9|11|CASE 10|11|DET 11|8|OBL 12|2|PUNCT
+%wor:	vamos 612134_612354 a 612415_612435 los 612795_612915 vamos 612935_613135 a 613176_613196 poner 613236_613416 los 613436_613536 animalitos 613596_614157 que 614197_614257 van 614297_614397 en 614397_614437 el 614457_614557 bosque 614597_615097 .
+*MOT:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	que vive en el bosque . 615459_616479
+%mor:	pron|que-Rel-S1 verb|vivir-Fin-Ind-Pres-S3 adp|en det|el-Masc-Def-Art-Sing noun|bosque-Masc .
+%gra:	1|2|MARK 2|5|ROOT 3|5|CASE 4|5|DET 5|2|OBL 6|2|PUNCT
+%wor:	que 615459_615539 vive 615579_615759 en 615819_615859 el 615879_615959 bosque 615979_616479 .
+*MOT:	aquí [/] aquí . 617230_617810
+%mor:	adv|aquí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	aquí 617230_617310 aquí 617310_617810 .
+%com:	long pause .
+*MOT:	esto aquí . 624636_625456
+%mor:	pron|este-Dem-S1 adv|aquí .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	esto 624636_624916 aquí 624956_625456 .
+*MOT:	esto xxx aquí . 626457_627818
+%mor:	pron|este-Dem-S1 adv|aquí .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	esto 626457_626657 aquí 627318_627818 .
+*CHI:	ah ! 628219_628719
+%mor:	x|ah !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ah 628219_628719 !
+*MOT:	esto en el mar . 628319_629539
+%mor:	pron|este-Dem-S1 adp|en det|el-Masc-Def-Art-Sing noun|mar .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|NMOD 5|1|PUNCT
+%wor:	esto 628319_628699 en 628759_628819 el 628879_628979 mar 629039_629539 .
+%com:	mother sniffles and child gasps .
+*MOT:	a ver . 634420_635020
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	a 634420_634440 ver 634520_635020 .
+%com:	mother and child gasp .
+*MOT:	esto aquí también . 637305_638466
+%mor:	pron|este-Dem-S1 adv|aquí adv|también .
+%gra:	1|3|ROOT 2|1|ADVMOD 3|1|ADVMOD 4|1|PUNCT
+%wor:	esto 637305_637646 aquí 637686_637966 también 637966_638466 .
+*MOT:	esto aquí . 639028_639849
+%mor:	pron|este-Dem-S1 adv|aquí .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	esto 639028_639309 aquí 639349_639849 .
+*MOT:	esto aquí . 639629_642374
+%mor:	pron|este-Dem-S1 adv|aquí .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	esto 639629_641853 aquí 641874_642374 .
+*MOT:	y esto qué es ? 642094_645099
+%mor:	cconj|y pron|este-Dem-S1 pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 ?
+%gra:	1|3|CC 2|3|NSUBJ 3|4|ROOT 4|3|COP 5|3|PUNCT
+%wor:	y 642094_642114 esto 642134_643577 qué 643637_644599 es 644599_645099 ?
+%com:	long pause .
+*MOT:	y qué es esto ? 649982_650705
+%mor:	cconj|y pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|este-Dem-S1 ?
+%gra:	1|4|CC 2|4|NSUBJ 3|4|COP 4|4|ROOT 5|4|PUNCT
+%wor:	y 649982_650002 qué 650063_650144 es 650144_650185 esto 650205_650705 ?
+%com:	long pause .
+*CHI:	xxx .
+*MOT:	uy !
+%mor:	intj|uy !
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child laughs .
+*CHI:	xxx (es)tá .
+%mor:	aux|estar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	huh ?
+%mor:	propn|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	esto va aquí . 650326_650968
+%mor:	pron|este-Dem-S1 verb|ir-Fin-Ind-Pres-S3 adv|aquí .
+%gra:	1|2|NSUBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	esto 650326_650408 va 650408_650448 aquí 650468_650968 .
+%com:	child screams during last utterance and then gasps .
+*MOT:	uy . 666570_667070
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	uy 666570_667070 .
+*MOT:	borreguito .
+%mor:	noun|borreguito-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	hay que encerrar al borreguito . 668372_669393
+%mor:	verb|haber-Fin-Ind-Pres-S3 sconj|que verb|encerrar-Inf-S adp|al noun|borreguito-Masc-Acc .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|5|CASE 5|3|OBJ 6|1|PUNCT
+%wor:	hay 668372_668452 que 668492_668552 encerrar 668572_668813 al 668833_668873 borreguito 668893_669393 .
+*MOT:	el borreguito .
+%mor:	det|el-Masc-Def-Art-Sing noun|borreguito-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*CHI:	+< es(tá) .
+%mor:	aux|estar-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vente .
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child moves to another side of the room .
+*MOT:	el borreguito aquí . 670335_672657
+%mor:	det|el-Masc-Def-Art-Sing noun|borreguito-Masc adv|aquí .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	el 670335_670375 borreguito 670415_671476 aquí 672157_672657 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child screams before last utterance .
+*CHI:	xxx .
+%com:	more than two unintelligible words spoken .
+*MOT:	+< huh ?
+%mor:	propn|huh ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vente . 679388_679888
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 679388_679888 .
+*MOT:	aquí Brianna . 679868_680909
+%mor:	adv|aquí propn|brianna .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	aquí 679868_680409 Brianna 680409_680909 .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ven acá . 682730_683490
+%mor:	verb|ver-Fin-Ind-Pres-P3 adv|acá .
+%gra:	1|2|ROOT 2|1|ADVMOD 3|1|PUNCT
+%wor:	ven 682730_682950 acá 682990_683490 .
+*CHI:	hm@fp .
+%mor:	fp|hm .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	vente . 687356_687856
+%mor:	verb|ventar-Fin-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	vente 687356_687856 .
+%com:	mother sniffles .
+*MOT:	ven Brianna .
+%mor:	propn|ven-Nom propn|Brianna-Nom .
+%gra:	1|2|ROOT 2|1|FLAT-NAME 3|1|PUNCT
+*CHI:	xxx .
+*CHI:	no .
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother interacts with examiner .
+*MOT:	ayúdame a echar estos aquí [=! gestures] . 687637_697129
+%mor:	verb|ayúdamar-Fin-Ind-Pres-S1 adp|a verb|echar-Inf-S pron|este-Dem-P1 adv|aquí .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|3|ADVMOD 6|1|PUNCT
+%wor:	ayúdame 687637_696089 a 696129_696149 echar 696149_696329 estos 696369_696609 aquí 696629_697129 .
+*MOT:	Brianna ! 697380_697880
+%mor:	propn|Brianna-Nom !
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	Brianna 697380_697880 !
+*MOT:	uy .
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	vamos a echar estos aquí . 698661_699842
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|echar-Inf-S pron|este-Dem-P1 adv|aquí .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|1|ADVMOD 6|1|PUNCT
+%wor:	vamos 698661_698861 a 698861_698881 echar 698881_699102 estos 699142_699322 aquí 699342_699842 .
+*MOT:	corre .
+%mor:	verb|correr-Fin-Ind-Pres-S3 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother gasps .
+*MOT:	vamos a echar esto aquí . 700343_701484
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|echar-Inf-S pron|este-Dem-S1 adv|aquí .
+%gra:	1|5|ROOT 2|3|MARK 3|1|XCOMP 4|3|OBJ 5|1|ADVMOD 6|1|PUNCT
+%wor:	vamos 700343_700523 a 700523_700543 echar 700543_700784 esto 700804_700944 aquí 700984_701484 .
+*CHI:	[- eng] hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ayúdame . 701845_702345
+%mor:	intj|ayúdame .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ayúdame 701845_702345 .
+*MOT:	ayúdame . 703366_703866
+%mor:	intj|ayúdame .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ayúdame 703366_703866 .
+%com:	mother gasps .
+*MOT:	vamos a echarlo(s) porque estos no son tuyos . 704267_706349
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|echar-Inf-S sconj|porque pron|este-Dem-P1 adv|no aux|ser-Fin-Ind-Pres-P3 det|tuyo-Masc-Def-Prs-Plur-P .
+%gra:	1|8|ROOT 2|3|MARK 3|1|XCOMP 4|8|MARK 5|8|NSUBJ 6|8|ADVMOD 7|8|COP 8|1|ADVCL 9|1|PUNCT
+%wor:	vamos 704267_704488 a 704528_704548 echarlo(s) 704588_705068 porque 705068_705269 estos 705289_705449 no 705469_705549 son 705609_705769 tuyos 705849_706349 .
+*MOT:	uy .
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	uy .
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	uy .
+%mor:	intj|uy .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother and child put the toys in the bag .
+*MOT:	aquí . 714170_714670
+%mor:	adv|aquí .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	aquí 714170_714670 .
+*MOT:	aquí échalos [/] échalos aquí [=! gestures] . 714310_715630
+%mor:	adv|aquí noun|échalo-Masc-Plur adv|aquí .
+%gra:	1|2|ADVMOD 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	aquí 714310_714390 échalos 714410_714710 échalos 714710_715070 aquí 715130_715630 .
+%com:	mother gasps .
+*MOT:	el corralito también . 716672_717912
+%mor:	det|el-Masc-Def-Art-Sing noun|corralito-Masc adv|también .
+%gra:	1|2|DET 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	el 716672_716752 corralito 716792_717332 también 717412_717912 .
+*MOT:	el corralito . 717893_718513
+%mor:	det|el-Masc-Def-Art-Sing noun|corralito-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	el 717893_717993 corralito 718013_718513 .
+*MOT:	okay ?
+%mor:	intj|okay ?
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	y esto lo doblamos . 719113_720594
+%mor:	cconj|y pron|este-Dem-S1 pron|él-Prs-Acc-S3 verb|doblar-Fin-Ind-Pres-P1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|OBJ 4|4|ROOT 5|4|PUNCT
+%wor:	y 719113_719133 esto 719714_719894 lo 719954_720034 doblamos 720094_720594 .
+*MOT:	lo ponemos aquí . 721115_722195
+%mor:	pron|él-Prs-Acc-S3 verb|poner-Fin-Ind-Pres-P1 adv|aquí .
+%gra:	1|2|OBJ 2|3|ROOT 3|2|ADVMOD 4|2|PUNCT
+%wor:	lo 721115_721175 ponemos 721215_721615 aquí 721695_722195 .
+%com:	mother sniffles .
+*MOT:	vamos agarrar <esto esto> [/] esto . 724177_726178
+%mor:	verb|ir-Fin-Ind-Pres-P1 verb|agarrar-Inf-S pron|este-Dem-S1 .
+%gra:	1|3|ROOT 2|1|XCOMP 3|2|OBJ 4|1|PUNCT
+%wor:	vamos 724177_724417 agarrar 724457_724798 esto 724838_725058 esto 725298_725558 esto 725678_726178 .
+%com:	mother gasps .
+*MOT:	vamos a ver qué hay aquí ! 726239_727479
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|ver-Inf-S pron|qué-Int-S1 verb|haber-Fin-Ind-Pres-S3 adv|aquí !
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|5|NSUBJ 5|3|CCOMP 6|5|ADVMOD 7|1|PUNCT
+%wor:	vamos 726239_726479 a 726519_726539 ver 726579_726719 qué 726779_726839 hay 726839_726959 aquí 726979_727479 !
+@Situation:	Food toys 12:07-15:13
+*CHI:	mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	es tuyo ?
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%com:	mother gasps .
+*MOT:	wuau .
+%mor:	propn|wuau .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	tu nombre !
+%mor:	det|tu-Def-Prs-Sing-S noun|nombre-Masc !
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	qué es eso ? 733930_734790
+%mor:	pron|qué-Int-S1 aux|ser-Fin-Ind-Pres-S3 pron|ese-Dem-S1 ?
+%gra:	1|3|NSUBJ 2|3|COP 3|3|ROOT 4|3|PUNCT
+%wor:	qué 733930_733990 es 733990_734190 eso 734290_734790 ?
+*MOT:	para acá Brianna . 736312_737173
+%mor:	adp|para adv|acá propn|brianna .
+%gra:	1|2|CASE 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	para 736312_736473 acá 736493_736673 Brianna 736673_737173 .
+*MOT:	siéntate de este lado . 737153_738274
+%mor:	verb|siéntate-Fin-Ind-Pres-S1 adp|de det|este-Masc-Def-Dem-Sing noun|lado-Masc .
+%gra:	1|4|ROOT 2|4|CASE 3|4|DET 4|1|OBL 5|1|PUNCT
+%wor:	siéntate 737153_737474 de 737514_737554 este 737594_737714 lado 737774_738274 .
+*MOT:	vas a jugar a la comidita ? 740277_742679
+%mor:	verb|ir-Fin-Ind-Pres-S adp|a verb|jugar-Inf-S adp|a det|el-Fem-Def-Art-Sing noun|comidita-Fem ?
+%gra:	1|6|ROOT 2|3|MARK 3|1|XCOMP 4|6|CASE 5|6|DET 6|3|OBL 7|1|PUNCT
+%wor:	vas 740277_740417 a 740477_740497 jugar 740557_740938 a 741999_742019 la 742059_742119 comidita 742179_742679 ?
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child sets up tablecloth .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother gasps .
+*MOT:	una donat . 749680_750440
+%mor:	det|uno-Fem-Ind-Art-Sing noun|donat-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 749680_749820 donat 749940_750440 .
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	+< sí .
+%mor:	intj|sí .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	echa la dona(t) aquí [=! gestures] . 752204_753324
+%mor:	verb|echar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|donat-Fem-Acc adv|aquí .
+%gra:	1|4|ROOT 2|3|DET 3|1|OBJ 4|1|ADVMOD 5|1|PUNCT
+%wor:	echa 752204_752384 la 752444_752524 dona(t) 752564_752824 aquí 752824_753324 .
+*MOT:	aquí échala &=points . 753566_754366
+%mor:	adv|aquí noun|échala-Fem .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	aquí 753566_753846 échala 753866_754366 .
+*MOT:	que echa la dona(t) aquí . 754908_756289
+%mor:	sconj|que verb|echar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Sing noun|donat-Fem-Acc adv|aquí .
+%gra:	1|2|MARK 2|5|ROOT 3|4|DET 4|2|OBJ 5|2|ADVMOD 6|2|PUNCT
+%wor:	que 754908_755008 echa 755028_755288 la 755368_755448 dona(t) 755509_755789 aquí 755789_756289 .
+*MOT:	es un helado ? 755929_758292
+%mor:	aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|helado-Masc ?
+%gra:	1|3|COP 2|3|DET 3|3|ROOT 4|3|PUNCT
+%wor:	es 755929_757612 un 757672_757772 helado 757792_758292 ?
+*MOT:	kétchup .
+%mor:	x|kétchup .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	qué le echas al kétchup Brianna ? 759414_763079
+%mor:	pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|echar-Fin-Ind-Pres-P1 adp|al noun|kétchup-Masc propn|brianna ?
+%gra:	1|3|NSUBJ 2|3|OBL-ARG 3|6|ROOT 4|5|CASE 5|3|OBL 6|5|APPOS 7|3|PUNCT
+%wor:	qué 759414_761798 le 761798_761858 echas 761878_762098 al 762138_762179 kétchup 762239_762559 Brianna 762579_763079 ?
+*MOT:	oh .
+%mor:	intj|oh .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	sí !
+%mor:	intj|sí !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ah .
+%mor:	x|ah .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	bravo . 767230_767730
+%mor:	adj|bravo-S1 .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	bravo 767230_767730 .
+*MOT:	ahí va el helado . 768430_769431
+%mor:	adv|ahí verb|ir-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|helado-Masc .
+%gra:	1|2|ADVMOD 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	ahí 768430_768671 va 768671_768751 el 768851_768891 helado 768931_769431 .
+%com:	mother gasps .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	aquí [/] aquí vamos a poner todo +... 771192_773514
+%mor:	adv|aquí verb|ir-Fin-Ind-Pres-P1 adp|a verb|poner-Inf-S pron|todo-Tot-S1 +...
+%gra:	1|2|ADVMOD 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|4|OBJ 6|2|PUNCT
+%wor:	aquí 771192_771853 aquí 771853_772433 vamos 772433_772673 a 772694_772714 poner 772774_772974 todo 773014_773514 +...
+*MOT:	una hamburguesa . 773714_774394
+%mor:	det|uno-Fem-Ind-Art-Sing noun|hamburguesa-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 773714_773854 hamburguesa 773894_774394 .
+*MOT:	unas papitas . 775015_775875
+%mor:	det|uno-Fem-Ind-Art-Plur noun|papita-Fem-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	unas 775015_775275 papitas 775375_775875 .
+*MOT:	un pedazo de pizza . 777157_778377
+%mor:	det|uno-Masc-Ind-Art-Sing noun|pedazo-Masc adp|de noun|pizza-Fem .
+%gra:	1|2|DET 2|4|ROOT 3|4|CASE 4|2|NMOD 5|2|PUNCT
+%wor:	un 777157_777217 pedazo 777337_777637 de 777677_777757 pizza 777877_778377 .
+*MOT:	unos hongos . 780099_780959
+%mor:	det|uno-Masc-Ind-Art-Plur noun|hongo-Masc-Plur .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	unos 780099_780339 hongos 780459_780959 .
+%com:	mother gasps .
+*MOT:	mira <las papas> [/] las papas aquí las vamos a echar . 781830_783991
+%mor:	verb|mirar-Fin-Ind-Pres-S3 det|el-Fem-Def-Art-Plur noun|papas-Fem-Plur-Acc adv|aquí pron|él-Prs-Acc-P3 verb|ir-Fin-Ind-Pres-P1 adp|a verb|echar-Inf-S .
+%gra:	1|8|ROOT 2|3|DET 3|1|OBJ 4|6|ADVMOD 5|6|OBJ 6|1|ADVCL 7|8|MARK 8|6|XCOMP 9|1|PUNCT
+%wor:	mira 781830_781970 las 782010_782150 papas 782190_782490 las 782570_782690 papas 782710_782990 aquí 783030_783231 las 783231_783291 vamos 783291_783451 a 783451_783471 echar 783491_783991 .
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mira [=! gestures] . 785432_785932
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 785432_785932 .
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	0 [=! gets toy] .
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*CHI:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child pretends to eat and mother laughs .
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	qué [/] <qué más> [/] qué más hay aquí ? 795159_796859
+%mor:	pron|qué-Int-S1 adv|más verb|haber-Fin-Ind-Pres-S3 adv|aquí ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|4|ROOT 4|3|ADVMOD 5|3|PUNCT
+%wor:	qué 795159_795399 qué 795399_795539 más 795539_795759 qué 795899_796039 más 796039_796179 hay 796179_796339 aquí 796359_796859 ?
+*CHI:	xxx .
+*MOT:	+< mira . 799070_799570
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 799070_799570 .
+*MOT:	vamos hacer un sándwich . 799730_800771
+%mor:	verb|ir-Fin-Ind-Pres-P1 verb|hacer-Inf-S det|uno-Masc-Ind-Art-Sing noun|sándwich-Masc-Acc .
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	vamos 799730_799890 hacer 799890_800131 un 800151_800231 sándwich 800271_800771 .
+*MOT:	quieres hacer +... 800711_801431
+%mor:	verb|querer-Fin-Ind-Pres-S1 verb|hacer-Inf-S +...
+%gra:	1|2|ROOT 2|1|XCOMP 3|1|PUNCT
+%wor:	quieres 800711_800931 hacer 800931_801431 +...
+*MOT:	te gusta el [//] una hamburguesa ? 803474_805014
+%mor:	pron|tú-Prs-Dat-S2 verb|gustar-Fin-Ind-Pres-S3 det|uno-Fem-Ind-Art-Sing noun|hamburguesa-Fem ?
+%gra:	1|2|OBL-ARG 2|4|ROOT 3|4|DET 4|2|NSUBJ 5|2|PUNCT
+%wor:	te 803474_803554 gusta 803594_803854 el 803894_803934 una 804394_804514 hamburguesa 804514_805014 ?
+%com:	mother stutters una .
+*MOT:	quieres hamburguesa Brianna ? 805716_807036
+%mor:	verb|querer-Fin-Ind-Pres-S1 noun|hamburguesa-Fem-Acc propn|brianna ?
+%gra:	1|3|ROOT 2|1|OBJ 3|2|APPOS 4|1|PUNCT
+%wor:	quieres 805716_805916 hamburguesa 805956_806496 Brianna 806536_807036 ?
+*MOT:	una hamburguesa . 808498_809138
+%mor:	det|uno-Fem-Ind-Art-Sing noun|hamburguesa-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	una 808498_808618 hamburguesa 808638_809138 .
+*MOT:	a ver qué le echamos ? 809539_810399
+%mor:	adp|a verb|ver-Inf-S pron|qué-Int-S1 pron|él-Prs-Dat-S3 verb|echar-Fin-Ind-Pres-P1 ?
+%gra:	1|2|MARK 2|5|ADVCL 3|5|NSUBJ 4|5|OBL-ARG 5|5|ROOT 6|5|PUNCT
+%wor:	a 809539_809559 ver 809599_809679 qué 809719_809819 le 809819_809879 echamos 809899_810399 ?
+*CHI:	a ver .
+%mor:	det|a-Ind-Art noun|ver .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	el queso .
+%mor:	det|el-Masc-Def-Art-Sing noun|queso-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+*MOT:	la lechuga . 813620_814300
+%mor:	det|el-Fem-Def-Art-Sing noun|lechuga-Fem .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	la 813620_813700 lechuga 813800_814300 .
+*CHI:	mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	el tomate . 816887_817587
+%mor:	det|el-Masc-Def-Art-Sing noun|tomate-Masc .
+%gra:	1|2|DET 2|2|ROOT 3|2|PUNCT
+%wor:	el 816887_816987 tomate 817087_817587 .
+*MOT:	quieres cortar el limón ? 818751_820313
+%mor:	verb|querer-Fin-Ind-Pres-S1 verb|cortar-Inf-S det|el-Masc-Def-Art-Sing noun|limón-Masc-Acc ?
+%gra:	1|4|ROOT 2|1|XCOMP 3|4|DET 4|2|OBJ 5|1|PUNCT
+%wor:	quieres 818751_819452 cortar 819452_819733 el 819733_819793 limón 819813_820313 ?
+*MOT:	hm !
+%mor:	intj|hm !
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	este se corta con el cuchillo . 827800_828980
+%mor:	pron|este-Dem-S1 pron|él-Prs-Acc-reflx-S3 verb|cortar-Fin-Ind-Pres-S3 adp|con det|el-Masc-Def-Art-Sing noun|cuchillo-Masc .
+%gra:	1|3|NSUBJ 2|3|EXPL-PV 3|6|ROOT 4|6|CASE 5|6|DET 6|3|OBL 7|3|PUNCT
+%wor:	este 827800_827900 se 827900_827980 corta 828040_828240 con 828260_828360 el 828360_828400 cuchillo 828480_828980 .
+*CHI:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	+< con este [=! gestures] . 829141_829842
+%mor:	adp|con pron|este-Dem-S1 .
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+%wor:	con 829141_829262 este 829342_829842 .
+*MOT:	así mira . 830383_831123
+%mor:	adv|así noun|mira .
+%gra:	1|2|ROOT 2|1|FIXED 3|1|PUNCT
+%wor:	así 830383_830623 mira 830623_831123 .
+*MOT:	así Brianna . 831405_832105
+%mor:	adv|así propn|brianna .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	así 831405_831605 Brianna 831605_832105 .
+*MOT:	ves ? 831945_832445
+%mor:	verb|ver-Fin-Ind-Pres-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ves 831945_832445 ?
+*MOT:	hm@fp .
+%mor:	fp|hm .
+%gra:	1|1|FLAT 2|1|PUNCT
+*MOT:	así [=! gestures] .
+%mor:	adv|así .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	tú . 836432_836932
+%mor:	x|tú .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tú 836432_836932 .
+*MOT:	tú . 838595_839095
+%mor:	x|tú .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	tú 838595_839095 .
+*CHI:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	pura comida . 841639_842399
+%mor:	adj|puro-S1 noun|comida-Fem .
+%gra:	1|2|AMOD 2|2|ROOT 3|2|PUNCT
+%wor:	pura 841639_841779 comida 841899_842399 .
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child pretends to eat .
+*MOT:	mmm .
+%mor:	intj|mmm .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	[- hun] esto es un hot_dog .
+%mor:	pron|este-Dem-S1 aux|ser-Fin-Ind-Pres-S3 det|uno-Masc-Ind-Art-Sing noun|hotdog-Masc .
+%gra:	1|4|NSUBJ 2|4|COP 3|4|DET 4|4|ROOT 5|4|PUNCT
+*MOT:	mira . 850170_850670
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 850170_850670 .
+*MOT:	así [=! gestures] . 850630_851130
+%mor:	adv|así .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	así 850630_851130 .
+*MOT:	así Brianna . 851771_852631
+%mor:	adv|así propn|brianna .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	así 851771_852131 Brianna 852131_852631 .
+*MOT:	ves ? 852591_853091
+%mor:	verb|ver-Fin-Ind-Pres-S ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ves 852591_853091 ?
+%com:	mother gasps .
+*MOT:	okay .
+%mor:	intj|okay .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	qué ? 853032_853532
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	qué 853032_853532 ?
+*CHI:	xxx .
+*MOT:	<no no no no no> [/] no . 861438_862599
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 861438_861498 no 861578_861638 no 861698_861758 no 861838_861898 no 861958_862038 no 862099_862599 .
+*CHI:	no . 862219_862719
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 862219_862719 .
+*CHI:	xxx .
+*MOT:	no [/] no . 863159_863879
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 863159_863239 no 863379_863879 .
+*MOT:	<esto ya jugamos> [/] esto ya jugamos . 864080_865561
+%mor:	pron|este-Dem-S1 adv|ya verb|jugamo-Fin-Ind-Pres-P1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|3|ROOT 4|3|PUNCT
+%wor:	esto 864080_864160 ya 864160_864200 jugamos 864200_864580 esto 864721_864941 ya 864981_865021 jugamos 865061_865561 .
+*CHI:	+< mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	ya no . 865422_866062
+%mor:	adv|ya adv|no .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	ya 865422_865502 no 865562_866062 .
+%com:	child screams and claps .
+*CHI:	mío .
+%mor:	x|mío .
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	child starts to say a word before last utterance .
+*MOT:	es tuyo ? 870451_871071
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|tuyo-Prs-S1 ?
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+%wor:	es 870451_870531 tuyo 870571_871071 ?
+%com:	mother moves the bag to another place of the room .
+*MOT:	la voy a poner aquí . 870872_871813
+%mor:	pron|él-Prs-Acc-S3 verb|ir-Fin-Ind-Pres-S1 adp|a verb|poner-Inf-S adv|aquí .
+%gra:	1|2|OBJ 2|5|ROOT 3|4|MARK 4|2|XCOMP 5|2|ADVMOD 6|2|PUNCT
+%wor:	la 870872_870932 voy 871052_871132 a 871172_871192 poner 871192_871313 aquí 871313_871813 .
+*CHI:	es mío .
+%mor:	aux|ser-Fin-Ind-Pres-S3 pron|mío-Prs-S1 .
+%gra:	1|2|COP 2|2|ROOT 3|2|PUNCT
+*CHI:	[- eng] hey .
+%mor:	intj|hey .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	qué ?
+%mor:	pron|qué-Int-S1 ?
+%gra:	1|1|ROOT 2|1|PUNCT
+%com:	mother sniffles .
+*MOT:	a ver el helado . 881240_882080
+%mor:	adp|a verb|ver-Inf-S det|el-Masc-Def-Art-Sing noun|helado-Masc-Acc .
+%gra:	1|2|MARK 2|4|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+%wor:	a 881240_881260 ver 881280_881420 el 881460_881560 helado 881580_882080 .
+*MOT:	a dónde va el helado ? 881961_882901
+%mor:	adp|a adv|dónde verb|ir-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|helado-Masc ?
+%gra:	1|2|CASE 2|3|ADVMOD 3|5|ROOT 4|5|DET 5|3|NSUBJ 6|3|PUNCT
+%wor:	a 881961_881981 dónde 882021_882221 va 882261_882321 el 882341_882401 helado 882401_882901 ?
+*MOT:	acomoda el helado . 883042_884023
+%mor:	verb|acomor-Fin-Ind-Pres-S3 det|el-Masc-Def-Art-Sing noun|helado-Masc-Acc .
+%gra:	1|3|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+%wor:	acomoda 883042_883423 el 883443_883503 helado 883523_884023 .
+*MOT:	ay . 884905_885405
+%mor:	x|ay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ay 884905_885405 .
+*MOT:	Dios mío . 885205_886166
+%mor:	propn|Dios det|mío-Masc-Def-Prs-Sing-S .
+%gra:	1|2|ROOT 2|1|FLAT 3|1|PUNCT
+%wor:	Dios 885205_885485 mío 885666_886166 .
+%com:	child throws all toys on the floor .
+*MOT:	por qué ?
+%mor:	adp|por pron|qué-Int-S1 ?
+%gra:	1|2|CASE 2|2|ROOT 3|2|PUNCT
+*MOT:	qué hiciste ? 887709_892034
+%mor:	pron|qué-Int-S1 verb|hacer-Fin-Ind-Pres-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	qué 887709_891534 hiciste 891534_892034 ?
+*MOT:	<no no> [/] no Brianna . 894378_896059
+%mor:	adv|no propn|brianna .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	no 894378_894498 no 895239_895339 no 895339_895459 Brianna 895559_896059 .
+*MOT:	no . 896500_897000
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 896500_897000 .
+*MOT:	no . 897040_897540
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 897040_897540 .
+%com:	mother gasps .
+*MOT:	qué hiciste ? 899223_899864
+%mor:	pron|qué-Int-S1 verb|hacer-Fin-Ind-Pres-S1 ?
+%gra:	1|2|NSUBJ 2|2|ROOT 3|2|PUNCT
+%wor:	qué 899223_899364 hiciste 899364_899864 ?
+*MOT:	mira . 900045_900545
+%mor:	verb|mirar-Fin-Ind-Pres-S .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	mira 900045_900545 .
+*MOT:	no . 904210_904710
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 904210_904710 .
+%com:	child is messing up toys .
+*MOT:	Brianna .
+%mor:	propn|Brianna-Nom .
+%gra:	1|1|ROOT 2|1|PUNCT
+*MOT:	no . 905412_905912
+%mor:	adv|no .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	no 905412_905912 .
+%com:	child spreads out toys on the floor .
+*MOT:	ay . 907154_907654
+%mor:	x|ay .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	ay 907154_907654 .
+*MOT:	diosito . 907375_907875
+%mor:	noun|diosito-Masc .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	diosito 907375_907875 .
+*MOT:	no Brianna . 908356_909036
+%mor:	adv|no propn|brianna .
+%gra:	1|2|ADVMOD 2|2|ROOT 3|2|PUNCT
+%wor:	no 908356_908456 Brianna 908536_909036 .
+*MOT:	junta . 908877_909377
+%mor:	noun|junta-Fem .
+%gra:	1|1|ROOT 2|1|PUNCT
+%wor:	junta 908877_909377 .
+*MOT:	junta todo . 909398_910218
+%mor:	noun|junta-Fem pron|todo-Tot-S1 .
+%gra:	1|2|ROOT 2|1|OBJ 3|1|PUNCT
+%wor:	junta 909398_909638 todo 909718_910218 .
+*MOT:	vamos a juntar . 910239_911039
+%mor:	verb|ir-Fin-Ind-Pres-P1 adp|a verb|juntar-Inf-S .
+%gra:	1|3|ROOT 2|3|MARK 3|1|XCOMP 4|1|PUNCT
+%wor:	vamos 910239_910439 a 910459_910479 juntar 910539_911039 .
+*MOT:	junta y lo pones aquí [=! gestures] . 911271_912575
+%mor:	noun|junta-Fem cconj|y pron|él-Prs-Acc-S3 verb|pón-Fin-Ind-Pres-S1 adv|aquí .
+%gra:	1|5|ROOT 2|4|CC 3|4|OBJ 4|1|CONJ 5|4|ADVMOD 6|1|PUNCT
+%wor:	junta 911271_911552 y 911612_911633 lo 911653_911713 pones 911753_912014 aquí 912075_912575 .
+*MOT:	Brianna te estoy . 912738_913559
+%mor:	propn|Brianna x|the x|estoy .
+%gra:	1|3|ROOT 2|1|FLAT 3|1|FLAT 4|1|PUNCT
+%wor:	Brianna 912738_912999 te 912999_913039 estoy 913059_913559 .
+%com:	video ends while mother is speaking .
+@End
